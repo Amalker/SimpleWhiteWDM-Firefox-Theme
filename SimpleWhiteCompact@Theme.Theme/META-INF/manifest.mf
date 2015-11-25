@@ -1,0 +1,4590 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EnIi/L8wIxGLZxmkcqSVSw==
+SHA1-Digest: 8QF6zk2WdX3E/arxJHATf8DAKCE=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kEEnPnazatda1mJctdcxTg==
+SHA1-Digest: YEHZ9/OxRINVUGaX8E7M+Vbrdd4=
+
+Name: icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dVeqv1s+hIb7vfYh1IpGAQ==
+SHA1-Digest: 9ZrEuSkXVrLsW2vDmynhEu3E5zk=
+
+Name: README.md
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XPrXpXXHjU5tmBj2N4AuSw==
+SHA1-Digest: 0xd7WlDSx0D3NuZm1D6hNng4Gy8=
+
+Name: screenshot.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IjLnlsotYsXxiJg3TzjDxQ==
+SHA1-Digest: jYyCNHXBmaqJBsgDm0d3OpRwVFk=
+
+Name: whitefox/apptarget/33/aboutReader.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: g0RgcatTo4x05hAM3ESeyA==
+SHA1-Digest: pJfZcLF0KlXd3jh76CyDyWJvcRM=
+
+Name: whitefox/apptarget/33/aboutSessionRestore.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VjmN5w9cImGvxk0zEZirZw==
+SHA1-Digest: 3OX88rIaGHBkaa2o/ttRs/WUXNo=
+
+Name: whitefox/apptarget/33/aboutSupport.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: olxobj21lECbijWank6KDA==
+SHA1-Digest: fI6L9hinxWNwx4bFT+L2AZxyaoc=
+
+Name: whitefox/apptarget/33/aboutTabCrashed.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7NBkCNGJN0xFUL00e48aYA==
+SHA1-Digest: 3+qdzOt2wiaRinEaUVwWsZ6Wjms=
+
+Name: whitefox/apptarget/33/aboutWelcomeBack.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1c1iY6P9BvLZiilfOXjCTA==
+SHA1-Digest: NSAgmsxG8jS7kJ9JLf/vhHO18Ok=
+
+Name: whitefox/apptarget/33/config.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tvj8fxSHXsaObJcbBtDmMQ==
+SHA1-Digest: 2RTBU8T6L420jo2wTpJkr8/+AOo=
+
+Name: whitefox/apptarget/33/tabbox_darwin.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TxxCKU89luLV/vN956WwjA==
+SHA1-Digest: kOEkbpktWIza3Wm+1O6/bBxmFeU=
+
+Name: whitefox/apptarget/33/tabbox_general.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ORHrWopy2OG/vbSEj1UcJQ==
+SHA1-Digest: +QLFC40uAgr+mE2oVJRSbyPPjT8=
+
+Name: whitefox/apptarget/38/aboutReader.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z+/A863YjtWxza88yWLJwg==
+SHA1-Digest: l+lKB74rZQY3Uwj/E4uqfXM0SQ4=
+
+Name: whitefox/apptarget/38/aboutSessionRestore.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pziQWi5GyP+s7SpRcaDtdQ==
+SHA1-Digest: 0hJNxcyJUAjY1LBFmC4mzeL5F0U=
+
+Name: whitefox/apptarget/38/aboutSupport.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sRIhYTiOi4o4uniKjQ4nng==
+SHA1-Digest: 8cMOVYk+HF5tnYlMCmmcVjYh7I4=
+
+Name: whitefox/apptarget/38/aboutTabCrashed.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YFFPMHEtJaDPMR3jkkHEiA==
+SHA1-Digest: pzw2spPupbjUINGav2HZqQrbjz4=
+
+Name: whitefox/apptarget/38/aboutWelcomeBack.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WCvGzuK16vnmBUqGytbA1A==
+SHA1-Digest: qg06iLtVKyYvWlNfd5ABzq+z+jc=
+
+Name: whitefox/apptarget/38/config.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qZkRSGi/lenaroKqMdYNJw==
+SHA1-Digest: wTr4V/98szorWK0TUmrkgopWWkY=
+
+Name: whitefox/apptarget/38/tabbox_darwin.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TxxCKU89luLV/vN956WwjA==
+SHA1-Digest: kOEkbpktWIza3Wm+1O6/bBxmFeU=
+
+Name: whitefox/apptarget/38/tabbox_general.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ORHrWopy2OG/vbSEj1UcJQ==
+SHA1-Digest: +QLFC40uAgr+mE2oVJRSbyPPjT8=
+
+Name: whitefox/apptarget/39/aboutReader.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z+/A863YjtWxza88yWLJwg==
+SHA1-Digest: l+lKB74rZQY3Uwj/E4uqfXM0SQ4=
+
+Name: whitefox/apptarget/39/aboutSessionRestore.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IABUf9XT8bSi89xg+LRhLg==
+SHA1-Digest: 9EgTs7TRQZYwo7NnNkM4Ccl9bAA=
+
+Name: whitefox/apptarget/39/aboutSupport.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sRIhYTiOi4o4uniKjQ4nng==
+SHA1-Digest: 8cMOVYk+HF5tnYlMCmmcVjYh7I4=
+
+Name: whitefox/apptarget/39/aboutTabCrashed.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YFFPMHEtJaDPMR3jkkHEiA==
+SHA1-Digest: pzw2spPupbjUINGav2HZqQrbjz4=
+
+Name: whitefox/apptarget/39/aboutWelcomeBack.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WCvGzuK16vnmBUqGytbA1A==
+SHA1-Digest: qg06iLtVKyYvWlNfd5ABzq+z+jc=
+
+Name: whitefox/apptarget/39/config.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qZkRSGi/lenaroKqMdYNJw==
+SHA1-Digest: wTr4V/98szorWK0TUmrkgopWWkY=
+
+Name: whitefox/apptarget/39/tabbox_darwin.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8O9XhBYsEgxw6ar2WPJejw==
+SHA1-Digest: YvlVhw7b8ltseb5BOGSWUIUFME0=
+
+Name: whitefox/apptarget/39/tabbox_general.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VZ84HSb2tWEJjdWIRmiBXA==
+SHA1-Digest: rhfvrdFYOcjr2ZvbIOehfShrTQY=
+
+Name: whitefox/browser/aboutCertError.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VKDmC9sdv4GzL3SnhbgqHA==
+SHA1-Digest: 617FmczbbkvNaXfeM7JGSj/J7sg=
+
+Name: whitefox/browser/aboutCertError_sectionCollapsed-rtl.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GdpesiG5B/7T4REsnqzmpQ==
+SHA1-Digest: MmYdnalleHw82AtyxnHgpD8nuA0=
+
+Name: whitefox/browser/aboutCertError_sectionCollapsed.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sqQcPyx45DcWB8QlgIE2UA==
+SHA1-Digest: if3ODSLP/NkAb1XX7bwXvp8dhak=
+
+Name: whitefox/browser/aboutCertError_sectionExpanded.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /Wdrc61Nn+QA4EBxygEAfg==
+SHA1-Digest: +zLb84ID5DawJaxfAHvRxl4S29I=
+
+Name: whitefox/browser/aboutNetError.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cbFrORTgmeWUf0hX7eBFaA==
+SHA1-Digest: 9obCz3f8BLp9HN0gZwu3K7v1Srg=
+
+Name: whitefox/browser/aboutNetError_alert.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9IPqz1QKsQxG9VHZbBRV6w==
+SHA1-Digest: H/a2+MCkFKceorn43/SIHyIt+HA=
+
+Name: whitefox/browser/aboutNetError_info.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CSIJ1xrxtGVGzqawIWGX8g==
+SHA1-Digest: zLiFRGM8Vd/i/5Ax3Z5Yenj80I8=
+
+Name: whitefox/browser/aboutNetError_info@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VSohlLEFKk9Lfqzj/8jIAQ==
+SHA1-Digest: szyl8tOpAMZ/fTyMV6lMXyRGe/I=
+
+Name: whitefox/browser/aboutPrivateBrowsing.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5RpVj8w9ijIUb1/NjUAbqA==
+SHA1-Digest: aj9m/UltPORmz2pedB4l8hzIDqA=
+
+Name: whitefox/browser/aboutProviderDirectory.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: E7sMBzx11jFvLQRx86XAWQ==
+SHA1-Digest: 9kgytYw4FCe82C1sXHXXjCMmEqU=
+
+Name: whitefox/browser/aboutSessionRestore-window-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rAoV7RSWMD3omTkaty+iTQ==
+SHA1-Digest: toZeg7hDAtKWuHUo/rj3cr9BCgs=
+
+Name: whitefox/browser/aboutSessionRestore.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FSOleLdehSGKPICe7GbRlw==
+SHA1-Digest: XNu3dByudk/qPskvwGZ6eDdHUII=
+
+Name: whitefox/browser/aboutSocialError.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RaOqofNIBK9Ztl2tXrx3Fw==
+SHA1-Digest: TIyFymMWFd0B+sKw/nJgTi1+dq0=
+
+Name: whitefox/browser/aboutSyncTabs.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EeICs7Pc1WG07bmS3HG4lg==
+SHA1-Digest: TDJ0CiLsdQ2ZmgzEUey/g+F/gn4=
+
+Name: whitefox/browser/aboutTabCrashed.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ymGfvKVaGUol0OTK1JTm6g==
+SHA1-Digest: 58KsH2ML+CJsb2WazdbJ0kqV+dM=
+
+Name: whitefox/browser/aboutWelcomeBack.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 50L+d5A8CxgMFZUJCHw/ww==
+SHA1-Digest: QDVvysGsH0EzBiPavRoEUqWiKdY=
+
+Name: whitefox/browser/actionicon-tab.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Zg1FbnM/gPILHt0BsrUnVA==
+SHA1-Digest: GJcsB5k5+l0hHQ9bZjdGhcZk8+c=
+
+Name: whitefox/browser/bad-content-blocked-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: O7kkwJh47RFHgsCJGdiFAA==
+SHA1-Digest: LwJ0jKieb4LGplJrlbvdPIgACeE=
+
+Name: whitefox/browser/bad-content-blocked-16@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fqJQP3/vGEdw7tK5oDZ5kQ==
+SHA1-Digest: sryyMvQPOHoVU1bAPlBuCEn4x+Q=
+
+Name: whitefox/browser/bad-content-blocked-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Cv2HJIMLCOEueDlsVSvgSA==
+SHA1-Digest: MS1rB9kb1mkPErkqUDCoBsLETdY=
+
+Name: whitefox/browser/bad-content-unblocked-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0OpqyZnos78fjLx194gjuQ==
+SHA1-Digest: QMUy7w+PHtTJFi/8O82OuFB0Rcc=
+
+Name: whitefox/browser/bad-content-unblocked-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gW12LUNCSmrjY9+bv8IdbQ==
+SHA1-Digest: yZL7pxnwLQkrt+J2KLu7MVfLUKs=
+
+Name: whitefox/browser/badge-add-engine.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a80nfDfP6uY+zQS8yQa5IA==
+SHA1-Digest: 4vlw7/VGStRjRmXoCkdcuTHjn/M=
+
+Name: whitefox/browser/browser-common.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PI9pgL0rbtqVeJBTeW9uxw==
+SHA1-Digest: ZkeWxOjfkOjnCD+oAyDitSPD/Ew=
+
+Name: whitefox/browser/browser-lightweightTheme.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1B2M2Y8AsgTpgAmY7PhCfg==
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: whitefox/browser/browser.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jZIdwdYZ/EyGcxj+gZJqZQ==
+SHA1-Digest: Lfijy4jXC456vppaVMxDe2L3nR4=
+
+Name: whitefox/browser/caption-buttons.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0CUJy+yfQkJ6H5kCsUvHZA==
+SHA1-Digest: WWZwgMNfdDnHLWXbuz/gY8/b+wk=
+
+Name: whitefox/browser/click-to-play-warning-stripes.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kuBDDiFKhTG78s9nJylIew==
+SHA1-Digest: e9HtsvRGOiUJXrP2eTBNAn9W4zM=
+
+Name: whitefox/browser/drm-icon.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: djMUqui2JICAI7cws4YBpw==
+SHA1-Digest: 6m4lp43ghXZLSfd2EGR6NdANeCs=
+
+Name: whitefox/browser/e10s-64@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2g2AKmLWexBrQpvbIekrLA==
+SHA1-Digest: Ec2q8trnRXQcEte815Oh7ou99z0=
+
+Name: whitefox/browser/engineManager.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: I/yKOvSv0oX+pTsWR4XLfw==
+SHA1-Digest: Rz213mGo64qBKBCIkbbSCbkJlAE=
+
+Name: whitefox/browser/fullscreen-darknoise.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vM7JhsBeR64Ti6GR0sWIWA==
+SHA1-Digest: xBHewb3wRvyI1c67FF2Ydi6Wa4E=
+
+Name: whitefox/browser/Geolocation-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6ZAwHqfF65c6nPVoIhxUlg==
+SHA1-Digest: VHLRUK2jCdzkybHBojrgCgnhlDo=
+
+Name: whitefox/browser/Geolocation-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YoH+e6L3aKD8WiZ0CNzzEg==
+SHA1-Digest: M1Qj05BAgVD4uo/jy1EvN7V0dco=
+
+Name: whitefox/browser/heartbeat-icon.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dO91b45daHblewreOlVOYA==
+SHA1-Digest: 7JKOkZkwBD9yi7CtgjLJeqG2f+I=
+
+Name: whitefox/browser/heartbeat-star-lit.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gE8yB6vdM+IrH/wCuKvD3Q==
+SHA1-Digest: xzEXKG12ZPrzQRMCo5BAWOpEsI4=
+
+Name: whitefox/browser/heartbeat-star-off.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5VQDjOtaupP5H9mdi86R2w==
+SHA1-Digest: y5v/U9fiO2NjiCSG/JDE8tgSU+w=
+
+Name: whitefox/browser/identity-icons-generic.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3qTrriqLvoqR1IQm6M455g==
+SHA1-Digest: 2Y8dYMkstMW+Wuu2X/0jGzECijY=
+
+Name: whitefox/browser/identity-icons-https-ev.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2HGtjmC9S1iNt9wlEVSgEQ==
+SHA1-Digest: YnE2vWCbhzNeLyBov7Uc1XHXH+E=
+
+Name: whitefox/browser/identity-icons-https-mixed-active.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rpQl/Jm6ZSlNHM4OTVKORA==
+SHA1-Digest: SIfaN9b7jO7rL5jMJkirbFjAbqc=
+
+Name: whitefox/browser/identity-icons-https-mixed-display.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tfHhCM5EudhQdtvTt/JcKg==
+SHA1-Digest: 40adP8xL/KVGkw+Zk2ksBGt4kWA=
+
+Name: whitefox/browser/identity-icons-https.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gaU9M++P5Y/0/05XHrOwlA==
+SHA1-Digest: bbEYbVaY0m9CbdO2KPBewZmXtKM=
+
+Name: whitefox/browser/identity.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XvynytbS4z8M78vwlMk/wA==
+SHA1-Digest: MDoxB95ybrbWOdvK5Mzt6DL9C/k=
+
+Name: whitefox/browser/Info.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BGwQFaP4lBBoQYA4qzCZHA==
+SHA1-Digest: nKgun3USVe4PvUdTmN8cAfyAM4M=
+
+Name: whitefox/browser/keyhole-forward-mask.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: R/zMujyewdfod3OEVEx1eg==
+SHA1-Digest: 0D26xknRnuKBqucpqaFS/pADCMg=
+
+Name: whitefox/browser/KUI-background.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kVeNb7/t5raKEJfUwxfaMw==
+SHA1-Digest: gSa2k13aqEeXSpZDSGOSM7AEz7k=
+
+Name: whitefox/browser/KUI-close.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /DeHhQbVOYmU/KcIT1SY1Q==
+SHA1-Digest: xKxwr3Y3e8PzieLRhJ6rCNhP5cQ=
+
+Name: whitefox/browser/livemark-folder.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: C627sqFOsv17KL5+Fu2kJQ==
+SHA1-Digest: MPNlXr01x/Rkh3VSLohEQmuYS0A=
+
+Name: whitefox/browser/magnifier.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /Qegf0K9BH8VrRb/BAd0og==
+SHA1-Digest: Kw9I57eaibPbWqr8fXn2FvKhP4U=
+
+Name: whitefox/browser/magnifier@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ANK9oighbOPEfA8RzHH5jQ==
+SHA1-Digest: QuqMH3Xjhb9fLzRG4QBPfQqrq2c=
+
+Name: whitefox/browser/mask.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pgX8DOTEpbKjkAhrv7LHRQ==
+SHA1-Digest: xQjmrQPJT/WGB7CLYY77nBmRs5I=
+
+Name: whitefox/browser/mask@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vkpvqhXozua87cE80QE6VA==
+SHA1-Digest: ZycJb34X+INjQocq/YieSjnZy/0=
+
+Name: whitefox/browser/menu-back.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0WhMXSFoGsqjiH2I4Deqtw==
+SHA1-Digest: 8j+xeMcHj9q0u1XAcTT7E4CL4cY=
+
+Name: whitefox/browser/menu-forward.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7bL3VBPlb8DoKvPy9060/g==
+SHA1-Digest: soepgfc9B5m2RkYGY7TJ+y5os8k=
+
+Name: whitefox/browser/menuPanel-aero.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qLf3ceUn/zu4wll+1d0phg==
+SHA1-Digest: K1lbrYoFJYehHSZ3cF1+lAEKkX4=
+
+Name: whitefox/browser/menuPanel-customize.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SeqcXcQ5oT6r/nVSpFQA9A==
+SHA1-Digest: fFS6to7mbgKnHBDuIO9cP25wpnY=
+
+Name: whitefox/browser/menuPanel-customize@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +Ufdaic29ZvRRxSut71ivg==
+SHA1-Digest: NEPB+MBWwqr3gXF7cXqYg7AwrBI=
+
+Name: whitefox/browser/menuPanel-exit.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zM4RnnIAewRr3ExnGxAI/w==
+SHA1-Digest: VoNXR/luplchpgpQQ2zUX5dBmqU=
+
+Name: whitefox/browser/menuPanel-exit@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lEVNpzxCH9CKp/nmCZHuEQ==
+SHA1-Digest: usPxBuZLi55UaR4XrxvQz1UyWQc=
+
+Name: whitefox/browser/menuPanel-help.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Nzcc7PlAgtE9BIfxgJcPbw==
+SHA1-Digest: 9gbKUxtWsuD0Yf4DcAtpd8QFajg=
+
+Name: whitefox/browser/menuPanel-help@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2yEL9nGD5FSoZUkZWeVnow==
+SHA1-Digest: FPliCxifsuZkgnJ9pjCCMP1Ytjg=
+
+Name: whitefox/browser/menuPanel-small-aero.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tjRdykI4Qr3Cm2hZHuGTdg==
+SHA1-Digest: teVQdmWohnhYwlfmODBLA1St5wE=
+
+Name: whitefox/browser/menuPanel-small.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tjRdykI4Qr3Cm2hZHuGTdg==
+SHA1-Digest: teVQdmWohnhYwlfmODBLA1St5wE=
+
+Name: whitefox/browser/menuPanel.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qLf3ceUn/zu4wll+1d0phg==
+SHA1-Digest: K1lbrYoFJYehHSZ3cF1+lAEKkX4=
+
+Name: whitefox/browser/Metro_Glyph-inverted.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SG4jrJCooFKUvOaGCBoqTQ==
+SHA1-Digest: oQVJaTDzN4F3GekBEEtuabnYrtk=
+
+Name: whitefox/browser/Metro_Glyph-menuPanel.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bG7Q9TOZWrqcwtpdSqZsgw==
+SHA1-Digest: rbpwiXTKCZXJGB00pKd5NP/A74k=
+
+Name: whitefox/browser/Metro_Glyph.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: j6gNoddurEUZPQZjl3Wdvw==
+SHA1-Digest: rmoOvnvsUlmEe3IwkWfqY7bGs08=
+
+Name: whitefox/browser/monitor.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: isGYyrusLserb/r+nwu1SQ==
+SHA1-Digest: owaUveMk2as0uOUykAdIbDajXkI=
+
+Name: whitefox/browser/monitor_16-10.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: h6IKRRukCspnsIQZ8pzZIA==
+SHA1-Digest: ILA/70eOSyxnUbrrC5o41jmCxXs=
+
+Name: whitefox/browser/notification-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XLbIAnbuU28VD5rP9q0ukA==
+SHA1-Digest: XTtn27lvPr4mMIG895Z7xi7MyLc=
+
+Name: whitefox/browser/notification-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iroPa7UCrc7T4LAtRVhgsA==
+SHA1-Digest: nPlm0EhD4sS4+psYJEZ3/XW4dJI=
+
+Name: whitefox/browser/notification-pluginAlert.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zy8Uqu+384CDb1rnkAUnPw==
+SHA1-Digest: iILm9a60WMbQ4tyn9vZR/tw6hSA=
+
+Name: whitefox/browser/notification-pluginBlocked.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JQR41SQoXsV46QO+cnXwRw==
+SHA1-Digest: kuIEzIRQ9pczeIMJ6ufUFCePr4s=
+
+Name: whitefox/browser/notification-pluginNormal.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5sycQtGHEdAGT/mjm6J4jw==
+SHA1-Digest: wV19zHHL4BMexdr6Y0Fl6T3YR2g=
+
+Name: whitefox/browser/page-livemarks.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sGaEL+EGybPGHTx4SYKOgA==
+SHA1-Digest: 41ND1Smv8UtRyNlLfDrcUnhj9Uw=
+
+Name: whitefox/browser/pageInfo.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 88GhQUuXtr4PcYSUE5Qyuw==
+SHA1-Digest: yF7N/PYRonKtDXbOqMWFMn8plCk=
+
+Name: whitefox/browser/pageInfo.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QYTg7g880NyqwuYeNyKL4w==
+SHA1-Digest: 1/24XAUi0A94WkCizjRUGktA/PI=
+
+Name: whitefox/browser/pluginInstall-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nj8vK4NdJ3DXe8ovQKjJ/Q==
+SHA1-Digest: 3caXXbEZ4M+s+ZGpXpLRc8hRkDs=
+
+Name: whitefox/browser/pluginInstall-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VkpbZpVinpQ7wjx1SHZUWA==
+SHA1-Digest: jTFXA2/dZ6v5u3gUgiZZt1k1L8I=
+
+Name: whitefox/browser/pointerLock-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zahNcMM2YFzcS362OLVopg==
+SHA1-Digest: ++/Iq09AtZ86mfXETKskv2jL5Ok=
+
+Name: whitefox/browser/pointerLock-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jAYh/ABAKMUa0T9ttGIT8Q==
+SHA1-Digest: e8k107HQKeEBqR1xHXUi3soL3Nk=
+
+Name: whitefox/browser/Privacy-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Go+l2lzxzyyD3sHjkKaJHQ==
+SHA1-Digest: eqN/UP8oFrbQmcE13KEHY7Q5dgk=
+
+Name: whitefox/browser/Privacy-32.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MKk4YAn/DQXFxft0lEjK3w==
+SHA1-Digest: fr+hlfAssRSMDR/1gUlveHqk0/c=
+
+Name: whitefox/browser/Privacy-48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IREMP2QixHHtvrha+BP/eg==
+SHA1-Digest: Ctl2Pc7FJT9JHULOB41XBzMVk/I=
+
+Name: whitefox/browser/privatebrowsing-mask-tabstrip-XPVista7.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qyUJpHZkQoZl3+Ygl/TxgA==
+SHA1-Digest: 4fO8wMeJp6wwY62lcCYVFMxulDw=
+
+Name: whitefox/browser/privatebrowsing-mask-tabstrip.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hLrP8K4PHYG8i8LhkFKvoA==
+SHA1-Digest: ZD7bq0vxgvGzyf4MCX5eptzv7gc=
+
+Name: whitefox/browser/privatebrowsing-mask-titlebar-XPVista7-tall.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9TSQYGylVMWIGVp7GKUaIg==
+SHA1-Digest: VAkagRfsk+erFyTzFEgPQtDUFRI=
+
+Name: whitefox/browser/privatebrowsing-mask-titlebar-XPVista7.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Je6CmWceADM8OWyEsmn/0A==
+SHA1-Digest: TdUBu3zBcgxysRsc+OPa676fG1E=
+
+Name: whitefox/browser/privatebrowsing-mask-titlebar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6TbUFMdh5eHG7xR7PWvaNw==
+SHA1-Digest: P2sCUYteQewUQ+n1CHxCvHzgqt4=
+
+Name: whitefox/browser/Push-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Onrzbl494GuTDEYuGVQTiQ==
+SHA1-Digest: JU18/WxQ2OusVgiFVz+1txz7wzE=
+
+Name: whitefox/browser/Push-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: scMN1myKhZpovqr5G1VHYg==
+SHA1-Digest: rV90BjuQp6IRWkR0wqbE/xuxxAM=
+
+Name: whitefox/browser/reader-tour.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TXb9ISsJofUxtFao+45IVg==
+SHA1-Digest: 498j+6gkZECck7F6rjmBnz7RTC4=
+
+Name: whitefox/browser/reader-tour@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TaCRapD6c989OpUsPmlsjg==
+SHA1-Digest: 17XgABzkDP7Yy7iRNWlfVpEjhXM=
+
+Name: whitefox/browser/readerMode.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jqsCMC64IemnjlFDT6JyDA==
+SHA1-Digest: tO3Wqg812YhNgKN6iBMknZVBJpg=
+
+Name: whitefox/browser/reload-stop-go.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HPhnOAcglIt4+6gHjKT16A==
+SHA1-Digest: G3wUuttQKQNjGHYaGXCHdnMxdWs=
+
+Name: whitefox/browser/sanitizeDialog.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AVqPAouuXglAbSNlgqRDDg==
+SHA1-Digest: lcN3VHVAXhFU2JCZo+25cSzwkPs=
+
+Name: whitefox/browser/search-arrow-go.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Mpt4QiiHEw8rFOjpK2UEmQ==
+SHA1-Digest: s+Gp6dsJgi8svI8KqJhQctKyZLs=
+
+Name: whitefox/browser/search-engine-placeholder.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZGlC0XZvh9wiA4LB68gBHw==
+SHA1-Digest: 5hPfFEdKeqw7PvYKK+aTXJIMNYg=
+
+Name: whitefox/browser/search-history-icon.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FRGWtVi4I5ZJa8MAa5dWiw==
+SHA1-Digest: GzFzE7++hMsKXIWLREeyXy+/1q4=
+
+Name: whitefox/browser/search-indicator-add-engine.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZGlC0XZvh9wiA4LB68gBHw==
+SHA1-Digest: 5hPfFEdKeqw7PvYKK+aTXJIMNYg=
+
+Name: whitefox/browser/search-indicator-badge-add.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uEX5y26D9MmcMZ+b1r5kyg==
+SHA1-Digest: xV3+nW3BKv5UB9/PK6gW8NeVH1Q=
+
+Name: whitefox/browser/search-indicator-magnifying-glass.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jaxX0Law8/CAxZKfK3oRmg==
+SHA1-Digest: H8UaaEkh8TmjENRP+ufN1qaFMIw=
+
+Name: whitefox/browser/search-indicator.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wQ6YBwkySIHOuYGzxYHmsQ==
+SHA1-Digest: QdnyS/JCouzbnDIb7cZtN4v43AM=
+
+Name: whitefox/browser/search-pref.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SamPuvEMwWBkUTgKJsVOaA==
+SHA1-Digest: Le1lbr9/k8kpDd9+5Ewj/Uz4IKk=
+
+Name: whitefox/browser/searchbar-dropdown-arrow.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DFyeOHHCUtgMtjUSSdIIvw==
+SHA1-Digest: upSM8SFaAE9L9GxJQ8JdtTRt2qg=
+
+Name: whitefox/browser/searchbar.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KjuYFP+AS8PPrJkCmQdmTQ==
+SHA1-Digest: fGePDcpb9r1Ma5YB2atIyy9DGUc=
+
+Name: whitefox/browser/Secure24.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZN2Xdnl3JMvH7uOZ4TNkrw==
+SHA1-Digest: QI4iY94j+5Loz6/ElpQjLd33tTg=
+
+Name: whitefox/browser/session-restore.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: amUE3GLDePg8W6MqqRRPlw==
+SHA1-Digest: RfAKrxGt4MWM4Ud1mf5yHPhbUyg=
+
+Name: whitefox/browser/setDesktopBackground.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: A+BSMiaGa7IR/Q9ugJQjnw==
+SHA1-Digest: ANGDkQIe4DggLI3Wn2EonLEBR6g=
+
+Name: whitefox/browser/slowStartup-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: E9JFubFPM/CmSHMT8sy3GA==
+SHA1-Digest: Tija9abhJcoDnTf9oVyBWOkusjk=
+
+Name: whitefox/browser/sync-128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EztHY9rcIbbCAfS/l4hkbw==
+SHA1-Digest: UgBIhtjx4gZfRS1cQJv8vWtNJrQ=
+
+Name: whitefox/browser/sync-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YzMs88xWzNR5GI2rkIyMXg==
+SHA1-Digest: 4AfcLKVbbbuOSQN3ZDHBmj3SkFo=
+
+Name: whitefox/browser/sync-32.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7W6e/8iOGVDCs/lsQsmO3A==
+SHA1-Digest: AtJUP1tceTWukx+fXS2r8pBK9Zc=
+
+Name: whitefox/browser/sync-bg.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gFcV8NFOD2XxH4a/nzGwHw==
+SHA1-Digest: X4f5n2hMHavDT49VIS8j9zx+qnw=
+
+Name: whitefox/browser/sync-desktopIcon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lC/a/ooRA9h8Se9rpn9xUg==
+SHA1-Digest: XDsyZ3asCSO+nTVPaW3DhqIJ7MU=
+
+Name: whitefox/browser/sync-horizontalbar-XPVista7.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: evAZSgjowfitZtRIusUx6w==
+SHA1-Digest: lrUB5QbqW/wmvfJ5Ax9u47AQY94=
+
+Name: whitefox/browser/sync-horizontalbar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8eEJ4GnQEwMzHsU2enYRvg==
+SHA1-Digest: c2P/gsgUrM07zaHd3LAP6vZT40U=
+
+Name: whitefox/browser/sync-horizontalbar@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rUKKcI9aVULFlA0omkZVfA==
+SHA1-Digest: uRzU2wbw50aT9Kyo1rmsyiXv2ec=
+
+Name: whitefox/browser/sync-mobileIcon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DFLK8UOUoODadamSe3bi6A==
+SHA1-Digest: seE/jHeSzg5K7A1ARjT1Z5OghyA=
+
+Name: whitefox/browser/sync-notification-24.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 79gYETjvW/00fANgGp8Xrg==
+SHA1-Digest: BPiAjsp/pWlAcRycw5AFjzJAIUo=
+
+Name: whitefox/browser/syncCommon.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5oTqjSClsXrqsAMlybjuVg==
+SHA1-Digest: 9xyoW1wkjCNFg767dbP45KfrwLY=
+
+Name: whitefox/browser/syncProgress-horizontalbar-XPVista7.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KjBnRMuT5E/J2lxQMeCHdQ==
+SHA1-Digest: isjvfh50mMtSpLQdbOmMYKO7ZqI=
+
+Name: whitefox/browser/syncProgress-horizontalbar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hji5bacm1BOJIk5nB54XvA==
+SHA1-Digest: h0EvSjQ9LaFFmDdHx4f9R6lQs0c=
+
+Name: whitefox/browser/syncProgress-horizontalbar@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EUC9b2NRHZtjwQ8q1GdOQA==
+SHA1-Digest: 9hnZLxaIZiVHwclv64gAkrgJ4po=
+
+Name: whitefox/browser/syncProgress-menuPanel.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eUqD3GsG1OWiEVaCWAk2qQ==
+SHA1-Digest: ZJimIrLmDcf9kZzBnAgWf9Dh7/4=
+
+Name: whitefox/browser/syncProgress-toolbar-inverted.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /8WkeN3OC2mBPz6my5BwKA==
+SHA1-Digest: lNOySdoBroZkzweQtGZD2hDTloM=
+
+Name: whitefox/browser/syncProgress-toolbar-XPVista7.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /HlZVRRtgM4Jjgmp30Bj2g==
+SHA1-Digest: 54FDno/TZzLAE3/k7ErxzD0Vrjc=
+
+Name: whitefox/browser/syncProgress-toolbar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: I3y6y837OYQLIfURKzrrFw==
+SHA1-Digest: BTg4X6gm0VuDkzOWMwPBq7PXyO8=
+
+Name: whitefox/browser/syncProgress.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bLMDyvXsrTVukJfqNgBEcw==
+SHA1-Digest: w444vHkpulhuEn4RerJwcNFksPQ=
+
+Name: whitefox/browser/syncQuota.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /uySTglvEUmdIQl/EU5O0w==
+SHA1-Digest: VU3vxIUjDBXW5TWY1G3Ei+yONcM=
+
+Name: whitefox/browser/syncSetup.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fhrT6/rDfZ0WC85puUYSJg==
+SHA1-Digest: Bzekfk2Q59jYDrhPdINE8XJj2cg=
+
+Name: whitefox/browser/tab-crashed.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sGVbafTovjRTPsx3Ry5xzg==
+SHA1-Digest: sp2pbpFrWLC8Rp3yB+aFHZuqYbA=
+
+Name: whitefox/browser/theme-switcher-icon-aero.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BpYrExxjKpgo5ID6YQAeeA==
+SHA1-Digest: S4N5SPDF8OWrEA+Tp1k0/PZdwak=
+
+Name: whitefox/browser/theme-switcher-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BpYrExxjKpgo5ID6YQAeeA==
+SHA1-Digest: S4N5SPDF8OWrEA+Tp1k0/PZdwak=
+
+Name: whitefox/browser/Toolbar-aero.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BcebbhfPri7MTD0MmmVCFg==
+SHA1-Digest: M3++bRVVyzZv4x+3/eg40dvgO6s=
+
+Name: whitefox/browser/Toolbar-inverted.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2QF/oHa6KA0orjLwZAYdTQ==
+SHA1-Digest: vzGOFgQBUsX8HqMSrhbJQDEpniM=
+
+Name: whitefox/browser/Toolbar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BcebbhfPri7MTD0MmmVCFg==
+SHA1-Digest: M3++bRVVyzZv4x+3/eg40dvgO6s=
+
+Name: whitefox/browser/toolbarbutton-dropdown-arrow-inverted.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QRh9L1qyubupWbk1vdVi3A==
+SHA1-Digest: SrJ/L7fkdKc3SuOmOrt5bEM1N1g=
+
+Name: whitefox/browser/toolbarbutton-dropdown-arrow-XPVista7.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2muSdV09eUZxc+508PDVHQ==
+SHA1-Digest: Zkq0rJmlP8jcwZIVNNCEbuncYvM=
+
+Name: whitefox/browser/toolbarbutton-dropdown-arrow.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Sqr+64Xtyb/6cNUkDA9ywg==
+SHA1-Digest: habLd09iWWRBQzHhedDnQuORin8=
+
+Name: whitefox/browser/tracking-protection-16.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ikfZKjsPFDAS/+PeRqMNPw==
+SHA1-Digest: bbAuVuwwJ1yek5bMCmW1bblSzaw=
+
+Name: whitefox/browser/tracking-protection-disabled-16.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DRkwC++ZDpVNbpKgAojy9A==
+SHA1-Digest: YGbQsmcGTYL2gTqNjF/U0usCBeg=
+
+Name: whitefox/browser/translating-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e2/dh9o9Sj2WA2Gzxsk9aQ==
+SHA1-Digest: cXOdMRGQdNiT7xhH5X+2KGavN6Y=
+
+Name: whitefox/browser/translating-16@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eyJXPTgx5ydBj8PRFPSd9w==
+SHA1-Digest: kaVat7C1n4Uc1xjl6zzC6cXrCDQ=
+
+Name: whitefox/browser/translation-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7icCXqIlg79AB62hD4V26g==
+SHA1-Digest: rJveV6pN6LC9FkHbmFCkKec/hhc=
+
+Name: whitefox/browser/translation-16@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Vc7oCc0ETwFJulpvnmM7EQ==
+SHA1-Digest: RHMWmyU+ksK1H/6uAd8Q41oZTLo=
+
+Name: whitefox/browser/undoCloseTab.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oAw8DWq01q07KRIW7W/yZA==
+SHA1-Digest: k8lQD1aivf3OdYCOAJkkASQM+5U=
+
+Name: whitefox/browser/undoCloseTab@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VlxRsxVQCzB44rEJjt3gVg==
+SHA1-Digest: 8mJMkMg4dD2cxO/duWZLMupDnA0=
+
+Name: whitefox/browser/update-badge.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: x+aiGzHnaoCYa8OdVs6V0g==
+SHA1-Digest: YpsNruzKkBggFyl2eeJHfMC59Pw=
+
+Name: whitefox/browser/urlbar-arrow.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4TP6V51mIW4DOy3GllAD5Q==
+SHA1-Digest: niChUYyUGKeanAA3NPQcObG7GuI=
+
+Name: whitefox/browser/urlbar-history-dropmarker.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ut2EqAJLtkzc+tU+pSrOeQ==
+SHA1-Digest: uJwTyXKO7ziRQrHKN7/VK0ks8wo=
+
+Name: whitefox/browser/urlbar-popup-blocked.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TeA0v65kmIouG7cIjnHYpQ==
+SHA1-Digest: IPMDCrQn7CTjJuZxTDzR6pzwcIc=
+
+Name: whitefox/browser/warning.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nDBYVthKs+CvipMeTrom1w==
+SHA1-Digest: xdd9px9CFqB3RBl/qslKu6wLivo=
+
+Name: whitefox/browser/warning16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GTjb3L4CLMYcLxFuZ3b8sQ==
+SHA1-Digest: 8muMvi9DKTDk+ZxBc4THgYrKgWc=
+
+Name: whitefox/browser/warning16@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NPIpTtHfSqj+XUlpAusQsQ==
+SHA1-Digest: xpuZlPzGh+FgJ3XYYQXcOV6nTHA=
+
+Name: whitefox/browser/webRTC-camera-white-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: H0gjm4Gh5MpFAWmoXB9Atg==
+SHA1-Digest: i49On8IuAP080nAfIwYEEMvR46M=
+
+Name: whitefox/browser/webRTC-indicator.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JAuQEeIQFVs7ZtgmR2amEA==
+SHA1-Digest: lHlXzCfmV3thSWZvyPKvTJqUjq0=
+
+Name: whitefox/browser/webRTC-microphone-white-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Vov1dR56t3GgDWhtKXdzMQ==
+SHA1-Digest: POwZRs1bL/ktP6XhyF4DvOtraU0=
+
+Name: whitefox/browser/webRTC-screen-white-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0OGs6B46DbNQMzU05ALeTQ==
+SHA1-Digest: 6ur7XEV5wJrRdKKX2XDJf2ybAOg=
+
+Name: whitefox/browser/webRTC-shareDevice-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XCJiG3P5XVBu4jJu/J8EBA==
+SHA1-Digest: bMHowjf565iWZhlThEDkzbZqhRk=
+
+Name: whitefox/browser/webRTC-shareDevice-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sIUg4od8ctGAcbNMYoxd6A==
+SHA1-Digest: f7z4JPJh2isxd8pRhkqwPSrE4jE=
+
+Name: whitefox/browser/webRTC-shareMicrophone-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mWWEFqtdZWOJIjIaGbbuTQ==
+SHA1-Digest: 6YPvq0uZhHmbqrRWKK+Ks3+e5UM=
+
+Name: whitefox/browser/webRTC-shareMicrophone-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kHrSB8B/qmLrbTsriZicNQ==
+SHA1-Digest: Q57xSCNCoxME+N3UqBuQT2Hj9kY=
+
+Name: whitefox/browser/webRTC-shareScreen-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZsNcgimadPDsa1CeTFEBuw==
+SHA1-Digest: fiMgbWqUjFoLp0w7sNyKgR+iHww=
+
+Name: whitefox/browser/webRTC-shareScreen-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ucgjg49GSI/PvDog5f7XZw==
+SHA1-Digest: sc1Z8jovPoi0Sm7rkY2b3ZH6TY0=
+
+Name: whitefox/browser/webRTC-sharingDevice-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9686FiEajuzfouRqcE6bVA==
+SHA1-Digest: H+TisCHTCQR04dhy5vGAqKVwGQo=
+
+Name: whitefox/browser/webRTC-sharingMicrophone-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2ig2QtS+PLGSEbiPpFDpQA==
+SHA1-Digest: I6nSiJMyCedWMvUEIC4o+fJWPNI=
+
+Name: whitefox/browser/webRTC-sharingScreen-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w/SFsyOBah9khtrJ4CE9uA==
+SHA1-Digest: RaHcgxYAODc5m5wahHyaHWDoqZc=
+
+Name: whitefox/browser/welcome-back.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YjnwhTJlX9ugvrYF4/OXIg==
+SHA1-Digest: lQAp0h2m1LVEh+2vMobYpQQ8l8U=
+
+Name: whitefox/browser/controlcenter/arrow-subview.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2bS8CmKWJSQJtzGG5mF/8Q==
+SHA1-Digest: Nhgw7enSLCfwtPgZQZ3l+D70E2s=
+
+Name: whitefox/browser/controlcenter/conn-degraded.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: W5CeLtCgFcRvIw+NWy0FEg==
+SHA1-Digest: etH/ziDF4YDrTGNcGOl/wolMsoQ=
+
+Name: whitefox/browser/controlcenter/conn-not-secure.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uSaNTd8ZPiyre0BL37eDCQ==
+SHA1-Digest: r3qnNnja25PnI9JJVVBqkrF23wo=
+
+Name: whitefox/browser/controlcenter/conn-secure.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nkh9/1OTsh5uV2o2ny0ngA==
+SHA1-Digest: aTkLq4e1rLmI9cIXGPiUXe16778=
+
+Name: whitefox/browser/controlcenter/mcb-disabled.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fOG5OrMHHjBETmu7iNu8qA==
+SHA1-Digest: 6v15mb4hogBMFzUlI9eDDAAz8Rg=
+
+Name: whitefox/browser/controlcenter/panel.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ykcEusTYF8OMzhgSmRSFzg==
+SHA1-Digest: c8tNbpgNDvaf1Gp+d9NcOcf6X28=
+
+Name: whitefox/browser/controlcenter/permissions.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uQnj9WrU0RsuTEBht0AA7g==
+SHA1-Digest: 5m+8JUquGCqbwK1ISNCqzwVc+RM=
+
+Name: whitefox/browser/controlcenter/warning-gray.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KF6Eb6+deZWiSLW8mFD6Tg==
+SHA1-Digest: ODwDule9p9JTgeOU34CdDjHd9KE=
+
+Name: whitefox/browser/controlcenter/warning-yellow.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jhqxkXpxOdOgBFTDM2Z/nQ==
+SHA1-Digest: lfDUrfxBLrdhhottRaElgjITbeE=
+
+Name: whitefox/browser/customizableui/background-noise-toolbar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GtrPvy77G+6s+0NASJ6uww==
+SHA1-Digest: bKazbHLMEoyb6o+FPTkKUXiGeFU=
+
+Name: whitefox/browser/customizableui/customize-illustration-rtl.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Wx93o39Pv5hc0MGSTVfcwQ==
+SHA1-Digest: 6kc8NGiP5Wnwcu7b6ilcZfGcsDU=
+
+Name: whitefox/browser/customizableui/customize-illustration-rtl@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ukf3jtFz8vHKtECOWSn4og==
+SHA1-Digest: vXuzYpcSWX0xpDm69CW36IfWTDA=
+
+Name: whitefox/browser/customizableui/customize-illustration.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jUGagJtmFWk8eevT1WVrBQ==
+SHA1-Digest: p3DzNW8IjLVGXNuFxkOWP5ofifE=
+
+Name: whitefox/browser/customizableui/customize-illustration@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: opYRZwqJq5Kt2Um+9j2eyw==
+SHA1-Digest: eWr6o9UsIssA0ZVaoHAo883PZig=
+
+Name: whitefox/browser/customizableui/customize-titleBar-toggle.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nEDLKa+nZ9mDMZ4veDxtog==
+SHA1-Digest: EwvXDFsO/4qx9nwmSmq0e85V61I=
+
+Name: whitefox/browser/customizableui/customize-titleBar-toggle@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b6vakhR3SLGXXhPe5Py9dw==
+SHA1-Digest: e91JYb2s3b1m2IXLRLDc9bHKXmw=
+
+Name: whitefox/browser/customizableui/customizeFavicon.ico
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ja4NTrYjInkaA8351YqUWg==
+SHA1-Digest: U9ou5f3cxvyzANXFNuGYAG8zJtU=
+
+Name: whitefox/browser/customizableui/customizeMode-gridTexture.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BK9nZr6VUyEjLOuJ5vnYSA==
+SHA1-Digest: +ixH/Upm435Vc1w8/AVdTmzSuOk=
+
+Name: whitefox/browser/customizableui/customizeMode-separatorHorizontal.
+ png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jtYYkrIjBaXkYoO9OsNORQ==
+SHA1-Digest: +Xo34KPfzR4XpP7EmB/ooa7q4N4=
+
+Name: whitefox/browser/customizableui/customizeMode-separatorVertical.pn
+ g
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aHO/GJFOR6zavKbyGyHHzQ==
+SHA1-Digest: Ld4/CG+GEDaOyeJ5W5HgZObAcjg=
+
+Name: whitefox/browser/customizableui/info-icon-customizeTip.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QT73wbzqSbtynUIHdIy7rQ==
+SHA1-Digest: RDFDQbC6MNXyXvBDKlLNtSmgi6Y=
+
+Name: whitefox/browser/customizableui/info-icon-customizeTip@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fAVNAWI5L6F6rgHAt2xQFA==
+SHA1-Digest: 8J6IyLDFYbFeT1b0/ZU78xZjFJ8=
+
+Name: whitefox/browser/customizableui/menu-arrow.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sUvxafPhJMENQCEmMTyWhQ==
+SHA1-Digest: pX72dI3OM9aqQ7kOExh7CwZw9sg=
+
+Name: whitefox/browser/customizableui/menuPanel-customizeFinish.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: q6KMkmw/aYqHYCta/OtiCg==
+SHA1-Digest: D7gSu7yrTrgGI1Sm0I5xseBIqvM=
+
+Name: whitefox/browser/customizableui/menuPanel-customizeFinish@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vSEBnoN509KzmwKiR7Y3XQ==
+SHA1-Digest: Z6mn7eGTVSpfsbRQqxl54HW2fJY=
+
+Name: whitefox/browser/customizableui/panelarrow-customizeTip.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gi2wQy7oT+uo43jRKh+Biw==
+SHA1-Digest: xwtHV9vRCEn4pJLUWcLjFsTF/xw=
+
+Name: whitefox/browser/customizableui/panelarrow-customizeTip@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AaJAFHHEW4UyVHRDHpbzNg==
+SHA1-Digest: HOS1U61lENxuH/Iefhs26I8pOeQ=
+
+Name: whitefox/browser/customizableui/panelUIOverlay.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zL4XP9ZJxfzCWEwT3R+Vjw==
+SHA1-Digest: fJZZnnT/rf1FLjSCi7rumSy7Ggc=
+
+Name: whitefox/browser/customizableui/subView-arrow-back-inverted-rtl.pn
+ g
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kOfIYvdMe01G0TVc65QA1w==
+SHA1-Digest: YU2e+Loq39Et05BlXWLzt01ksLo=
+
+Name: whitefox/browser/customizableui/subView-arrow-back-inverted-rtl@2x
+ .png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OywwLIPws/Z8BotPGPaa/Q==
+SHA1-Digest: 8HYvreOwCIcxlE+IZrXfw5c8nMc=
+
+Name: whitefox/browser/customizableui/subView-arrow-back-inverted.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rqSRilguYwWnyddlDTfsew==
+SHA1-Digest: FOoZidtVRJumuqkKIXgHfOhA4mg=
+
+Name: whitefox/browser/customizableui/subView-arrow-back-inverted@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2f5RxLgM68zba+vSLixwPA==
+SHA1-Digest: eLq4XWz1f82NC8umQxbsUu+2vls=
+
+Name: whitefox/browser/customizableui/whimsy-bw.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xlrSPIUv3yuROTtBySbvcA==
+SHA1-Digest: 5R9d/P48/1dM+pSfAFwF/gkVMdE=
+
+Name: whitefox/browser/customizableui/whimsy-bw@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UB7TRjK+5BGownDhBG5lmw==
+SHA1-Digest: cU0Wvpifgvj117Dw8YkoUvZjfH8=
+
+Name: whitefox/browser/customizableui/whimsy.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +zDV4AW4YcTsP92rfY+h6g==
+SHA1-Digest: ibnCTfMNFPCxf2WqntoCPjOT6eg=
+
+Name: whitefox/browser/customizableui/whimsy@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qpVY4Iy1HFPTbHMBAFnXmw==
+SHA1-Digest: Oobc8AJyW9i3w2IKTL2QxPs/gE0=
+
+Name: whitefox/browser/devtools/add.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zNEx1fSQxOKPMED40Q8j0A==
+SHA1-Digest: FyymVMTunniuWmcYVtkifPzasEQ=
+
+Name: whitefox/browser/devtools/alerticon-warning.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a0y+JeDinycwqImXaiI0Lw==
+SHA1-Digest: uSKi0uuoEFBGRv6A7sqZ76DnHl0=
+
+Name: whitefox/browser/devtools/alerticon-warning@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uHp4VJVVroi/zcNLjKi7cQ==
+SHA1-Digest: KjTTNheiXygR4hujSUviZyTjByQ=
+
+Name: whitefox/browser/devtools/animation-fast-track.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5P5yzU/+2M3rnAaMNAJ2Vg==
+SHA1-Digest: YbSMNvmZk8vEL6yjdGfbkTraR9A=
+
+Name: whitefox/browser/devtools/animationinspector.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qSmLFUTyI+/NXzkZOP1MBg==
+SHA1-Digest: rFe74PFH/8j80rKeKjjgbNJeN44=
+
+Name: whitefox/browser/devtools/arrow-e.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WZGqsK7dG/393WW2btjdoQ==
+SHA1-Digest: QdZXaxNSGYPP6r6Gig3BKd6skuA=
+
+Name: whitefox/browser/devtools/arrow-e@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UrfcyNNb/8jS3mQO92L0BQ==
+SHA1-Digest: Y8fxiqs9E/QhmKO6oDadgVYT1kY=
+
+Name: whitefox/browser/devtools/breadcrumbs-divider@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: l7hOyuGzOmU7XEFgSwJ3BQ==
+SHA1-Digest: 4sqywnwJtfPVSlgRDSaPwJVCq6o=
+
+Name: whitefox/browser/devtools/breadcrumbs-scrollbutton.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XmaBiY4QKZwJkL6sa+UNfw==
+SHA1-Digest: cVzSAOeC7m0Zot+GJg4YbjTXm/8=
+
+Name: whitefox/browser/devtools/breadcrumbs-scrollbutton@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hMqFEETMPdT6EZBDw630Pg==
+SHA1-Digest: kck8CvDXh29BwJCYC6D/dErY8Bo=
+
+Name: whitefox/browser/devtools/canvasdebugger.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5/qFa15GGujt1QFBiewgPA==
+SHA1-Digest: ibqxCrtztMpmriHKswyX6ZdExa4=
+
+Name: whitefox/browser/devtools/close.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: APzBnrxFhiPzQ4kJavYibg==
+SHA1-Digest: Twvan7WlQLMA/6AcUqIRDtCk2Jk=
+
+Name: whitefox/browser/devtools/close@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KPK/wJylTrJ2op0AazADkA==
+SHA1-Digest: SLnhn3hD3xqF6Sczi/5AhUOtLJ8=
+
+Name: whitefox/browser/devtools/command-console.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QoqUCeWCR+1NWm0/H2Gapg==
+SHA1-Digest: xfGG4LJppI2o9Dcx/s1xqJJIfaI=
+
+Name: whitefox/browser/devtools/command-console@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KM1YQIR/w7um8SpgWcCcWg==
+SHA1-Digest: +E2PAp4BI1ME2uw8Ck8cTbJTyEw=
+
+Name: whitefox/browser/devtools/command-eyedropper.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Llov66tsaZvVS2WVyk9M4A==
+SHA1-Digest: RU1nJSXTgNkziqULzn9sLn6EuI0=
+
+Name: whitefox/browser/devtools/command-eyedropper@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: E82uC7VSS+DZPK7Vbg4kuA==
+SHA1-Digest: rmtYy9Z3d1TvDCEsBBtpaQ4tZ2U=
+
+Name: whitefox/browser/devtools/command-frames.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: X7ykPdeCwIqZLUVBwRaTlw==
+SHA1-Digest: EJkzSXD3dLdy5FFJh1xOLdCY+UE=
+
+Name: whitefox/browser/devtools/command-frames@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dCJy9wN/chTcZQ6gZH2C4w==
+SHA1-Digest: tlNO0rYDrMViry6v9wpQwqwQks8=
+
+Name: whitefox/browser/devtools/command-paintflashing.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 62fLzGIvszHDFbuZIqU1ww==
+SHA1-Digest: 9WO5CDyMGhJ5as/zVuAHW6NXjXk=
+
+Name: whitefox/browser/devtools/command-paintflashing@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rBXPM0sa0KwiYt9Y1wZGGw==
+SHA1-Digest: 7Mx6WNX94w9fTiQy5z5+huSqjUs=
+
+Name: whitefox/browser/devtools/command-pick.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7BsdeZg4vItk+BIyDks3kA==
+SHA1-Digest: CbzvEWpm5LL6XkF0YF4NPqCJItw=
+
+Name: whitefox/browser/devtools/command-pick@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VsB+oCHR0Kw6GbTr3S9qig==
+SHA1-Digest: wtgLgW/5qy1Y1XPCL6zHah1et64=
+
+Name: whitefox/browser/devtools/command-responsivemode.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zhiP7jYaOZ8zY/kfqZuKAg==
+SHA1-Digest: j10ZD+MK+gUsrizZY4UrC4k6vHQ=
+
+Name: whitefox/browser/devtools/command-responsivemode@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: j5EcuRUr5adBN5MB5vuD0g==
+SHA1-Digest: u2KW5feSKKNg7Irvwmiamhr4dVk=
+
+Name: whitefox/browser/devtools/command-rulers.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NFFR5bF2jBUPKBRAFHOUMQ==
+SHA1-Digest: P72zowBdk9YJKqwY0MY4xnddpJc=
+
+Name: whitefox/browser/devtools/command-rulers@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9GDiFBLRVEdzYSTQslwwOQ==
+SHA1-Digest: DTiuj1ve2iQztyf9TbDrb7IPCfw=
+
+Name: whitefox/browser/devtools/command-scratchpad.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ctjkplvbzEaA30oojCgbrw==
+SHA1-Digest: 5o1QMG0jrA/zY2AHurAj+JZD1Cs=
+
+Name: whitefox/browser/devtools/command-scratchpad@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LP4gMS6XcCDg7aHPkrzKzw==
+SHA1-Digest: v78eBvLi44NRMjNC3uSiNz2yLS0=
+
+Name: whitefox/browser/devtools/command-screenshot.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9wskD36lEYqzElE9m92y+w==
+SHA1-Digest: wXg+0EpaVMhGH4h9wQEzuv946O4=
+
+Name: whitefox/browser/devtools/command-screenshot@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XqKNEpgLP4q7C6ldgIfH8g==
+SHA1-Digest: XuIpsu1pwtTpAF8CDENC9Mw4K3w=
+
+Name: whitefox/browser/devtools/command-tilt.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DvjJl2UiERcvqD7ZiWPlyg==
+SHA1-Digest: ZXgyq9bEvWX/Ou3Fk2SVCIJ/M98=
+
+Name: whitefox/browser/devtools/command-tilt@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3QkZVV16uvIGjEVG/UJ4Mg==
+SHA1-Digest: 4XGYkY/4wm8Y/nw+ylPzWWPAAbg=
+
+Name: whitefox/browser/devtools/commandline-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vEvtGEQ4JxgDRTSkQsFPzQ==
+SHA1-Digest: vGfq2VBigTmB7IX1eIicGE3HRak=
+
+Name: whitefox/browser/devtools/commandline-icon@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OkymfRaU/EK6NzWKJll9rw==
+SHA1-Digest: romJU2mc/vS55hrMTzsQsb7b4mc=
+
+Name: whitefox/browser/devtools/commandline.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XEhQ1odypLZr7Q7de9Nvow==
+SHA1-Digest: x4+vhltjLA+MmTUbznacR5sUn6c=
+
+Name: whitefox/browser/devtools/common.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kg3zCWAKUqmIeud3qKbygQ==
+SHA1-Digest: ps6h4QSaDv+xbPowXfMB/84mHIE=
+
+Name: whitefox/browser/devtools/computedview.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pg4x124yjdKyMHc+gdzw5g==
+SHA1-Digest: 7XFIoftGGKQuckrLYGVghXpY2A8=
+
+Name: whitefox/browser/devtools/controls.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b3Q9cE4b2+rRH+sHrZLzvg==
+SHA1-Digest: dEIKqVbHSrPPrZXOTzI3VvJe9PY=
+
+Name: whitefox/browser/devtools/controls@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Dvkx1gF2zlLXD35EnPAy6Q==
+SHA1-Digest: h6it1c2v3vp19UnbF8htKnQ7fkk=
+
+Name: whitefox/browser/devtools/cubic-bezier-swatch.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uY2FFqb8shRe/fXt74AlWw==
+SHA1-Digest: BTKB+Tm2yr/uClzzbYzoTgmO7iw=
+
+Name: whitefox/browser/devtools/cubic-bezier-swatch@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sgQajERV2WW+fqlSnyhyqg==
+SHA1-Digest: tUE54EfBjanyrItXTjhI53KtKE8=
+
+Name: whitefox/browser/devtools/dark-theme.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tEcJ3n2OHQXlREaejOW1bg==
+SHA1-Digest: rjbJ3UBdAMtYyq5ZRaIZt3FOzew=
+
+Name: whitefox/browser/devtools/debugger-blackbox.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2aGMwOHjc9edAY6miVwAPg==
+SHA1-Digest: nZPwoFRJ9WEsqVJYwJKULib303g=
+
+Name: whitefox/browser/devtools/debugger-blackbox@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8D6WcDL2vN7J1xS/8cbJmw==
+SHA1-Digest: LXhJ44ACim73Wu4rZILIbmkgWK4=
+
+Name: whitefox/browser/devtools/debugger-collapse.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qIvg7J+l5E2wgO3hGfH3hQ==
+SHA1-Digest: Hw9uwjQE/DWitmEpEQPokT3dig4=
+
+Name: whitefox/browser/devtools/debugger-collapse@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3MPy9HzZfIo8pUDehMrLKQ==
+SHA1-Digest: 7bk2UgthVedNvdq9DbQkhT4P88w=
+
+Name: whitefox/browser/devtools/debugger-expand.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ItEqfExUOCzcz/IPYc4NMw==
+SHA1-Digest: I2Lyv0FPHWNCQ5DIHBJVjBDqZjY=
+
+Name: whitefox/browser/devtools/debugger-expand@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NKZz6d/AmrxnP6IJ7AdYCw==
+SHA1-Digest: GNhkGCg19DspIo3ucuhuGVlfbpQ=
+
+Name: whitefox/browser/devtools/debugger-pause.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aoPQ6nOwW99Z3Hmo3LvAGA==
+SHA1-Digest: HVCxvePUF015ziWX5O7kooiG1hY=
+
+Name: whitefox/browser/devtools/debugger-pause@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MvQOYAIv69Z3kKt0XoFGRg==
+SHA1-Digest: DXwV2qZLqYoOG/En5JAa5y9/Nhg=
+
+Name: whitefox/browser/devtools/debugger-play.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vSRx+KKstfBJZQ+ZWwtKCA==
+SHA1-Digest: wmVzclY9ptrIk489+j3UkE2CdTI=
+
+Name: whitefox/browser/devtools/debugger-play@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qiRTT2ZIe6rQxeXZaP5sKw==
+SHA1-Digest: KUXT0M4jeeq18T27XcUmKfsczGo=
+
+Name: whitefox/browser/devtools/debugger-prettyprint.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Lf9xm8q4Dv1ijiqblRlXDQ==
+SHA1-Digest: uhiTYMiobPiQNIX+ik0hhiEDCqI=
+
+Name: whitefox/browser/devtools/debugger-prettyprint@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: l+H5ILdGf5/2WUIo57lxoQ==
+SHA1-Digest: spjKJzUvABQcybjXzBGdpi8EkIw=
+
+Name: whitefox/browser/devtools/debugger-step-in.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /mpNIk4Mx5ELibRukWZzQg==
+SHA1-Digest: eWiVDrKFITbWaeVdptpl3piQsvQ=
+
+Name: whitefox/browser/devtools/debugger-step-in@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FnA8LOlPdYxKJLcYZBvaDg==
+SHA1-Digest: fwr7NrWZeVZ+HlmOAVT+gaGD9ek=
+
+Name: whitefox/browser/devtools/debugger-step-out.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c2y2HoUe4hew+W9qdoJX/g==
+SHA1-Digest: E7/oMf4x5Pp3E8eFF1boMaBUhbM=
+
+Name: whitefox/browser/devtools/debugger-step-out@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OFZWFD9+McLABkgi/ryR+A==
+SHA1-Digest: ILluWKPPZk9ilfZwLCbOVNVuR4I=
+
+Name: whitefox/browser/devtools/debugger-step-over.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mYMWUr5u9nT/bEUjRxokZQ==
+SHA1-Digest: IwPrG9yP0whFWFsP5AMwZttsgxs=
+
+Name: whitefox/browser/devtools/debugger-step-over@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6ZTZgMxmurZAx4quaFkWUQ==
+SHA1-Digest: JVfOYeczKS+C1mqimn+5IesxmTU=
+
+Name: whitefox/browser/devtools/debugger-toggleBreakpoints.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Xwp++QLNAF2DoNFAk8h+0g==
+SHA1-Digest: oHJS66amBzacLQqS4iJlkgydMkg=
+
+Name: whitefox/browser/devtools/debugger-toggleBreakpoints@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1Bqj9Z0E9vjxRvCuTR6xwQ==
+SHA1-Digest: xg9Pl0O/UWysj9guGpELdDNo0Lk=
+
+Name: whitefox/browser/devtools/debugger.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iEadtlEvgnLMCG2+jCBMLg==
+SHA1-Digest: Dw4WOBDY4wIXNX0/ilEAY9YTwEo=
+
+Name: whitefox/browser/devtools/dock-bottom-maximize@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jvZF40moohWI77PpqkzqHA==
+SHA1-Digest: sF/1NmrII+k1JJ+SMw/CPJBbE4A=
+
+Name: whitefox/browser/devtools/dock-bottom-minimize@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Dl2QT5nVf5L4bNxSfMYjlg==
+SHA1-Digest: 41EoUNVWuJBhZ+d7KIm/kN2NfdQ=
+
+Name: whitefox/browser/devtools/dock-bottom@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sHyhBtxrOIjQcW4TAGHZzw==
+SHA1-Digest: kWW6OUnmExMJ/mNIhecl+5OG/9A=
+
+Name: whitefox/browser/devtools/dock-side@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IBKxfUawdFbtq6apxl210A==
+SHA1-Digest: 9pDSR3mh8bSON4rU3ks/gaNzLvg=
+
+Name: whitefox/browser/devtools/dropmarker.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Cs/J+26R4qk3k9eTpGIGzQ==
+SHA1-Digest: XoXB7ay8i4F/jVDhad+3O56qFv0=
+
+Name: whitefox/browser/devtools/editor-breakpoint.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IR0Se8ou30nxTQZG6b+GlA==
+SHA1-Digest: FBkuibFHyEhJi0tl5iPvedeBdK4=
+
+Name: whitefox/browser/devtools/editor-breakpoint@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Gl6ZJSSULCsHHhwzSYIakQ==
+SHA1-Digest: OkRo4yMdJU2k/1gsn4NYEvXwYvc=
+
+Name: whitefox/browser/devtools/editor-debug-location.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: S/3Na1kwhiAkdS3Z8LYd/g==
+SHA1-Digest: xM+j7tEdWKXtWWWAvdUFB61JGQg=
+
+Name: whitefox/browser/devtools/editor-debug-location@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OQZUve8zfyxX3EjYPtNWFQ==
+SHA1-Digest: SRpQx4bNDCYV8nuC+pf8ddIHZvk=
+
+Name: whitefox/browser/devtools/editor-error.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FsL6OB9LSB4lQPykZjkc9A==
+SHA1-Digest: +t3YhDmdq0PxmJcG5ooYm37H3Ng=
+
+Name: whitefox/browser/devtools/eyedropper.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IyK/DswXiltEEDwMQGGyhQ==
+SHA1-Digest: Zg5VXOHZhc8cLpAYgxVb+9KBqTc=
+
+Name: whitefox/browser/devtools/fast-forward.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z/Pi3re2f0O52UOXGK6lwQ==
+SHA1-Digest: 7tH3onKsl1Sb2Ewpuo9BkSD4EQc=
+
+Name: whitefox/browser/devtools/fast-forward@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qF7DVwnCoRTou1S7bY1WCQ==
+SHA1-Digest: Ebqb/yfLqQJnuCAJw0gGzx2LHvs=
+
+Name: whitefox/browser/devtools/filetype-dir-close.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lkh1ed0F8ZhjP39CGLNTdw==
+SHA1-Digest: HMFaG14ousv6Pp3F6T5rM9XggVE=
+
+Name: whitefox/browser/devtools/filetype-dir-open.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: amV3/JHndMKmxOb+Fg3VUg==
+SHA1-Digest: +OnDDTaBwaW1aKK6btusQa72cT0=
+
+Name: whitefox/browser/devtools/filetype-globe.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8VlotDgX0mHZEt5kDQQQdw==
+SHA1-Digest: ccVuzx6FpGVVkrVspKYIbYs3T+c=
+
+Name: whitefox/browser/devtools/filetype-store.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UeMNCuZk8/nkrnIijvzg+Q==
+SHA1-Digest: PhYiJLM9uRgf+TY7hcZBfmop4XQ=
+
+Name: whitefox/browser/devtools/filters.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /JfSJ4W+LzfFhcnQ07elkA==
+SHA1-Digest: mfxzK/+/cJwnD1wRdGsib/kKJw8=
+
+Name: whitefox/browser/devtools/floating-scrollbars-light.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zag9PXvJat0tp09LdAMnIA==
+SHA1-Digest: BCD75iLqy59zZ616bRdcYedZgME=
+
+Name: whitefox/browser/devtools/floating-scrollbars.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ffkg5sOSrpWyIcbIRZlraw==
+SHA1-Digest: oPhBLbCkbhQgl4gBvVVHu3eHjPI=
+
+Name: whitefox/browser/devtools/font-inspector.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RRj8yfwjHlJOqBbgiuaBWA==
+SHA1-Digest: mFk4GuzfsEigAn3Cnsi0n61O0SQ=
+
+Name: whitefox/browser/devtools/inspector.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dFOuRUWLhClp0IMrkHC8yg==
+SHA1-Digest: igWX95nyk2WZNXDnmIVWziHpyuA=
+
+Name: whitefox/browser/devtools/itemArrow-dark-ltr.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tNjTuHc+ZJnoze7QzzbPmA==
+SHA1-Digest: A2X35lTcM3XguKrKnjmbLwOLsnw=
+
+Name: whitefox/browser/devtools/itemArrow-dark-rtl.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5MZxQHB6LgvsGySdjTZ0dg==
+SHA1-Digest: 4yRsWiVrAHZx82Mz5imWlovGzf0=
+
+Name: whitefox/browser/devtools/itemArrow-ltr.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lF5eFh1/88eW/y4P/du7Tg==
+SHA1-Digest: xC5J7+AHb7xGE1DjlbltO4FBBJU=
+
+Name: whitefox/browser/devtools/itemArrow-rtl.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Opzw276g4RHGiKdDac6Fxw==
+SHA1-Digest: o2jLX9/b9BRZ7JtaydP6uKONiQM=
+
+Name: whitefox/browser/devtools/itemToggle.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UCQ0FkeC3nt9XtY4iLMzWg==
+SHA1-Digest: BxFmio7fbf/ZGuTrHpC9ekE6LyM=
+
+Name: whitefox/browser/devtools/itemToggle@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dq1e8ySviISbZ1ie1GcFyg==
+SHA1-Digest: WUyLyT4t50qFxa2bQBYDC7yo+gk=
+
+Name: whitefox/browser/devtools/layoutview.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MbFx9mwRd2cQMRUFPSUeyw==
+SHA1-Digest: 0IMUGNuNXPL1oT45+33mgW14m4w=
+
+Name: whitefox/browser/devtools/light-theme.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /TyWQ1aZ0fmW8JGRyEYL0A==
+SHA1-Digest: MBQl3uzdYEdfcvbffy/61evSJHs=
+
+Name: whitefox/browser/devtools/magnifying-glass-light.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Avpd+LR6JxvwPfw5ewig1Q==
+SHA1-Digest: AQvlPoSwf4gkF8+ZA8RGKaB4Ssw=
+
+Name: whitefox/browser/devtools/magnifying-glass-light@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XEXH6wBbqoRXRhT99KRxRw==
+SHA1-Digest: nZPmaYXL9VCL3JzRACQitZ+SmQs=
+
+Name: whitefox/browser/devtools/magnifying-glass.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FUByKgQi20uzweA7u0rv0w==
+SHA1-Digest: OIKO1RJkQAlf7qBZNfjVx5bfxeU=
+
+Name: whitefox/browser/devtools/magnifying-glass@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LTZRq6NSvSFFFs4YfeD4og==
+SHA1-Digest: JyR9GExoBO63z2QAesd42ERoa8k=
+
+Name: whitefox/browser/devtools/markup-view.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1GzOsmTqvOBOKBRlm0Me2Q==
+SHA1-Digest: HpHBvN1FjwX7SIh/hGk0TaSvndw=
+
+Name: whitefox/browser/devtools/netmonitor.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lLFFMgPr82kitpC2OBnUsA==
+SHA1-Digest: ihoLfClFOKxRcR1QmG7hHJ7zrwg=
+
+Name: whitefox/browser/devtools/newtab-inverted.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Hf2ylcgjD8sYAy7N9v9kwQ==
+SHA1-Digest: O17bGNOYe26KAVSGL/EGxRUG7qU=
+
+Name: whitefox/browser/devtools/newtab-inverted@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1gtvPLEwZfLPzV0MCpvKRQ==
+SHA1-Digest: EWMMAJ5/qrbLy2pEmjev9BUMm7w=
+
+Name: whitefox/browser/devtools/newtab.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: t/r7h/y0Ni5XH719BMtZww==
+SHA1-Digest: pRjVj3omJhJLjrOzC9/S8Xcl/gc=
+
+Name: whitefox/browser/devtools/newtab@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MQzywjC+8PPc1+WEZNWi1Q==
+SHA1-Digest: zq0j+/BsLsjOyQ/ukbjwB3oMlfk=
+
+Name: whitefox/browser/devtools/noise.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PQ96Se6XzxjoXi/4mCA76A==
+SHA1-Digest: By30JelDzEzV5Pvl5jdYSG8dZn4=
+
+Name: whitefox/browser/devtools/performance-icons.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LY7Gm0fuKNFrhCdXSKnz8g==
+SHA1-Digest: hbt4pOdWKRR4mzd3QvqxL71HU9g=
+
+Name: whitefox/browser/devtools/performance.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LRwQR4Udjy6XkFbevIxEdA==
+SHA1-Digest: ToSXSX1Ds67VFvtR3Qv/1dBIL3E=
+
+Name: whitefox/browser/devtools/power.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pLpVMn2Kx/Bh40ZQBZ105Q==
+SHA1-Digest: 6JYzRC0baz8tA/ZOGMbv2ngwpKs=
+
+Name: whitefox/browser/devtools/profiler-stopwatch-checked.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uqHcIua3RjyAZdtAiZYKqw==
+SHA1-Digest: 9NL0v5xn9CC/fGgIlOBJKP/UjtQ=
+
+Name: whitefox/browser/devtools/profiler-stopwatch.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z8CFZaQZZQycHaI9CTV3Gw==
+SHA1-Digest: Y6cTursBiURgO+dpw6309PY/v0c=
+
+Name: whitefox/browser/devtools/profiler.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: t1g6WQ5EHwoK1i03u5Tf4Q==
+SHA1-Digest: Yy5qNmjTIybwJ8QLKC3S9hnV8Ns=
+
+Name: whitefox/browser/devtools/pseudo-class.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2I1acV/2Irqx7fIaLrB/1g==
+SHA1-Digest: Dq3JN2X0ifIBFDZxFv9D5u9zVxM=
+
+Name: whitefox/browser/devtools/responsive-horizontal-resizer.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: E4auKjqrkDObD1AXBPqVAg==
+SHA1-Digest: 6suQeVkp9j9GdjAGrpMXwfbJvdQ=
+
+Name: whitefox/browser/devtools/responsive-horizontal-resizer@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: O99cm53VQm7DQufOeu3BKA==
+SHA1-Digest: vq6q79F1PeuOcYyovQ/z74yqVn4=
+
+Name: whitefox/browser/devtools/responsive-se-resizer.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: inec9DVU35WyKiLx0OoKtA==
+SHA1-Digest: 2m9G+1h7y02YuVXmUyH+xH7secU=
+
+Name: whitefox/browser/devtools/responsive-se-resizer@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tcd9Wwb3PqhT/y1EaesNog==
+SHA1-Digest: bUi3STifS4Fc+5GV9Oi45GjZdDU=
+
+Name: whitefox/browser/devtools/responsive-vertical-resizer.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w1K5YemkeFm60WGKYV/4DQ==
+SHA1-Digest: 0gZvHL8Q3Duu1HmN3GzPfygNcIs=
+
+Name: whitefox/browser/devtools/responsive-vertical-resizer@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2tShuwb9HI9GnTE1tf7NZw==
+SHA1-Digest: egMoFAqY1G7EXkdPyQ/XssEok/w=
+
+Name: whitefox/browser/devtools/responsiveui-rotate.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1Dy7eOeq/mti2/KzN5X/gw==
+SHA1-Digest: V47msPFNhCzkvTtIkR8+5wVleKg=
+
+Name: whitefox/browser/devtools/responsiveui-rotate@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vW3P9/QAajzxs+DIVFd0Ng==
+SHA1-Digest: mb5Wy3inpCU70Urwwfzh+glZ8j4=
+
+Name: whitefox/browser/devtools/responsiveui-screenshot.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DUPp9dJjOhWNZlYP2lRCPA==
+SHA1-Digest: pPuSimYl/bCjHCcoR8ZzXqvh4+Q=
+
+Name: whitefox/browser/devtools/responsiveui-screenshot@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ySj00PI/3oHJ4e6P5MQ6qg==
+SHA1-Digest: hjk0R5zRfCjy0Z1x7ZyIMgRhBFw=
+
+Name: whitefox/browser/devtools/responsiveui-touch.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UWFJutmzukDDyk520Qp4OQ==
+SHA1-Digest: b/jCa/7gPvMor/UiA6LxBAriX+A=
+
+Name: whitefox/browser/devtools/responsiveui-touch@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JbxXTxelBAhCPcscnLQ9LA==
+SHA1-Digest: 1M22WHD1DJjVLR50VwvN+cnQmDs=
+
+Name: whitefox/browser/devtools/rewind.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sBhO0wzDhYm2TlLZVbi7MA==
+SHA1-Digest: h4AP/dYMItBVRqelm50QouEtyho=
+
+Name: whitefox/browser/devtools/rewind@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IwAtWlkHMM3Pb4dIxxkUCQ==
+SHA1-Digest: EYhJ2egCqFltukX475F1ZfSmmSg=
+
+Name: whitefox/browser/devtools/ruleview.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eMvcFDKTyrRz6gqBcswNpw==
+SHA1-Digest: pabnj7FNZndkXR/XGjhAtZ7rZF8=
+
+Name: whitefox/browser/devtools/scratchpad.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OYSwUESxf5JEQPSXhu0Tdw==
+SHA1-Digest: Ocq3bx7F9n0ihhaNUJHDXrIcnlg=
+
+Name: whitefox/browser/devtools/shadereditor.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EXaDFm0u4wybdCpRv2hA4Q==
+SHA1-Digest: LRqLe03MRM79LSDw3LOtEGvxaLE=
+
+Name: whitefox/browser/devtools/splitview.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NQSWp1aR/VKPlvk+hIdyVg==
+SHA1-Digest: HgNgtuQAaUEGNaiFN4i4FKgf+q0=
+
+Name: whitefox/browser/devtools/storage.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9dyjgANkydwUh+Z9UEXtNA==
+SHA1-Digest: Kq8rXhmLeZOS17KuYOX91jtucMY=
+
+Name: whitefox/browser/devtools/styleeditor.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: q8UoAfmn/bBTMfjnisiPsg==
+SHA1-Digest: z3peyFMUjbeRWI9iewtDMx4nC4Y=
+
+Name: whitefox/browser/devtools/timeline-filter.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cOzBOuGR8feXSAy4jL+oPA==
+SHA1-Digest: I4OkBQibmqNKIAsLhf1b1o+pJDo=
+
+Name: whitefox/browser/devtools/timeline.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oPwXTTOo7T8H77fXfjrYLw==
+SHA1-Digest: gNDqnDCqZDn1IcQ2CnbZ0CUfYvU=
+
+Name: whitefox/browser/devtools/toggle-tools.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cOy726iSzNcgOPK6MXVDAw==
+SHA1-Digest: 1qEMpyUFRzB/VIURRJ1utm4FncU=
+
+Name: whitefox/browser/devtools/toggle-tools@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e/YZzvoOTwDsiyUgndv3Kw==
+SHA1-Digest: QcUVcpzGT+qt5LjR4AdV8MGeZOE=
+
+Name: whitefox/browser/devtools/tool-debugger-paused.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: N8it87dxOjW7ul0haNZuzA==
+SHA1-Digest: seeDGCP2EW6bh7a4ps+jiZgiAnQ=
+
+Name: whitefox/browser/devtools/tool-debugger.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G7iZDfQINE02LmJ4vTynsw==
+SHA1-Digest: mObBv2zyz6PR2DQ2M6EnuKReq28=
+
+Name: whitefox/browser/devtools/tool-inspector.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yzdLZfOMRTp4SuZmqIBMXw==
+SHA1-Digest: wZU/nonJpZCJhbyFMgtBEb6ltqs=
+
+Name: whitefox/browser/devtools/tool-network.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: S6Np93SxtXxn67EBeq+egQ==
+SHA1-Digest: R77LHKPFUgNmM6w7CcvVkkDd4oM=
+
+Name: whitefox/browser/devtools/tool-options.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2D03SMBSJ12dsYCg6QvOOQ==
+SHA1-Digest: qRsEu0Ip3+fowvoHKe9yKysPygU=
+
+Name: whitefox/browser/devtools/tool-profiler.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z8CFZaQZZQycHaI9CTV3Gw==
+SHA1-Digest: Y6cTursBiURgO+dpw6309PY/v0c=
+
+Name: whitefox/browser/devtools/tool-scratchpad.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3ueebePy8lC7vCLOQaHK7A==
+SHA1-Digest: vcYy6MJ5SG/XZmQ2p91FztK7lPU=
+
+Name: whitefox/browser/devtools/tool-shadereditor.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5pPGp3uWnGuvwX7HMjgg0Q==
+SHA1-Digest: cWIaYZS/Rq4oTB7Ft4FmODIsCbU=
+
+Name: whitefox/browser/devtools/tool-storage.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 03fziN1dhw5FhrynPcTPMg==
+SHA1-Digest: BGXl2Dyw8bpN9rdv2j4nieR4XZw=
+
+Name: whitefox/browser/devtools/tool-styleeditor.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NPcZ/jlS6UUCnFs2NVC24g==
+SHA1-Digest: 8yYgRNbGMw66cbC0FC3VhKvDGII=
+
+Name: whitefox/browser/devtools/tool-webaudio.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yMqXSwZeEVhPrGecUIrNuQ==
+SHA1-Digest: Ti8HTZvgTQzMTFmPWSjVaqW7kOg=
+
+Name: whitefox/browser/devtools/tool-webconsole.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QXOCzZLp+xgjOJcElqYwlQ==
+SHA1-Digest: SCILcJzX7/BOdrg9MBhqI7aa7pI=
+
+Name: whitefox/browser/devtools/tracer-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jE3PeoNUR+P3mzqB57EFWg==
+SHA1-Digest: HchIYCY63/QSG42u09nyhw8Tq08=
+
+Name: whitefox/browser/devtools/tracer-icon@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VeDQ2gSC24159x15dpVL7g==
+SHA1-Digest: i/G+w8s15tKTuWMjcKjAPK/wb8I=
+
+Name: whitefox/browser/devtools/undock@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pkGGftyjii8UKi1M0cXnUA==
+SHA1-Digest: /zZluZWj4jTQnmfaxVDq060gQLU=
+
+Name: whitefox/browser/devtools/vview-delete.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4Sb6EHjOi0Gr5la9X1wNPQ==
+SHA1-Digest: 2cDk6khP7Dtt2tf7dnkwExmMBNY=
+
+Name: whitefox/browser/devtools/vview-delete@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vJyGJ9uCOmsjVcRph6Humw==
+SHA1-Digest: fvz19FTJpFkpcoaD7gEUiEVcQ2I=
+
+Name: whitefox/browser/devtools/vview-edit.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HKs1B/lCJxsGH1ajLhFb7g==
+SHA1-Digest: Ao/OTuzpBIzbwycrJth3a3c49+8=
+
+Name: whitefox/browser/devtools/vview-edit@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FVEhFuVgD8mKtJrnhC4kUA==
+SHA1-Digest: 7X6J6irlrvOXJ+t0nMtZ8YEgNQY=
+
+Name: whitefox/browser/devtools/vview-lock.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ce6PdxOwuix3JfkssWBxTw==
+SHA1-Digest: RWGSEAYF39783/EROC/eBwMFIiY=
+
+Name: whitefox/browser/devtools/vview-lock@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IvFDA/JimRhD8zw/3Eu1Lw==
+SHA1-Digest: Ol4fQACGuL1qfWUzdxIb1mtaFjg=
+
+Name: whitefox/browser/devtools/vview-open-inspector.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 94bSRBVgAr/HrgOF5pSoHg==
+SHA1-Digest: SgDNOrqa3/EAFh6mwMI6siqyQDM=
+
+Name: whitefox/browser/devtools/vview-open-inspector@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UOmu/r1FIWYGdbmgdF27JQ==
+SHA1-Digest: Gj4SNIcLPH6FWzbHuGtZrkdS6ls=
+
+Name: whitefox/browser/devtools/webaudioeditor.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s1Qmmw+1aXxLtoWJZlYxrg==
+SHA1-Digest: k5lR+u1bW1ecZ77Mulunqkn4Mos=
+
+Name: whitefox/browser/devtools/webconsole.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VzkE/NwiVhRzxL/uT2a12w==
+SHA1-Digest: unyKkslpe+q9zWw3UjFBkVZuFn8=
+
+Name: whitefox/browser/devtools/webconsole.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ek4hfI+UO9WQhOFayoNbGg==
+SHA1-Digest: h20Wnxa3r5sKKy8R39Ku9AFI4XY=
+
+Name: whitefox/browser/devtools/webconsole@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: owzMitsBkMVsqVvGOW3n9Q==
+SHA1-Digest: 27hv1a8BRZGrWjK2BXhpIx/Gtpk=
+
+Name: whitefox/browser/devtools/webconsole_networkpanel.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VM5wNXs23rgX17v7HNEMQg==
+SHA1-Digest: FciUCV1rjFffAJ2oCOWB3vZta6o=
+
+Name: whitefox/browser/devtools/widgets.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OZ3HqePpdeTs/WwXDHmzEw==
+SHA1-Digest: lFuA29roa8EsaVFrI5jeFYxXHWU=
+
+Name: whitefox/browser/devtools/app-manager/add.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: izymps3EFSAyhAEMtrOreQ==
+SHA1-Digest: 0RYXe7hSrHkHdQvM4ZU6u2U+T58=
+
+Name: whitefox/browser/devtools/app-manager/connection-footer.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: k7GYC2Pt3Lg/pOKK4SMeKA==
+SHA1-Digest: uLoe4cnd37obkVaAYV17XvGyJ2U=
+
+Name: whitefox/browser/devtools/app-manager/default-app-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wFid9cppAs8dE0ASbJGscQ==
+SHA1-Digest: t44M258UmvbGYS0UeN4BBDNcU64=
+
+Name: whitefox/browser/devtools/app-manager/device.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HbqaEFd0qQwK6+06aoj+lw==
+SHA1-Digest: TQLZDktr+flJIVZusPgMMe5HXtE=
+
+Name: whitefox/browser/devtools/app-manager/error.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: prfRCZU5Qd2E5rw5IG/JlA==
+SHA1-Digest: ++TGavOlHYLRhn/9uUlK38yeJ44=
+
+Name: whitefox/browser/devtools/app-manager/help.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Qt6TakTJ3RRz4+d9dw741Q==
+SHA1-Digest: 37iqSrIe2yPSKr80p8QSzCA6TN8=
+
+Name: whitefox/browser/devtools/app-manager/index-icons.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pJoQzB2Q7S09oJp5DXtZbg==
+SHA1-Digest: t2ir/ICo/vdGUjlRAh2vgdlVAZU=
+
+Name: whitefox/browser/devtools/app-manager/index.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 98hc4JbzR17yaoXS5uSfSw==
+SHA1-Digest: EllNb6dUXaea5h8B6/aEUH9Wp3g=
+
+Name: whitefox/browser/devtools/app-manager/noise.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uSezPqAi8Y4A+hywtfYpRg==
+SHA1-Digest: EliDr3xaP+X6G4SXU0t42/KctqQ=
+
+Name: whitefox/browser/devtools/app-manager/plus.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ifEdTEz6LZ+Iy1D7u5CL4Q==
+SHA1-Digest: 1xmhTqwC8BFo5PElcOc6QX2t8vg=
+
+Name: whitefox/browser/devtools/app-manager/projects.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Dd+iTYDUN2MMnUTLkp8L8Q==
+SHA1-Digest: WJ9JU3AjAS4R3Rj3tW8jX4RhhWE=
+
+Name: whitefox/browser/devtools/app-manager/remove.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cYuC//JP4k38/pBieQO7VQ==
+SHA1-Digest: vgCGUeW/o1a7vEjC3fqW8cGYaIo=
+
+Name: whitefox/browser/devtools/app-manager/rocket.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7dgTT7GZYHNxPuhgXoihuw==
+SHA1-Digest: c/pQ9Ukc/GuOgSNE7IYT2Kpf78k=
+
+Name: whitefox/browser/devtools/app-manager/warning.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ieuhb+oleqZ7uTeDKBsRaw==
+SHA1-Digest: gQtOZGIZ8M4Fl5BooCN+PlaNUxc=
+
+Name: whitefox/browser/devtools/projecteditor/projecteditor.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IUlXjKrCQQO6uaK4EH7ynQ==
+SHA1-Digest: e/kiaWVCiTFnpC3fe/6plZAimnU=
+
+Name: whitefox/browser/devtools/tooltip/arrow-horizontal-dark.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: g7neW7LNSIurAxGzqPFCUQ==
+SHA1-Digest: Z0+ycWDnKMYchEIKlTYneAE5weQ=
+
+Name: whitefox/browser/devtools/tooltip/arrow-horizontal-dark@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yxGmhP80FD7XpTLNQGx8qw==
+SHA1-Digest: s+DSSbr/j1VuxS+JB2MN8TKSGQI=
+
+Name: whitefox/browser/devtools/tooltip/arrow-horizontal-light.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FhaPKVDpA5lB/QYcaVZwUA==
+SHA1-Digest: GHsGzLPkqvfldH4yeGwS+FK35Ug=
+
+Name: whitefox/browser/devtools/tooltip/arrow-horizontal-light@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0ij2alXnL8Ruz7Cv/Nj7lA==
+SHA1-Digest: 2NKr8zzeAs8uMamgEH+jJZnEi7A=
+
+Name: whitefox/browser/devtools/tooltip/arrow-vertical-dark.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: x2UxT6Sdj7pGRbV9l9zY6Q==
+SHA1-Digest: LtkLTGb/BeYTdc6Au3eIDzkVBWE=
+
+Name: whitefox/browser/devtools/tooltip/arrow-vertical-dark@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uv/xVdiZ+PMRbEfFoitr0A==
+SHA1-Digest: 17Q15Zods/CfmLeo/rL5zZI6aUQ=
+
+Name: whitefox/browser/devtools/tooltip/arrow-vertical-light.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HIumoOntnATY8IQfNs8xgg==
+SHA1-Digest: DsM2aOOcpPHsUdvGLwAkc6zcPkU=
+
+Name: whitefox/browser/devtools/tooltip/arrow-vertical-light@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PbpIS5nYX2x+kOw458T7KA==
+SHA1-Digest: sCLvsW5ze+XtBnBXg0yfB5iA/qI=
+
+Name: whitefox/browser/downloads/allDownloadsViewOverlay.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yRMLz4/ewk8Bzg2NnLOM3Q==
+SHA1-Digest: XPUZfEY7y8KCGQ5iuZ4NVomge4c=
+
+Name: whitefox/browser/downloads/buttons.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KeWFHMJBhKAXPikYXlpDLQ==
+SHA1-Digest: Yl9GLx+HUJODF7pMedxeAe5ovTE=
+
+Name: whitefox/browser/downloads/contentAreaDownloadsView.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wNlDtHCDnv8bW+k0VYj48g==
+SHA1-Digest: kWZx++ID9nNxc+Dwq5qeMBxGU0I=
+
+Name: whitefox/browser/downloads/download-glow-menuPanel.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lZy81E/sOT4v7yuzxwW4gw==
+SHA1-Digest: 3WAjynUPDRLT1qLwBxrH9I8VbqI=
+
+Name: whitefox/browser/downloads/download-notification-finish.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bOgKQ0CylKoGG2lKxfLL7g==
+SHA1-Digest: TSHNVezvqg94Pib6E8thSlDSuxU=
+
+Name: whitefox/browser/downloads/download-notification-start.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8c77aXSHL7P9H9LrY7JhQA==
+SHA1-Digest: kB5wJhBtvTM22XW75NmaEA2ygSg=
+
+Name: whitefox/browser/downloads/download-summary.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: N/s4durXKuwfnATa3AtOTw==
+SHA1-Digest: 2oOmCw5SrljII3tSCuFyUGf5OHY=
+
+Name: whitefox/browser/downloads/downloads.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TxQFzyu//8Wsl9XEzbGuCw==
+SHA1-Digest: LWv+mXc8+2O0UakuAlUqM2vmoS4=
+
+Name: whitefox/browser/feeds/audioFeedIcon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KCumW28XGTxVgLHtnLagyQ==
+SHA1-Digest: d/9nsOMbu1nPs23Eo4CcaIITGqA=
+
+Name: whitefox/browser/feeds/audioFeedIcon16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sGaEL+EGybPGHTx4SYKOgA==
+SHA1-Digest: 41ND1Smv8UtRyNlLfDrcUnhj9Uw=
+
+Name: whitefox/browser/feeds/feedIcon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KCumW28XGTxVgLHtnLagyQ==
+SHA1-Digest: d/9nsOMbu1nPs23Eo4CcaIITGqA=
+
+Name: whitefox/browser/feeds/feedIcon16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sGaEL+EGybPGHTx4SYKOgA==
+SHA1-Digest: 41ND1Smv8UtRyNlLfDrcUnhj9Uw=
+
+Name: whitefox/browser/feeds/subscribe-ui.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lh64VluY2SXU08C4cT0+Hg==
+SHA1-Digest: nbRHPBZi7RSbaQ/OrbWbgrQfA3Y=
+
+Name: whitefox/browser/feeds/subscribe.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BFdpNiOkLQxomyeWZsxYyQ==
+SHA1-Digest: 8KzUhksyfUhRrYE4bQ+T32EQWEw=
+
+Name: whitefox/browser/feeds/videoFeedIcon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KCumW28XGTxVgLHtnLagyQ==
+SHA1-Digest: d/9nsOMbu1nPs23Eo4CcaIITGqA=
+
+Name: whitefox/browser/feeds/videoFeedIcon16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sGaEL+EGybPGHTx4SYKOgA==
+SHA1-Digest: 41ND1Smv8UtRyNlLfDrcUnhj9Uw=
+
+Name: whitefox/browser/fxa/android.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VYVRXf7RHwy7zQ7AnJsZ0Q==
+SHA1-Digest: hYVWVNeKza0P0U77R804SjHyk8k=
+
+Name: whitefox/browser/fxa/android@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sJwxT6EcoNROioTtG+3W9A==
+SHA1-Digest: sVTwTvod7n8jr+y3/HES0BK0I/w=
+
+Name: whitefox/browser/fxa/default-profile-image.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7M1BMSw3Botkli3O5R8++Q==
+SHA1-Digest: oTqB36y59KVz1ELTGtt6oomrQYc=
+
+Name: whitefox/browser/fxa/logo.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hTtH24cBm68cD1/+yu629g==
+SHA1-Digest: NAt79YBe+RGjj4OrtSdkOCCe6SU=
+
+Name: whitefox/browser/fxa/logo@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wrMcdSnRk2ITyzch0mVF7w==
+SHA1-Digest: /L+A2W7AAInTAfR4BiMzawdXWms=
+
+Name: whitefox/browser/fxa/sync-illustration.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QgxcPVm+TSzZ6Go7qGNVBw==
+SHA1-Digest: 60nU2njZRTK0x/M1Q8Pb3PylKo4=
+
+Name: whitefox/browser/fxa/sync-illustration@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LF4jvGwC1D5H3rIooiR/0g==
+SHA1-Digest: DXTIOFeNZqZHtwjCS0J2s+KArPg=
+
+Name: whitefox/browser/in-content/common.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w6klnRDcgZb4cU9iStCT/A==
+SHA1-Digest: 6AkbWhLFw0HtkQ6ZT24+G0GXB2U=
+
+Name: whitefox/browser/lion/Toolbar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mfmk3R6d47wNTMuocxCAjQ==
+SHA1-Digest: rW3e9Iq/cLAAVHSN73UjjRuSyIk=
+
+Name: whitefox/browser/lion/tabview/tabview.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KVMGgjnOSqG6vFnJvM1ghA==
+SHA1-Digest: 7fAmDXzbWyLgiGdN1/iCUeuY1bI=
+
+Name: whitefox/browser/loop/menuPanel-aero.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oel1DTYx9/sPb9ZouLLFyA==
+SHA1-Digest: tXLokwN4zj+stJIev4DEz7RCn2M=
+
+Name: whitefox/browser/loop/menuPanel.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oel1DTYx9/sPb9ZouLLFyA==
+SHA1-Digest: tXLokwN4zj+stJIev4DEz7RCn2M=
+
+Name: whitefox/browser/loop/toolbar-aero.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qAjKdOMl/rOV/4FEI3AdNg==
+SHA1-Digest: 4fVcniuUHfv3nAHFaU+aa220Ks0=
+
+Name: whitefox/browser/loop/toolbar-inverted.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HkFBsdGg0pHrKDe0sYmITA==
+SHA1-Digest: rPcb9MCu9hAxrJIfcaxEV9w1It4=
+
+Name: whitefox/browser/loop/toolbar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qAjKdOMl/rOV/4FEI3AdNg==
+SHA1-Digest: 4fVcniuUHfv3nAHFaU+aa220Ks0=
+
+Name: whitefox/browser/newtab/controls.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UQK6tgEzG9bChdbXIYqMCA==
+SHA1-Digest: zNWijBjtH3nrr3s5UAbAG7Cnlh0=
+
+Name: whitefox/browser/newtab/controls.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QO0SNbv+QBhlecolLtNp6w==
+SHA1-Digest: fYOPGm8X1DDkNlWijfo415gkfyA=
+
+Name: whitefox/browser/newtab/newtab-search.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3SsWLQFpJwi9LMRXxP6E9A==
+SHA1-Digest: xlo5KOjDIoPHTqR4Jsg4itHCzqc=
+
+Name: whitefox/browser/newtab/newTab-search.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: i94jADR2Cb0iqcbDMJOH7w==
+SHA1-Digest: z7+V/7WAuxTeN9eUUDGhU+wR11g=
+
+Name: whitefox/browser/newtab/newtab-search@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: q58IsbXDZlpTjVFZrGgGXw==
+SHA1-Digest: Z24smk22lu4bg2ueKRtBoBfERfg=
+
+Name: whitefox/browser/newtab/newTab.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: znzwJLnyPWzABNIT/YBSPQ==
+SHA1-Digest: nyxrWXrfKFu6dtvX/9Ri/F6NVa4=
+
+Name: whitefox/browser/panic-panel/header-small.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: U+790KuFYppZBm7mwOl26g==
+SHA1-Digest: t4ukDup8I+k7hGwXT/RLXibBTYw=
+
+Name: whitefox/browser/panic-panel/header-small@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TBkQaTbnN0MqnOYcy1JX9Q==
+SHA1-Digest: vEujMNY8KWtJzkty6kB2FuOtKv0=
+
+Name: whitefox/browser/panic-panel/header.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tZze/DV7jp4ASkTsUsi0MQ==
+SHA1-Digest: MxbQqsYGVBTee0GCwYtuCjDv1XE=
+
+Name: whitefox/browser/panic-panel/header@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: go1NkUVClRgguj2SgFW/hw==
+SHA1-Digest: 26DxFtebhP0uEK0dzOLRv84mOho=
+
+Name: whitefox/browser/panic-panel/icons.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CP3ADL5nTuGfMWEycTi8vQ==
+SHA1-Digest: 7lM4cljCaBDBJ/UASU8azNNnRfQ=
+
+Name: whitefox/browser/panic-panel/icons@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9qcQW3gj5Iy147MXK/yc9A==
+SHA1-Digest: BR0KaapHjckpy8ZHNz9RkgJfnxk=
+
+Name: whitefox/browser/places/allBookmarks.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pmrpNsAMqEGJ9bypKUNmdQ==
+SHA1-Digest: Sl7kpty1KpR0mNK4mtHHwJD3DdQ=
+
+Name: whitefox/browser/places/bookmark.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y4wBiBKzIEOYrclSpgJcRw==
+SHA1-Digest: VLGyDbqdSYjnlhiBcY2YYsfs9ug=
+
+Name: whitefox/browser/places/bookmarks-notification-finish.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yzzQX2ksMy4UATvo0/CqHQ==
+SHA1-Digest: jpbI6Yxixoxgj+wpkPKrY9hSBnM=
+
+Name: whitefox/browser/places/bookmarksMenu.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WNO7FUbc1/n6mVBdJyN5ig==
+SHA1-Digest: Tk4HzxsrIljgAug3syHZM7PEses=
+
+Name: whitefox/browser/places/bookmarksToolbar-menuPanel.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: buG0qpjV1LcOfN0EvJoKxQ==
+SHA1-Digest: XFZY3YaeBCAdk65zeDcTasU6KeQ=
+
+Name: whitefox/browser/places/bookmarksToolbar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 82B39OM98iZs4jAQR6wjhg==
+SHA1-Digest: tTCJAJj5I5RuG8pm1YeLziMy0HU=
+
+Name: whitefox/browser/places/calendar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eO0ThS4mKC9lUlxTW5364A==
+SHA1-Digest: lotqsMzjJJysww9dfX/qVlBxTAo=
+
+Name: whitefox/browser/places/downloads.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EoDmetCJJkEDMaoMHLWZ+w==
+SHA1-Digest: /5IS2LF4DDHttGssYMt4wZWqb2o=
+
+Name: whitefox/browser/places/editBookmarkOverlay.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iOZK6XV+9Hd6BOEbgKxWPQ==
+SHA1-Digest: nZuJ6X2viw8yAXgkpyZ7ZcVp/MQ=
+
+Name: whitefox/browser/places/history.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CUcS245Z8fT7O1iwSi8AqA==
+SHA1-Digest: YXH13Z1yKMtS3KgB9agLJnPgg1E=
+
+Name: whitefox/browser/places/libraryToolbar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FUleYLAyr6bo3pal0fxRRw==
+SHA1-Digest: PmJxgc8+c+7CL5rHry+JfnmWuX8=
+
+Name: whitefox/browser/places/livemark-item.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PgjVCrWMrCMk/j28gNAyqg==
+SHA1-Digest: JjzFgwVFSTend4crSE4bSGQwJtY=
+
+Name: whitefox/browser/places/organizer.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qPuTciCyXk2ni67+fUsGxw==
+SHA1-Digest: rgpd9qc4w5+hORWKer9ulNROhQY=
+
+Name: whitefox/browser/places/places.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eAFU3U2NvzO87UX1TabRcw==
+SHA1-Digest: 29Nw+He0lcBJTH+F8vlNr+JAayI=
+
+Name: whitefox/browser/places/query.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gsdWIScPLIma42+/+p0ygw==
+SHA1-Digest: Ntvxzl/q7w56E4KntdwCdFDRfAA=
+
+Name: whitefox/browser/places/starred48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iKDrW5+QZKsrnJ1TltU2dQ==
+SHA1-Digest: 3j2XDdmxMLXkh+YIZFIE+jAOJBA=
+
+Name: whitefox/browser/places/tag.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: grpKK7m6G6rtM7I0p8Wsaw==
+SHA1-Digest: ih+BSjV/dvKBDkFoADNDYdKYTrk=
+
+Name: whitefox/browser/places/toolbarDropMarker.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zzbyWh6tufbaZ/4qggo4ww==
+SHA1-Digest: F+ah3W1I0n9Pjn1CincQKOWucJQ=
+
+Name: whitefox/browser/places/unsortedBookmarks.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Tc5J+/RwTy+8fo9gwZJyPw==
+SHA1-Digest: ++oKEtFndB2ZUL0VK0QVMIngopU=
+
+Name: whitefox/browser/places/unstarred48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +yeF+GdM0l56fbUPiGPyPQ==
+SHA1-Digest: VHDHpjFC6XIgC8mRU2hb7YE6hUk=
+
+Name: whitefox/browser/preferences/aboutPermissions.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MBPItZFzfNCLjwzEz4yyMg==
+SHA1-Digest: EZqZtqDTZGrrSXOS1ZSsdHS4G+M=
+
+Name: whitefox/browser/preferences/alwaysAsk.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YpNRA3aIr1sZhMWmx4Liyw==
+SHA1-Digest: yyko4mgAfFoSWUWs079m4LE/Q7E=
+
+Name: whitefox/browser/preferences/application.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pCWosHUR8vC4CPgFxCaDAg==
+SHA1-Digest: 7p47K/7s3HPcjG/gWCwhD54/w7k=
+
+Name: whitefox/browser/preferences/applications.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oU0SR8Z7M4emMA4MaXX0rQ==
+SHA1-Digest: Nx8+hSDy41bUCrtU+7zc+SDKZ34=
+
+Name: whitefox/browser/preferences/checkbox-aero.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FmLksoMKykokOlz9O9R/yQ==
+SHA1-Digest: F6XL7FO+FYE5cfUnmhFfpKrRp1A=
+
+Name: whitefox/browser/preferences/checkbox-classic.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OKMbnx/k5TKuiLQIcU91YA==
+SHA1-Digest: n11n9vBT2LVhL9AgVisdl5sJISg=
+
+Name: whitefox/browser/preferences/checkbox.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: j9IY3u1Fug4ZO3DZBbCH9Q==
+SHA1-Digest: CMQZ9sovNo/FSpIgt5jNtexyPvY=
+
+Name: whitefox/browser/preferences/mail.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jJHAjICre2R0znbOGYVlqg==
+SHA1-Digest: mMppOI2OlnORGpH6db2mwU0u07k=
+
+Name: whitefox/browser/preferences/Options-sync.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TszSTrCpx0rMGcRIrkUj8Q==
+SHA1-Digest: PbSAGkbkvD+8+sTK1RiafeKL/pE=
+
+Name: whitefox/browser/preferences/Options.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HZ1XG0t2QIqQNh2OPBCd2g==
+SHA1-Digest: e4Ly57pizzYndQL6sBXoUvJK2WA=
+
+Name: whitefox/browser/preferences/Options.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 95bMtmpzsTLhStmV5Lop4w==
+SHA1-Digest: ds6q27u1FSBGRLdcCF5wIx6RL5U=
+
+Name: whitefox/browser/preferences/preferences.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SV7WGxJDnhIX7f6zuFWrXw==
+SHA1-Digest: gnSinhJbw0Uxkx/KPIyXrPuywDs=
+
+Name: whitefox/browser/preferences/saveFile.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XJ2UgOeC5XF2jS8Ehq4PNA==
+SHA1-Digest: 8rXx1Ft7NdmGkOtDqCnVIQXUcqI=
+
+Name: whitefox/browser/preferences/search.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FWXNOz7k4PTN5u9i+V8XMw==
+SHA1-Digest: TrwvP013JhQxhNFFc1wVbiDTgfc=
+
+Name: whitefox/browser/preferences/in-content/default-profile-image.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: W9v6bZwkIZfIpMaGozSFbA==
+SHA1-Digest: +wB7FO/lqjgU2QFYgnGn3l59BF0=
+
+Name: whitefox/browser/preferences/in-content/dialog.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: f2PKxk1gzHdq5E1BNEVVWQ==
+SHA1-Digest: xSlBj2xkl7Uw8N7rB7C36i+ZJfY=
+
+Name: whitefox/browser/preferences/in-content/favicon.ico
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oTq2M9IJucnAS1lClEvUPg==
+SHA1-Digest: /30f7gIpYj4daUkz2noaQgd5AxE=
+
+Name: whitefox/browser/preferences/in-content/icons.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +jPIap9qR+C4lt8rvbG1dg==
+SHA1-Digest: QAj8M8w6ViWxX3IwRvJT6EFJTMc=
+
+Name: whitefox/browser/preferences/in-content/icons32.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wflCjX70xFLYQ8CqNwa8nA==
+SHA1-Digest: 2g2qvSzh9P5Y2eEKr9YfJPP0xsY=
+
+Name: whitefox/browser/preferences/in-content/icons@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iq2CuF4rxvKEaTkNl9/wtw==
+SHA1-Digest: ufj0xKODgeLWTc9maAinnjf+Ds4=
+
+Name: whitefox/browser/preferences/in-content/preferences.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 03SjPl71+3V55TB0C/2QUg==
+SHA1-Digest: QKqPce/giltGdU4POil3+xT0G/k=
+
+Name: whitefox/browser/preferences/in-content/search.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v/JnM6ufRpE+9likZIC1ag==
+SHA1-Digest: tcsNwbv5DEHZf7feq3Cb1AW4oLs=
+
+Name: whitefox/browser/privatebrowsing/attention.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: A1z/pI2PZrRIfpTdeIelzw==
+SHA1-Digest: 6QsgYswbe5OylU+v8XR3A6kUtzs=
+
+Name: whitefox/browser/privatebrowsing/attention@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: x4K/vqpBcGVIz0VRGzLONg==
+SHA1-Digest: Wq2dKG4eW4aejWFgVzAWf3Xcdwk=
+
+Name: whitefox/browser/privatebrowsing/check.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LLFYfPgamk6kIYbqKc8Qcw==
+SHA1-Digest: Dxn071LJp5EUCmN2sJNL/XGFwJU=
+
+Name: whitefox/browser/privatebrowsing/check@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MQaOOYPunaTyu4M7vdKvUw==
+SHA1-Digest: lzZsKkRm1/B7FSIHhVR29jREBW4=
+
+Name: whitefox/browser/privatebrowsing/mask.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MJc1QTvnvUFivOrcUGeZ0A==
+SHA1-Digest: gv5W2Kt8tpGGBoWNxlmRevOIL64=
+
+Name: whitefox/browser/privatebrowsing/shield-page.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1xkDLChXbtBQQixzACJaJQ==
+SHA1-Digest: 7KLv9TiSGHHVEYH4PyGsFR84R58=
+
+Name: whitefox/browser/privatebrowsing/shield-page@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EcYeJe4//mcoCjPvIoD2iA==
+SHA1-Digest: QzXQjrA5E1tQJi0cswIT8eygrx0=
+
+Name: whitefox/browser/readinglist/icons.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OnaaUKaUFxj2Q7A2zE5eBw==
+SHA1-Digest: QT9HosfMXhGYkJXZnDOyJBaVtbA=
+
+Name: whitefox/browser/readinglist/readinglist-icon.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tQ69NdhW8KmwyLLANXt2Hw==
+SHA1-Digest: QihxW1+/OrUhmp9dyPHw2aQQt0w=
+
+Name: whitefox/browser/readinglist/sidebar.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: f132Kuk5mZQ9h5qJD2eWFQ==
+SHA1-Digest: ZaO1/ccMdrHCRHwI4zZpC0D5QOg=
+
+Name: whitefox/browser/social/chat-icons.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4aWVNdaBYf9mYNIhr2Xy3g==
+SHA1-Digest: ZuNUxy3TcpkHsm2SYdUIZ5D/5P8=
+
+Name: whitefox/browser/social/gear_clicked.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qfHvB1shS3mnBrx5v0wdxg==
+SHA1-Digest: mG/YobYNrg9/ZGYCPoFxT8z6jsQ=
+
+Name: whitefox/browser/social/gear_default.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZNMPpl3ifXGyapQ89PrD/w==
+SHA1-Digest: iZLkaGXRm+wkgJmGJkm3fuQfNdQ=
+
+Name: whitefox/browser/social/services-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oEHFzdfv3TXhmJgCahRM3g==
+SHA1-Digest: N2SkIPUywsLVso50ROhzaIBFkbY=
+
+Name: whitefox/browser/social/services-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sCqgWpiOTLtuTJlNPB1Iag==
+SHA1-Digest: AXUtcXbWOuacEaxmFJyfiVcId44=
+
+Name: whitefox/browser/tabbrowser/alltabs.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: buRIIznmygl4s14urSeevQ==
+SHA1-Digest: NVaxb07yAu0+spajVsl6A4/k2Pw=
+
+Name: whitefox/browser/tabbrowser/connecting.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Pk3GmPjhjjOwjRQHgZOHzg==
+SHA1-Digest: 7lupiZtf8WPjwZJrNoua2nYcbPU=
+
+Name: whitefox/browser/tabbrowser/loading.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GLQ3Bhi0xjbKT5HTX0KDMg==
+SHA1-Digest: C1YRrMpH8ETvrZlCGGqtxSBTPjY=
+
+Name: whitefox/browser/tabbrowser/newtab-inverted.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JZcMyMdiKz6I7FvBydacVQ==
+SHA1-Digest: 9JGLSmBVdNAX2eF1szR3Uy0v/dg=
+
+Name: whitefox/browser/tabbrowser/newtab-XPVista7.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2fuM5nNQwyLtDb/ssH8XXg==
+SHA1-Digest: kUw9ESh9MYLQmbwxG+E8vq8f2As=
+
+Name: whitefox/browser/tabbrowser/newtab.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2fuM5nNQwyLtDb/ssH8XXg==
+SHA1-Digest: kUw9ESh9MYLQmbwxG+E8vq8f2As=
+
+Name: whitefox/browser/tabbrowser/tab-arrow-left-inverted.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pnmlM+vlNptguGZvOzpDBw==
+SHA1-Digest: oSxVGWDnTfb378S03JP42CUYrAI=
+
+Name: whitefox/browser/tabbrowser/tab-arrow-left-XPVista7.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AGy3/EnlIJj7+XqM9yhjGQ==
+SHA1-Digest: 7jIIgQuywQ82ePN5vQVex6r37R0=
+
+Name: whitefox/browser/tabbrowser/tab-arrow-left.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AGy3/EnlIJj7+XqM9yhjGQ==
+SHA1-Digest: 7jIIgQuywQ82ePN5vQVex6r37R0=
+
+Name: whitefox/browser/tabbrowser/tab-overflow-indicator.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EbCY5O7cIhM4YAvxX+4OxQ==
+SHA1-Digest: MJiinIt+lXBwQS9ziUtvWDUw/F0=
+
+Name: whitefox/browser/tabbrowser/tab.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: U0aOdGStGRlviqx6pP7Qaw==
+SHA1-Digest: dC41xU+L4tCGOuR7eVWRupuYflk=
+
+Name: whitefox/browser/tabbrowser/tabDragIndicator.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1wnyJs9TGwl3B29bfgWygQ==
+SHA1-Digest: d1NITqsKFglIPeLXBmzB8qEuaDc=
+
+Name: whitefox/browser/tabview/close.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HYs+sxUJlGwzQwgdogxvvA==
+SHA1-Digest: qA6NfQC7eR4MQG52j5Rv4MmzuoA=
+
+Name: whitefox/browser/tabview/edit-light.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ksyk5O8AVy7u8Rb83VpTOg==
+SHA1-Digest: GC7d0PGN14+CPUvdnURkzR4o/Vo=
+
+Name: whitefox/browser/tabview/grain.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3idf47EGLNHBYPewUJpGuA==
+SHA1-Digest: k6ErVZ7gTLas3E+pEmEil7e1xTs=
+
+Name: whitefox/browser/tabview/search.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: t99ydlQrcNumgvyqEpf0Bw==
+SHA1-Digest: pUQAmJUWfxazpYcnvDOCW9G7xjc=
+
+Name: whitefox/browser/tabview/stack-expander.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QnpAwQu2Wr9NbyTUAvA/Qw==
+SHA1-Digest: lLBoErUHqpr2INfmFGVuM+/L86g=
+
+Name: whitefox/browser/tabview/tabview-inverted.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KVMGgjnOSqG6vFnJvM1ghA==
+SHA1-Digest: 7fAmDXzbWyLgiGdN1/iCUeuY1bI=
+
+Name: whitefox/browser/tabview/tabview.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iVQrcRpJOqzQ8Jz5plyzaQ==
+SHA1-Digest: EZdOYTW2OVTubGKL+yKItCFPxMo=
+
+Name: whitefox/browser/tabview/tabview.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KVMGgjnOSqG6vFnJvM1ghA==
+SHA1-Digest: 7fAmDXzbWyLgiGdN1/iCUeuY1bI=
+
+Name: whitefox/browser/yosemite/menuPanel-customize.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OQ5u6SAh10u7A8lR0F1WzA==
+SHA1-Digest: EzScChfRNdD9oYZuYCvHqRvcQNY=
+
+Name: whitefox/browser/yosemite/menuPanel-customize@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qPZ3mwpm48blqJEORRruTw==
+SHA1-Digest: rLy1XE/hvQc5T42mmfF0fhcZ9sI=
+
+Name: whitefox/browser/yosemite/menuPanel-exit.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s4pqwDRlwdd3ry30nCB0yg==
+SHA1-Digest: KnGrtT7EYEHKelfScVoaEYI+TqM=
+
+Name: whitefox/browser/yosemite/menuPanel-exit@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mMOusWoNODiIue8fhBo5hw==
+SHA1-Digest: 2Zw7AUqaXuuYdOalv0ywKSvkHIc=
+
+Name: whitefox/browser/yosemite/menuPanel-help.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LmqJQN7HbxskzlXhyxbIag==
+SHA1-Digest: LDe3P/PLZZnU+aisoPs6Qev2a/c=
+
+Name: whitefox/browser/yosemite/menuPanel-help@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rGCgWLBoqffWjGckr/lshA==
+SHA1-Digest: iy9dKhJ3mus6BhtPweRsSivzzPQ=
+
+Name: whitefox/browser/yosemite/menuPanel-small.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tjRdykI4Qr3Cm2hZHuGTdg==
+SHA1-Digest: teVQdmWohnhYwlfmODBLA1St5wE=
+
+Name: whitefox/browser/yosemite/menuPanel.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qLf3ceUn/zu4wll+1d0phg==
+SHA1-Digest: K1lbrYoFJYehHSZ3cF1+lAEKkX4=
+
+Name: whitefox/browser/yosemite/reload-stop-go.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HPhnOAcglIt4+6gHjKT16A==
+SHA1-Digest: G3wUuttQKQNjGHYaGXCHdnMxdWs=
+
+Name: whitefox/browser/yosemite/sync-horizontalbar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MJ/bX7fMEr8ff284E+VyaA==
+SHA1-Digest: ZGNjHumyPpuBc7+eCx6VwXd0TUk=
+
+Name: whitefox/browser/yosemite/sync-horizontalbar@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WvZNjYumif1JAfQmiAFaSA==
+SHA1-Digest: Fvfd94YZ2ZdM0ONMi1wxGnRH9wU=
+
+Name: whitefox/browser/yosemite/Toolbar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BcebbhfPri7MTD0MmmVCFg==
+SHA1-Digest: M3++bRVVyzZv4x+3/eg40dvgO6s=
+
+Name: whitefox/browser/yosemite/loop/menuPanel.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oel1DTYx9/sPb9ZouLLFyA==
+SHA1-Digest: tXLokwN4zj+stJIev4DEz7RCn2M=
+
+Name: whitefox/browser/yosemite/loop/toolbar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qAjKdOMl/rOV/4FEI3AdNg==
+SHA1-Digest: 4fVcniuUHfv3nAHFaU+aa220Ks0=
+
+Name: whitefox/browser/yosemite/preferences/checkbox.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y1ZHqtc4DWvCIQlrGmbI1g==
+SHA1-Digest: LmPNW56KbMcxmUHdbmoohNM3dGc=
+
+Name: whitefox/browser/yosemite/preferences/checkbox@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c/MY5Hxb3p6ZvbhU2QNobA==
+SHA1-Digest: dkXL/5HqLYK6CYa4asvVuTEZZmQ=
+
+Name: whitefox/global/about.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v2MKZeji0M8xitPMRIU9gQ==
+SHA1-Digest: QPFUU3dAuFzFu5ZPtxCPq/Vq+3c=
+
+Name: whitefox/global/aboutCache.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xuZzj/agbUlM8rpkamXnmA==
+SHA1-Digest: K9SSOWl7xE98u7TkifZK7wimjns=
+
+Name: whitefox/global/aboutCacheEntry.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fN1LMZ9yE7KY9m6a661N0Q==
+SHA1-Digest: S3zFQSnh3ck5U+RJPOPzvFvQ2qA=
+
+Name: whitefox/global/aboutMemory.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UeMqqpBs+pC+6lCYxG7y1Q==
+SHA1-Digest: ZWvFEw1Vf5rgrrC0n0J0JeSmy8Q=
+
+Name: whitefox/global/aboutReader.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Wm0msqQdVFSxC6VhbjuQ+A==
+SHA1-Digest: LbzLsCQoYTV3Q+qBVL2f+RiJqN8=
+
+Name: whitefox/global/aboutReaderContent.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JxostFaXao+mDh0xQ+aovQ==
+SHA1-Digest: l3Lj9ps925eAQmgT2OvXXt2auCU=
+
+Name: whitefox/global/aboutReaderControls.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: D3YwE0Bt4eYPCW2G28JzTg==
+SHA1-Digest: OOUn0RG4GnsSufbB1ulQDGz4qKY=
+
+Name: whitefox/global/aboutSupport.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bCfiveEb4IrIiWPG7p8fiQ==
+SHA1-Digest: EWmLFAhsBoR4J/eb/MJNkfpeWWs=
+
+Name: whitefox/global/appPicker.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HBgGk+0XdfYRvrbrn2MIHg==
+SHA1-Digest: S2LQZl5VSXhQb+etvl5yuM3sTJA=
+
+Name: whitefox/global/arrow.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XfiFl2wf+xOsFUp12Z4PWA==
+SHA1-Digest: Az/L+3PWbwW5y6IV43Cm2eGwEPI=
+
+Name: whitefox/global/autocomplete.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4ZMChpl81rkpXorn3XO1Ww==
+SHA1-Digest: XJu4IF5gUw6EyXYcxgqKqotBEig=
+
+Name: whitefox/global/button.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MLQJH2tU/5NaikTWvjCe0A==
+SHA1-Digest: IALZDoBjDwKN99fjxa62DC8dGZ0=
+
+Name: whitefox/global/checkbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OQJ7Lztu919cGvkgVkhMuw==
+SHA1-Digest: 1VVibLkxZpJOphrn7TK29W+oSBs=
+
+Name: whitefox/global/colorpicker.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Tg6QubzBHGxlQmymkNtpsw==
+SHA1-Digest: E/lEMkgFPUYglf1aiBeQdiI3A6A=
+
+Name: whitefox/global/commonDialog.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9GWXPT3ghGIgDRdzUC75/g==
+SHA1-Digest: RSWN86Ea7q7EvJehRcrMwXOHuLg=
+
+Name: whitefox/global/config.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NVSa3MUggo3WpNQzElorFA==
+SHA1-Digest: OqdblH4jHoZc3x0SmDz3oLm3sDY=
+
+Name: whitefox/global/customizeToolbar.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KsMhfAocPlVbfxOkX3pjaA==
+SHA1-Digest: JRymA/t3WOywwTUC6JEQD3xF1OA=
+
+Name: whitefox/global/datetimepicker.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qHXEsW3OO/lR4Kp23jiHkg==
+SHA1-Digest: Kdo5TuQUVC7J4GEWLK60nl995nI=
+
+Name: whitefox/global/dialog.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s12u9Na9NCtAQLT0xxCSBw==
+SHA1-Digest: OVMgb1OhPxnsvvVNHTg4fbkwRbM=
+
+Name: whitefox/global/dropmarker.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4yLORvJ8eh73SJ0I8nwsKA==
+SHA1-Digest: YDVsbqsP4oEzvhPUvLy7KtM7I0k=
+
+Name: whitefox/global/expander.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sXhIRQ/mOVGlEtJQJyalIw==
+SHA1-Digest: HaILZtVGMMvhO8S7rtor/Qzkd7o=
+
+Name: whitefox/global/filefield.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Fb/RqLkVCxILJG4N5LCGRA==
+SHA1-Digest: Qr1pg0uOmJE8rnVb9yLTm06H3NA=
+
+Name: whitefox/global/filepicker.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UuxBOZHURAJcI1mnAY7/qA==
+SHA1-Digest: GS088jeij+2bAr4+rmSgYV8sIbk=
+
+Name: whitefox/global/Filepicker.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LwmwfUR8VAwEF3HHD/CpJQ==
+SHA1-Digest: RbOE0kyW3okGIRL+X8xOLDxt4Xg=
+
+Name: whitefox/global/findBar.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ANrtUI/UcTDiDQOKquXzgg==
+SHA1-Digest: w9TWrRupF3/5rUPQO1Aa8V9vR2c=
+
+Name: whitefox/global/global.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /vze8SLKKHP9dGngH3r3ow==
+SHA1-Digest: /hqc8YaBcVNLZXDip9tdUk/VPhk=
+
+Name: whitefox/global/globalBindings.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: COkAlW4gv+7JPYjUcrmhAg==
+SHA1-Digest: UaKJiadQVfo+wBGXJ6NTbkVSlFQ=
+
+Name: whitefox/global/groupbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YKqX/G5BcpKcLA29T0WemA==
+SHA1-Digest: Obedq0oTp3LWB23eItpEI/N5Qmw=
+
+Name: whitefox/global/inContentUI.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jBE6de9Twp1C2jXEn2kZiQ==
+SHA1-Digest: 53miZjC9gQrap0cOTGHWmYoHuTQ=
+
+Name: whitefox/global/linkTree.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uW5O1Rj5k73Rm60ZP3gHGw==
+SHA1-Digest: R/NdNjZFVfeb6aJBSqX5nUghCLk=
+
+Name: whitefox/global/listbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tPdbNaJY4wIyFdk20q6mfg==
+SHA1-Digest: 0h8sHdfHfaHptisCntyNzrbN1Hs=
+
+Name: whitefox/global/menu.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HNWEPHMIWM3X64D3nwZdFQ==
+SHA1-Digest: 87LFPg6rJcg8kKoBHTovZ9ZpIcQ=
+
+Name: whitefox/global/menulist.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PI7W2s2wZPwys0sb+YHoEA==
+SHA1-Digest: jA505PhdMkK+EFaOMNc5a+oKVAM=
+
+Name: whitefox/global/netError.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 41PAcwyxeuh3X3byWv10nw==
+SHA1-Digest: JuHi7YVTHHnpnQt1FFoBgBh0JPc=
+
+Name: whitefox/global/notification.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EpHBA0tyFSeTil68rPnnkw==
+SHA1-Digest: JMzeXYf2j1Xo2jELuOgg9PkNW3k=
+
+Name: whitefox/global/numberbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Lmib6JIethAIm23E8xdyvw==
+SHA1-Digest: 1B42Fk7ezgDJbA4l7o483r1yNGw=
+
+Name: whitefox/global/passwordmgr.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: quGvGLBxDMZ2TepTUYpZAg==
+SHA1-Digest: 2jap5LopvapZwj8aDD5Rt/HIUVA=
+
+Name: whitefox/global/plugins.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UTD6S7yeNo6ujJ94HUCn9A==
+SHA1-Digest: n59hPDA7VjHvwu4GfdXqT6dAn9U=
+
+Name: whitefox/global/popup.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OPLTkCHED1ymiBa9E7Ui7w==
+SHA1-Digest: F+7mZ/SdNh7yRy5k5b7w7Nd3nZ0=
+
+Name: whitefox/global/preferences.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: t8hHIsauAghDDy6p3WvRVA==
+SHA1-Digest: wzqckYxJGUGn2eDDG6NCh/dyCkA=
+
+Name: whitefox/global/printPageSetup.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r6vY/ktGIOY/LDsUBJv1cw==
+SHA1-Digest: vhzCojrdXPdI8ctCpJTu3sh9ynU=
+
+Name: whitefox/global/printPreview.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9AU6CNnZxZY9j9wB6W9y/Q==
+SHA1-Digest: xIuokw6Z06ozBh49wuACRhrB3/w=
+
+Name: whitefox/global/progressmeter.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JcJ5gEcPdKLwy/IUGGzurg==
+SHA1-Digest: 2tlQ/3WEP/YRv1vNmJEo8wTGW6I=
+
+Name: whitefox/global/radio.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6xv3psPOQSVDI596BArUSQ==
+SHA1-Digest: ox0KK9Ky+vFLtSC6yHcoVS+pdeo=
+
+Name: whitefox/global/resizer.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4dFjBCPtEaqSPREmus6JgA==
+SHA1-Digest: 7BR/hdzQ5y85UCtK5O0ZC8+yakU=
+
+Name: whitefox/global/richlistbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GTLkVIhyUxsUGSOIyG/sDA==
+SHA1-Digest: gjiyE6pOHi92W1B6dp25IbO7S8c=
+
+Name: whitefox/global/scale.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 18TRG3ANdwstME9s1JZAFQ==
+SHA1-Digest: /Yqu8BCFhZDxxz/sVNK8N2Mdq1U=
+
+Name: whitefox/global/scrollbars.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ghzo5xHOzy06XyE5GjZ92g==
+SHA1-Digest: 5vhYvub07YvwTwCPx15R7MH8hKE=
+
+Name: whitefox/global/scrollbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b3R8PtQvZEb6DxC3/mFUGg==
+SHA1-Digest: qd77yX2GqFEoYLBpdVWxPLycAGQ=
+
+Name: whitefox/global/spinbuttons.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SAJ2y4ejLvLIy+sxYuTtQQ==
+SHA1-Digest: fHVvPyzYpZgUchsUCdqgBOKZzzk=
+
+Name: whitefox/global/splitter.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: do7vj5hA1Xu0StkKQq7Ljg==
+SHA1-Digest: w/NZVkMq1j6PtMp2h+XAz9ilpkQ=
+
+Name: whitefox/global/tabbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TDBvykVX4jxc+CHW8x//og==
+SHA1-Digest: 3Ds2OgfeXksU/9wy8qKxCX0wvlw=
+
+Name: whitefox/global/tabprompts.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VFTksG2TXI32xdlzaBreZA==
+SHA1-Digest: vC+bwSbqaxpBA2MqGOTZq4nvWag=
+
+Name: whitefox/global/textbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w3lPkpscR5x6BgakdE36jw==
+SHA1-Digest: OMofCTOwreDfwmz7MnnEmVcWKz8=
+
+Name: whitefox/global/toolbar.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YhUbQK+7GNJbL0bPPyK0Mg==
+SHA1-Digest: 8DO0Zo6gODDWzIi9xeuOD+akkLI=
+
+Name: whitefox/global/toolbarbutton.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hYV45+jPSFwDLsWp+MaXgQ==
+SHA1-Digest: TMxF170o4skV/kRCCXKpjZ7lEfY=
+
+Name: whitefox/global/tree.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mV0Jnt7Oba2qL3Xi2h0hcw==
+SHA1-Digest: GI4Y8JN0oVNPANWj9wRgqveIcEU=
+
+Name: whitefox/global/wizard.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bO76eIChomiUO1dtC7IREQ==
+SHA1-Digest: r8CjIuI4SnxUymVhbkRueeXA79M=
+
+Name: whitefox/global/alerts/alert.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iNLdhoPp6jHHx9sRMScczA==
+SHA1-Digest: sUJvYkoaK5E+rUphLRzN5YWLIx8=
+
+Name: whitefox/global/alerts/notification-48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: g0qPjQZMj+J74EdvHq+XsQ==
+SHA1-Digest: ubdOlkoPeiezxl0rdXlYLPb7iqE=
+
+Name: whitefox/global/arrow/arrow-dn-dis.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /Tu0R3EdNSDNhpXz1XzvXQ==
+SHA1-Digest: J/DIgjppbk+iE7zgdP3e4tBgWGA=
+
+Name: whitefox/global/arrow/arrow-dn-hov.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: P1PLxOdaekg3HBrqyWWsVg==
+SHA1-Digest: jWCrw3qXPmBYAIMEVKJeufMuvu4=
+
+Name: whitefox/global/arrow/arrow-dn-sharp.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2uh24WidCXyCeXB52DTuug==
+SHA1-Digest: SRDWUHQ8ANa0r79VNmauy5ncqGw=
+
+Name: whitefox/global/arrow/arrow-dn.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +14FduD1fbJsjbW5dgWRUg==
+SHA1-Digest: doQ5tA/5UJ60BENpbrFcAoebZVs=
+
+Name: whitefox/global/arrow/arrow-down.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7XJMy8AcNokUYGywF/2Qgg==
+SHA1-Digest: c0jugtDQhAF8AVDqhhdoY6jpZmk=
+
+Name: whitefox/global/arrow/arrow-lft-dis.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: i51genDodEBx7HoidY4uPw==
+SHA1-Digest: yK2GgG8G4YpxbYZq9/tWea3xB2c=
+
+Name: whitefox/global/arrow/arrow-lft-hov.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Xf+tvkW/PeLfzEXSQAEtsQ==
+SHA1-Digest: mguHI9fiOway4IBdxj1A8ErCcb0=
+
+Name: whitefox/global/arrow/arrow-lft-sharp-end.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OZUJtwG22TE2umaGhXXs5Q==
+SHA1-Digest: F0cO4LfOuAYYzicnD6MIqulLr74=
+
+Name: whitefox/global/arrow/arrow-lft-sharp.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: k9mOiP9gLIyQS3KqOUD9JQ==
+SHA1-Digest: NHuut4nVY64K1IungaHpPT0rcJE=
+
+Name: whitefox/global/arrow/arrow-lft.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Xf+tvkW/PeLfzEXSQAEtsQ==
+SHA1-Digest: mguHI9fiOway4IBdxj1A8ErCcb0=
+
+Name: whitefox/global/arrow/arrow-rit-dis.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y21QVsr8VE/HXiPyQllyhQ==
+SHA1-Digest: TMBj3ZKIjaZ6WnXuGoJEd338ok8=
+
+Name: whitefox/global/arrow/arrow-rit-hov.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Cy1FVfUUBLTBf5VGgptJWg==
+SHA1-Digest: X700pySm8jL/FaErOatektXigXI=
+
+Name: whitefox/global/arrow/arrow-rit-sharp-end.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: d974XSnQ8A54iAjCzhzzoQ==
+SHA1-Digest: yTZ2kNjKX54mjPuL+ZEJiI03emA=
+
+Name: whitefox/global/arrow/arrow-rit-sharp.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fMW466q+GGk9Y964QoHw9A==
+SHA1-Digest: T/TRxmvZtxvNc+HKXGuIjVsTtrs=
+
+Name: whitefox/global/arrow/arrow-rit.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Cy1FVfUUBLTBf5VGgptJWg==
+SHA1-Digest: X700pySm8jL/FaErOatektXigXI=
+
+Name: whitefox/global/arrow/arrow-up-dis.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JBD81vHgIiwGKAx6mLi1cw==
+SHA1-Digest: LA0rBf8G/e9zSQJOkkV6kccFPJA=
+
+Name: whitefox/global/arrow/arrow-up-hov.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UoBnL59mkW/Vm6LRqLhGsQ==
+SHA1-Digest: NgD90hG7hT9DRNBau6zn+sfDw2g=
+
+Name: whitefox/global/arrow/arrow-up-sharp.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qmvxLSNAAcIahMo7RcKaQw==
+SHA1-Digest: 1XBLBGrzygSzGsmR8zFP/FtjGn8=
+
+Name: whitefox/global/arrow/arrow-up.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IqEtPVM66nDN143tzNPeqA==
+SHA1-Digest: sUAiOzUi7XelttDqTYqz8CPf+rk=
+
+Name: whitefox/global/arrow/panelarrow-horizontal-white.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Y/0dWdo3q0Y8XVbpQDaNkw==
+SHA1-Digest: 2nPFlq/HUsqEPAR0cJhH1MKRA+o=
+
+Name: whitefox/global/arrow/panelarrow-horizontal.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8TG1OnBI3QutNp6sYscbhQ==
+SHA1-Digest: pEXDANrQZRt8FYq/BZWlQ6z+w+8=
+
+Name: whitefox/global/arrow/panelarrow-vertical-white.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Zip4iAAJIT8Po1rkmW1jxg==
+SHA1-Digest: cWCmxc8CaPRZsRcEoBiIm0RcF5s=
+
+Name: whitefox/global/arrow/panelarrow-vertical.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: K0TJ0ZOmeKMVEQJeRlO0Vw==
+SHA1-Digest: 4wMOx1wyTnoahY6ugPI7YhL6m9U=
+
+Name: whitefox/global/checkbox/cbox-check-dis.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0u9CXNhmiw+ukO1BMjSyrA==
+SHA1-Digest: B55ibUGzgCWfXctl22A1owtSx+A=
+
+Name: whitefox/global/checkbox/cbox-check.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zWXszTO49hPS1lqlzg3E5A==
+SHA1-Digest: qx5fIKLoBkb6mBaqdfzteBNVZ6Y=
+
+Name: whitefox/global/console/console-error-caret.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cpvGNZE72gXMfMh+8YDhjQ==
+SHA1-Digest: 478xzp2oIC0XFfit6hfdnbPdFnM=
+
+Name: whitefox/global/console/console-error-dash.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PQn9opKXkYQMyzQiXH4IPQ==
+SHA1-Digest: kdv3wq8SmUwNbl0fHUb3FJM2Uww=
+
+Name: whitefox/global/console/console-toolbar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qYS2Ssh2NDNo/FNMQyU3Pg==
+SHA1-Digest: VMj+ZJAfx7tlF0CDcFg3ulInowg=
+
+Name: whitefox/global/console/console.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: snGyY2Mn7vDikl6Uvaa+3Q==
+SHA1-Digest: OT93+IOm5EGlAZXH60fgQeK1Fz4=
+
+Name: whitefox/global/console/itemSelected.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pMzmQHGvpsxaAemO/FxDoA==
+SHA1-Digest: fKXPFZRlPTXREL5hSYoa4mxRDvc=
+
+Name: whitefox/global/dirListing/dirListing.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2xvcZPJFs7dBuejh8HRgJQ==
+SHA1-Digest: UXW39wOBtA6U5ZeEgYFarpgWN1Q=
+
+Name: whitefox/global/dirListing/folder.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: erou/zr+ciu/NQv4wvYgGQ==
+SHA1-Digest: VsUbSJJ+SGb0yTjo65f4pRj+66I=
+
+Name: whitefox/global/dirListing/local.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9pc0fM9oYf0M0YAKUWGnfA==
+SHA1-Digest: cYZJ+68AJPZVhyAPpWVUOrHl17A=
+
+Name: whitefox/global/dirListing/remote.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uthzDD7Vu3iTHcagFBCDvQ==
+SHA1-Digest: wB8ueX9FKlizQJQQH2azwh70xls=
+
+Name: whitefox/global/dirListing/up.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AYcWnV3IiQJ5OSkwbGr8/w==
+SHA1-Digest: vVl47maqTkNJvCgY1+ji714HH2E=
+
+Name: whitefox/global/icons/autoscroll.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: I3uL6ZgvFhiJxlYnaoXtEQ==
+SHA1-Digest: Y5uSXE7hLxVWFWr50Q3Ll0HRp4c=
+
+Name: whitefox/global/icons/blacklist_favicon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sIcAeCQKLRH62t4HtES5og==
+SHA1-Digest: OcAl+uO5FCoT38JWw/Ua8n3N+nA=
+
+Name: whitefox/global/icons/blacklist_large.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rhmhSqRh252wmEwANNW8Vg==
+SHA1-Digest: uNVF2kxLdU1w3NI/prexcjRdZ7o=
+
+Name: whitefox/global/icons/Close.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ++xz32gM1DHwTPKOk3e78A==
+SHA1-Digest: jhfkgVqccBIJJORdd+xNGQ3QJz0=
+
+Name: whitefox/global/icons/close.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BrqIgnS1+u/hVmK7OVkB0w==
+SHA1-Digest: mbkP92sftJCempgAhwpQg15MK5g=
+
+Name: whitefox/global/icons/close@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e3b0nSEc2SbXaKTzJJD+sA==
+SHA1-Digest: wHcnz22r8+oB1kJRNhDxYoniCOo=
+
+Name: whitefox/global/icons/collapse.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JfIkR3ovoB6lkPNsd8D9AQ==
+SHA1-Digest: G1NnmPUu8L4JHfl9+mwHJEwJFx4=
+
+Name: whitefox/global/icons/error-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QrG77OwQsApeGNc0KOmVtA==
+SHA1-Digest: xUx4VQj+kwbnIEu5JOSguFs7iLo=
+
+Name: whitefox/global/icons/error-16.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2xXmQLYG6DRNWdQDk5RBiA==
+SHA1-Digest: CTchGU/yDqRG+tzDawPMGevncmo=
+
+Name: whitefox/global/icons/error-24.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v0fVJR4KrPKXEuhaQD8X8w==
+SHA1-Digest: MGs19d81TFT43htISmdQAY19lwg=
+
+Name: whitefox/global/icons/error-48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fQXG5jSDx/Dx6xs7UsDeSQ==
+SHA1-Digest: TVdsveQl0YCcW4rlPbTUft3zxdU=
+
+Name: whitefox/global/icons/error-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TwFzIDqk/mVYzqtpaaqzMw==
+SHA1-Digest: nrZj7W05GtJhpiKUNyDiouGvD8o=
+
+Name: whitefox/global/icons/Error.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: K8lZA4Qrz9xgevA6SnLV5A==
+SHA1-Digest: T8wM6KfRPe49U0XJekRMgY4VKOs=
+
+Name: whitefox/global/icons/expand.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jc60vfX2K5GYpxnbbe21dg==
+SHA1-Digest: tv7B35+94ccU1VPwZim7ddAD9/Y=
+
+Name: whitefox/global/icons/find-arrows.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zQ/VJpvpJAyTKPoNJarajg==
+SHA1-Digest: J91ABTMUjH1xfd6rHbqvviugwLs=
+
+Name: whitefox/global/icons/find.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 913OOzZ4HyqTCEE8JG/IqQ==
+SHA1-Digest: o3S0sZQA9kN6g3W8fbisw4DfcZQ=
+
+Name: whitefox/global/icons/folder-item.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uCkbfnYMT+Sa2un4GNc9pQ==
+SHA1-Digest: KioLobsvj2Gm8uDqiMijPUwd02s=
+
+Name: whitefox/global/icons/information-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EmWfg1JxWtYi3sLJcj11YA==
+SHA1-Digest: XaA/rlOiTwHPRQaU1pdUBh86s9c=
+
+Name: whitefox/global/icons/information-24.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cDUpoy2Tee2sGGbDEKml/w==
+SHA1-Digest: TKqIH1uzvtgn9RrS9N1PNQ4THC0=
+
+Name: whitefox/global/icons/information-32.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XH3lrw0jIkXIC2mJ0Cy0aA==
+SHA1-Digest: IXuC56fEmSbWw/bwt3Wo++ToTes=
+
+Name: whitefox/global/icons/information-48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yMEtIGKhKyk/sXlBYVQXVA==
+SHA1-Digest: Bz0StIPwcU8RKsCTQqzJgQaZv48=
+
+Name: whitefox/global/icons/information-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EUvHu6uN6L9i9iooS73V9w==
+SHA1-Digest: IbkmohtV2RugzCHLmjUgavw8dzU=
+
+Name: whitefox/global/icons/Landscape.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BjDkJg/+TGzmcTM4hCJNoA==
+SHA1-Digest: Gaqf9pJrYQ0NXBWCtIzORIT6Pfs=
+
+Name: whitefox/global/icons/loading_16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: C/Au/xaLQZM4/khc9KbfrQ==
+SHA1-Digest: 2sVexCTPxC/QQ5LG17mE7k3Z1L4=
+
+Name: whitefox/global/icons/Minimize.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3uRr/GgNf3a42A3r03g5kw==
+SHA1-Digest: M+hhRqgXKyXnQhLMGyEhQD14a+k=
+
+Name: whitefox/global/icons/notloading_16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +t/cB2+x56kmyTeUTCuciw==
+SHA1-Digest: BFz0jbnXptc0fa8NRc0lucTGm90=
+
+Name: whitefox/global/icons/Portrait.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Hft09i8kxQz+Zv0X4Nj7zw==
+SHA1-Digest: ekJDVAK5tl6SIx9VrTVi+/t3nOg=
+
+Name: whitefox/global/icons/Print-preview.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jvh924iMLK/ufARGgiyf4A==
+SHA1-Digest: 2xhDAYxcnDgoUL97D3zv/5DiSfk=
+
+Name: whitefox/global/icons/question-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6GwPGSpHQ46opmUCG0em+g==
+SHA1-Digest: eOKQQQokVh9bOEo7B4Brbl3FYNA=
+
+Name: whitefox/global/icons/question-24.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cc0Hinae8jfnKRw6oGLUNg==
+SHA1-Digest: VNcNe9ICFXK0fYMA5bxaFFJkb44=
+
+Name: whitefox/global/icons/question-48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MARUL+wf360kz8XMFiNk6A==
+SHA1-Digest: Q/w+8wlf70/6UMzjAoSidbl6Xac=
+
+Name: whitefox/global/icons/question-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3rP0k01VbHKMFINONGZwFg==
+SHA1-Digest: 4xz+2a6cxL6HFnqCMK6n31kzf30=
+
+Name: whitefox/global/icons/Question.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bM1l+FEtUUjUb2nDE7/rlA==
+SHA1-Digest: cOlO9pbEnOdz8b2pvOSHmPzWc9g=
+
+Name: whitefox/global/icons/resizer-rtl.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3g/ResSU/aQQuvWO4aH7IQ==
+SHA1-Digest: OmCwIrC6vaqEHVf3zhecayW8d1c=
+
+Name: whitefox/global/icons/resizer.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cOJRIw4q31WMCq0xVWSJPg==
+SHA1-Digest: PE7OAdp5vUA6UnfjrkcEag5Tcck=
+
+Name: whitefox/global/icons/Restore.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MPoIHaXZQ7yagRcHNXlcQg==
+SHA1-Digest: 2uUZzsR93Bf5UqA4CgXaoNG/YVA=
+
+Name: whitefox/global/icons/Search-close.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BwvUNTUJqeKjxWuhPyZ8TA==
+SHA1-Digest: jA+kxNATkcbcJaGYaoTX1BrChiY=
+
+Name: whitefox/global/icons/Search-glass.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iAU6vSrXonQFe3ybSom3fg==
+SHA1-Digest: og7ZSMqQ7Y9uRjyXnoUOBh8H0eM=
+
+Name: whitefox/global/icons/sslWarning.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4XC7mcRxdMmaUylAm4090A==
+SHA1-Digest: 6SuW0vtkf4z+JsiwrmRpB83dBw4=
+
+Name: whitefox/global/icons/tabprompts-bgtexture.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EVHPVQ+LG+ocM2zdrdPkzg==
+SHA1-Digest: qE3/LOknLuetsmUb2jR3r/6ZSiI=
+
+Name: whitefox/global/icons/warning-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UUGgP0UTiDgp0X09lntPig==
+SHA1-Digest: jq22XYlZAM9Fu2tVpvBoUW7Ax68=
+
+Name: whitefox/global/icons/warning-24.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fdHt0t8DiGw41Y8g36kBPw==
+SHA1-Digest: hGcZSLsyuwaJ2NBlV9HgDPOtkHY=
+
+Name: whitefox/global/icons/warning-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0EvkFAmNxLQPnUYvUyqKLg==
+SHA1-Digest: OpleczDUkYl+nnqjklQe1xgUKJE=
+
+Name: whitefox/global/icons/warning-large.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YxG5+QXEsmKuvRPvyS6k7Q==
+SHA1-Digest: 2Hh7sRKRR48B8ofqI/UVifSCx1I=
+
+Name: whitefox/global/icons/Warning.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZPmUetzMWhuQXfFOWr34BQ==
+SHA1-Digest: 5/t932UBtsQPmrSSX7px+ccBBCY=
+
+Name: whitefox/global/icons/warning.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: T7vTHUwpAh2QgwCeAJILQg==
+SHA1-Digest: boSCNUcogld5yrSTJlxnrydE3yY=
+
+Name: whitefox/global/icons/webapps-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JsOzaqzBSryUC1H3DTKbDA==
+SHA1-Digest: pRT4YTNuy82JdJS14bx+8K0HsSM=
+
+Name: whitefox/global/icons/webapps-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uC2KRE0NxdwLt2CdltXGqg==
+SHA1-Digest: yxsDU9cGRpbwQn/E/4sx2MdjZ9o=
+
+Name: whitefox/global/icons/windowControls.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WSM0s0qd6eVveq6eKOvDZQ==
+SHA1-Digest: EWzT5TMyFCGbr2RcSpBg23br/7Y=
+
+Name: whitefox/global/icons/wrap.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: m97ItxH+W1Pe7NZ+cvS2yQ==
+SHA1-Digest: yYMMoItbmgHaC6MPpgrO8rYmqSY=
+
+Name: whitefox/global/in-content/check-partial.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RR7SSZywPrlQYeYVOcXh1A==
+SHA1-Digest: vSrfM+qSOMg8+5boVNQtlFHFD94=
+
+Name: whitefox/global/in-content/check.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: brNMMe7iZahYOx5eG9vOLw==
+SHA1-Digest: q6W/SJMTBk7ZBBdA/KLjWLufoEw=
+
+Name: whitefox/global/in-content/common.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Kh31pRO5ViB6XyGzcDlQDQ==
+SHA1-Digest: QUzW7gjiIy6MJUIKTznAOsVtR2c=
+
+Name: whitefox/global/in-content/dropdown.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: I7H37HYjN2hUG40atlO+Nw==
+SHA1-Digest: Bo9UPIXA4GDI4YafJQEMwZ3wtVU=
+
+Name: whitefox/global/in-content/help-glyph.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CSjf3FMxl4wR19hQm2Ashw==
+SHA1-Digest: JPJBQ9RI/5bX6O9smdnXmAE+Q9E=
+
+Name: whitefox/global/in-content/help-glyphs.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GxKRty+ATt15Tpjytt/vRw==
+SHA1-Digest: XdVf8m++bg9klrUvadpSpJARIGY=
+
+Name: whitefox/global/in-content/info-pages.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +23DPusyLH58IZnMJSkrvA==
+SHA1-Digest: g/CRyRILcnLajSORak5w/ktFG9A=
+
+Name: whitefox/global/in-content/radio.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DDL3wT87wbkee1iGBdakUw==
+SHA1-Digest: CDmBW2hDAteteGFmTo3JfhGI8+A=
+
+Name: whitefox/global/media/clicktoplay-bgtexture.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EVHPVQ+LG+ocM2zdrdPkzg==
+SHA1-Digest: qE3/LOknLuetsmUb2jR3r/6ZSiI=
+
+Name: whitefox/global/media/error.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XG0N7tqkRT1gju+4TvSAww==
+SHA1-Digest: h2VtjdXSuTOO/Lb3TL00YsmaCg0=
+
+Name: whitefox/global/media/fullscreenButton.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Og+J/82HQJGPLFr0EbUyhg==
+SHA1-Digest: noyqbf65OGYX9QvGhRWlEg5IUCQ=
+
+Name: whitefox/global/media/muteButton.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MYEptfh/IEjUKqbFBoOqMg==
+SHA1-Digest: INI5avXE2rWDdHt2+VIzCSZyVVY=
+
+Name: whitefox/global/media/noAudio.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ouTQxTCA6/RbHgrH/9+zBg==
+SHA1-Digest: WW4HlVv2Lj8IizBJLEHlSPcZVR8=
+
+Name: whitefox/global/media/pauseButton.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eUHxIXHBiVjtzRY53h7RgQ==
+SHA1-Digest: LtdOcufxMtX2BvFvEPpDfhd2w80=
+
+Name: whitefox/global/media/playButton.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Q5Uk0Qty2cafPhAEAqdSCw==
+SHA1-Digest: c64ro8uxQRDuFLFCXJ/RJ892FRA=
+
+Name: whitefox/global/media/scrubberThumb.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PA6CizJGP+JySxFn9S2skg==
+SHA1-Digest: xVZ8vwo5hXUdTQmzM5C6V5DWkZU=
+
+Name: whitefox/global/media/scrubberThumbWide.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qCxRWnyJX9h0ODc7bu7Wsg==
+SHA1-Digest: UA8frsMu0dRBBRjztmFEbxviAEk=
+
+Name: whitefox/global/media/stalled.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: utZkdFJLu2Di9vL8J34YBQ==
+SHA1-Digest: 0bS938242fiD43l2Z1lJh2wd1UQ=
+
+Name: whitefox/global/media/throbber.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /IweENctXkd/T2pOgVrnOg==
+SHA1-Digest: Ha7uguxh7AKzKl+zlQMs52lDeOo=
+
+Name: whitefox/global/media/TopLevelImageDocument.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8MBPPV7SEtp1S+7f/GfGOA==
+SHA1-Digest: I/CUQg9zvNNBWiq3OAVrk1SLdiQ=
+
+Name: whitefox/global/media/TopLevelVideoDocument.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fvJhlDrcOLYtwgwuBPoldg==
+SHA1-Digest: BBl/elfmVrxYK0xl9nWJvHRSfMA=
+
+Name: whitefox/global/media/unmuteButton.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: THDZrkLAJcxYR4S0fRqEAw==
+SHA1-Digest: bxRlkIvpZJMhY3v8p1uVExCXKwU=
+
+Name: whitefox/global/media/videoClickToPlayButton.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qsADKeXBR0Bn75hvrgsHEQ==
+SHA1-Digest: cmy3Ki8UwDTcs+j2nzC+MG+nTjw=
+
+Name: whitefox/global/media/videocontrols.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qZ0IlLfGNHR0egngQg328w==
+SHA1-Digest: Rzd75OV43UQNc79EhlliMLRnJnA=
+
+Name: whitefox/global/media/volume-empty.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AYeKNBdVLMOyL4iOIfFQzg==
+SHA1-Digest: zYl6o3s149X55V7UqUDIE8OnLHY=
+
+Name: whitefox/global/media/volume-full.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e7gTt/5F76Xd2HOGRZk9yA==
+SHA1-Digest: ZjpXE+GLOsBLDNkEcwVV/g/8jNg=
+
+Name: whitefox/global/menu/menu-arrow.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Qk1iYaQ4RMYlfX/3ShZ3pQ==
+SHA1-Digest: KnNR4MuUpYtFECxRANeIXUmk1wg=
+
+Name: whitefox/global/menu/menu-arrow@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GajKex2Oj2yL3043MhXwiQ==
+SHA1-Digest: mUIggijJ7Wr8m/ptPZaxR9K8Z1s=
+
+Name: whitefox/global/menu/shared-menu-check.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: baCowt9/4dDFmvcDxYcbVg==
+SHA1-Digest: 8XNYFJOYyKWrE5x9Ksa0ImLBu+k=
+
+Name: whitefox/global/menu/shared-menu-check@2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SPNCEPcSWME/NR/SFiplbw==
+SHA1-Digest: 5Br7b1pO0JN/wQFsou31D141k3I=
+
+Name: whitefox/global/printpreview/arrow-left-end.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rnwnJFKc///ufUlptXWq4Q==
+SHA1-Digest: lgbGc0eB92oT92uR6LPD69UmZDs=
+
+Name: whitefox/global/printpreview/arrow-left.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vRorvdBihgOs/Se0PCBiIA==
+SHA1-Digest: mYasfXvvx7VpPWwTkMaTlxDQ7us=
+
+Name: whitefox/global/printpreview/arrow-right-end.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: B5vU3nGOdNeGKsFmvkn+1Q==
+SHA1-Digest: H/i48towMFmonyRrEx1eO3sCjMo=
+
+Name: whitefox/global/printpreview/arrow-right.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bvAAdMZMxwm3AydHGoNMkA==
+SHA1-Digest: /tlxjTPCEjT+SKdORjPemG4VPeg=
+
+Name: whitefox/global/radio/radio-check-dis.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TsNOAg1lJfGuFN2ZMHelog==
+SHA1-Digest: cQw30NT6rExbWEw9Y14SbL6+2BY=
+
+Name: whitefox/global/radio/radio-check.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bh3TzCE5jhiGQ001H5wo1g==
+SHA1-Digest: bQ6L4+y52gyvZwlTPAsWbZXM3n8=
+
+Name: whitefox/global/reader/pocket.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BWfPGOVFqrlruyAl3S4iow==
+SHA1-Digest: o0nWIatzo1eX5D34GFN+MpK0tVI=
+
+Name: whitefox/global/reader/RM-Add-24x24.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IVFnN4epY9AHPfXiqTainw==
+SHA1-Digest: QK6R/kVqUlYC3PpZcPq3XAADF6c=
+
+Name: whitefox/global/reader/RM-Close-24x24.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1Da4jXMTyJTN92RYegrSNg==
+SHA1-Digest: +0z1rSQG5hK5Dl1vs+fBsLtBcS0=
+
+Name: whitefox/global/reader/RM-Delete-24x24.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8QXPg1V+7rSMQnyZqJIr+g==
+SHA1-Digest: bGy0S9ETONePLXRmnlwSIhvS2+g=
+
+Name: whitefox/global/reader/RM-Minus-24x24.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 25IF+Mp3EyKdscDwzKKbvA==
+SHA1-Digest: qeUBqvmB+T02bq+KOeMFXjQj+XQ=
+
+Name: whitefox/global/reader/RM-Plus-24x24.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EM8mvoGKnz6fO0M+58flug==
+SHA1-Digest: hHns/2rGAdf5ljRkJm+HtS5prtM=
+
+Name: whitefox/global/reader/RM-Reading-List-24x24.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iJUQOzdUWkIoUy4kqcBt7Q==
+SHA1-Digest: 9G1TQk3OhMO/8BFyGBwtga0ZVFg=
+
+Name: whitefox/global/reader/RM-Type-Controls-24x24.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SSfkF+lr5GEIG+TskcF5Ng==
+SHA1-Digest: rGT9r3sDznn5Pz3nDNrv8A7LbRQ=
+
+Name: whitefox/global/reader/RM-Type-Controls-Arrow.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: f3uYSaKPkZQTls/SGGm17A==
+SHA1-Digest: 4njrXx5WPeJq6zdhy+Ax7u6/Lhk=
+
+Name: whitefox/global/scrollbar/slider.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OXZPYiS1qzAjUn1hOLSLvA==
+SHA1-Digest: jH+ib0liU2Qj8ufEtx67FgDgyWY=
+
+Name: whitefox/global/splitter/grip-bottom.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Y3NgPLrnsLWANwg4aibS+w==
+SHA1-Digest: ErnsdepkQr7EqmzNxVWclOvGS84=
+
+Name: whitefox/global/splitter/grip-left.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ww0kFs2u5nGMAX8+o0t4vA==
+SHA1-Digest: RgfLN1bAfqofsWPyj4Dds/7xwcw=
+
+Name: whitefox/global/splitter/grip-right.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iBISjjQCVKYCcud6toGQgw==
+SHA1-Digest: vK/5ARkfsP7JS0ltGFzxQcWZ/ro=
+
+Name: whitefox/global/splitter/grip-top.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +G1MJdsu87+TvRtnviK+Dw==
+SHA1-Digest: gy/EwJJFbod54jSesU3dhvmjIHw=
+
+Name: whitefox/global/toolbar/chevron-inverted.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lzorP6SQypi1RY0DyudCeg==
+SHA1-Digest: knf6HZnIVHl/331DkWlUqF6E8kQ=
+
+Name: whitefox/global/toolbar/chevron.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hfZebLTqnIscocEtV9Dg8g==
+SHA1-Digest: 5wLVp2x/ecYxD4f0Jh9i5Cd6wWk=
+
+Name: whitefox/global/toolbar/spring.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /X+G4azFP+b6fQLwBFVEkw==
+SHA1-Digest: GWgW2iDdEPEWtBEdFu0KeC8Qw1E=
+
+Name: whitefox/global/tree/columnpicker.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tQLNtvtnsdP+O0cYz56+XA==
+SHA1-Digest: 0GFz042DCWuPevWxgS1eSbiZ+/s=
+
+Name: whitefox/global/tree/sort-asc-classic.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z6q7aCzmsCDMfUQMixTAJw==
+SHA1-Digest: 0Vq0tPK4PPFmOk4Okd6F51eGfOM=
+
+Name: whitefox/global/tree/sort-asc.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZxlI5lzx5nle97IEReDyHw==
+SHA1-Digest: wfFIXta1kPL8TFgYsA4PJmadC1o=
+
+Name: whitefox/global/tree/sort-dsc-classic.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kBwlfGdy1pxirMCItc5maQ==
+SHA1-Digest: wIUS/yY5z+XgRcTKGhmHqoCuzu4=
+
+Name: whitefox/global/tree/sort-dsc.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FElLI9x04ll4y/N0zWahXA==
+SHA1-Digest: k66ZPYrMGeqgrpFOLK+aPA9lu78=
+
+Name: whitefox/global/tree/twisty-clsd-hover-rtl.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rHEQGroeRgwpJIsusFs0JQ==
+SHA1-Digest: qsmzr45m+yiJ57KIJewpZQqSwz4=
+
+Name: whitefox/global/tree/twisty-clsd-hover.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZsfRWrKmYY2Wp5AWXUEFog==
+SHA1-Digest: rbECUcPjt9f6il3vyf5pJ5X3dyE=
+
+Name: whitefox/global/tree/twisty-clsd-rtl.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Hfha2sjV6/E+dtMPJjVrzQ==
+SHA1-Digest: ysklhiXpoAuqV7u3oXyBUFh/chU=
+
+Name: whitefox/global/tree/twisty-clsd.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GKWpFXQPdLeZq/NwD1jroA==
+SHA1-Digest: ZNKSrJm6rx9XLYymYFqmBVi7mnc=
+
+Name: whitefox/global/tree/twisty-open-hover-rtl.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vQ0BtoZYLQ8YZ58PaTqabQ==
+SHA1-Digest: CgU10gWvbU4sIEJLvaoOmE/guGk=
+
+Name: whitefox/global/tree/twisty-open-hover.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sbi919dlsgxPTw5a7tXRoQ==
+SHA1-Digest: TCNKYZwtU3mLlcICofJFoDJoVWY=
+
+Name: whitefox/global/tree/twisty-open-rtl.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mFiv6JeJGbJGfu7zyWRi6A==
+SHA1-Digest: VMabCrMW+1S5jaRcruH9XrMMTnM=
+
+Name: whitefox/global/tree/twisty-open.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6JBiP4c7Fw0HJ0c5s+NHag==
+SHA1-Digest: AQeC5LDWrr6PjKQvghGd3iw49xw=
+
+Name: whitefox/mozapps/aboutNetworking.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cJ6HJCYuCAYE62frhSmUhQ==
+SHA1-Digest: VaD144uvzxa9xXHyXYlZ6rL0+Ag=
+
+Name: whitefox/mozapps/downloads/downloadButtons.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pALTj97rCg0CFSndph7FkA==
+SHA1-Digest: O+I2CPscAb4KINpZmx+3HBx6IK4=
+
+Name: whitefox/mozapps/downloads/downloadIcon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eBRqMFk1JMlKrsRsbBgl1Q==
+SHA1-Digest: FMFJR3i2/12a0yQmcuSY9y1zixk=
+
+Name: whitefox/mozapps/downloads/downloads.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: slv3Oqk92oSnyISCPcTk9A==
+SHA1-Digest: ZXVRzeTzDZILjrcbm2W7RWtCazE=
+
+Name: whitefox/mozapps/downloads/unknownContentType.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2ohUoYL9rRIppTbLXgYfbA==
+SHA1-Digest: ZtF5cQk5mN0Z3Loi9j60lefn7Xw=
+
+Name: whitefox/mozapps/extensions/about.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6WXEeP4jnc+qYN/Pvz3T+Q==
+SHA1-Digest: rNd257+355hwiN8eyR/yvmKYDbs=
+
+Name: whitefox/mozapps/extensions/alerticon-error.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y7KIoBLKzeD7IqVcAa3uIA==
+SHA1-Digest: fz8sfqCTRKQ2p7s7dONY6F3pzLA=
+
+Name: whitefox/mozapps/extensions/alerticon-info-negative.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QLKa0ErxlwS5StfCIzwsGg==
+SHA1-Digest: +nAD+fb/L+H+LC5bQp0JT17MC6w=
+
+Name: whitefox/mozapps/extensions/alerticon-info-positive.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: U9n0G6x5FmmgaLAcnUbVbg==
+SHA1-Digest: qmj1IFXm6MQedlBZVilDEsNn4L4=
+
+Name: whitefox/mozapps/extensions/alerticon-warning.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wVlWoJJ8JBfbobnYc825Pw==
+SHA1-Digest: yF0Bj7lNTmNWaGxNDqDCXpF9Ow4=
+
+Name: whitefox/mozapps/extensions/blocklist.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: agx7Vmy2m4CSa21kUfwvFA==
+SHA1-Digest: Hi/ZPlIowjEm3fiPNfALAmhQaBk=
+
+Name: whitefox/mozapps/extensions/cancel.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JkYbLuyX87hyxLKG3Vk6pA==
+SHA1-Digest: VSBoB6ZB73ynuUeoHOWdqkxvOcM=
+
+Name: whitefox/mozapps/extensions/category-available.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XZRuz+zOw1P5t6SCmXEdEg==
+SHA1-Digest: nCsfHQWcVdOwC9DGkiOobk9oKbs=
+
+Name: whitefox/mozapps/extensions/category-dictionaries.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bA6Wmn++Zi9jlHjaIOASxA==
+SHA1-Digest: oFwHSK0/hRwRqykg15zVMR/+xPo=
+
+Name: whitefox/mozapps/extensions/category-discover.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: M3OteVW6JauJ+GHR3czstg==
+SHA1-Digest: LwHg7NW076dqz/SWl1tnQ0+rsZA=
+
+Name: whitefox/mozapps/extensions/category-experiments.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xtIcc2gNOIYbohjbTdvObw==
+SHA1-Digest: aDw82Z/ktRzFqKPYMz8bR6eaeL8=
+
+Name: whitefox/mozapps/extensions/category-extensions.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ju838R7zu34wYLpayTbEnA==
+SHA1-Digest: KNJPAv6P7GZ0jT9FFqcmVK3HOsE=
+
+Name: whitefox/mozapps/extensions/category-languages.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Oz6OPjUY9fMVwdFhUyjWnQ==
+SHA1-Digest: U+wj1VxxdMBRhUdyitF27WROgw4=
+
+Name: whitefox/mozapps/extensions/category-plugins.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mdaXXR1DfbucBfNWXLTYrQ==
+SHA1-Digest: JduNJhnYmjI+s8o0yyRTrV3nYXM=
+
+Name: whitefox/mozapps/extensions/category-recent.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KSzgnDlAvYAtCsbJ2ktU3Q==
+SHA1-Digest: mhnU/aay70yPjzNnpLMk1fCWn0E=
+
+Name: whitefox/mozapps/extensions/category-search.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4W/lUfwf+bW1V7zzXb0iCw==
+SHA1-Digest: odgO3LF5z+4nqg53Phb1KTvfSB4=
+
+Name: whitefox/mozapps/extensions/category-searchengines.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4W/lUfwf+bW1V7zzXb0iCw==
+SHA1-Digest: odgO3LF5z+4nqg53Phb1KTvfSB4=
+
+Name: whitefox/mozapps/extensions/category-service.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: X/Ej5xWqnNsSoF75QlD5SA==
+SHA1-Digest: DpSh3h3tOKH3b3IxtgCHBiLOw7E=
+
+Name: whitefox/mozapps/extensions/category-themes.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: I2b4ooNPxVVV/IP/237Stw==
+SHA1-Digest: lf3xibZBBIahDBsKDNpVzjn7fpY=
+
+Name: whitefox/mozapps/extensions/category-userscripts.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e2DsVhm9jS52Mk3dHfJDoQ==
+SHA1-Digest: wOTmVvVRdTQUiaoCosxKSWOL+Sk=
+
+Name: whitefox/mozapps/extensions/category-userstyle.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: o7JQM5c73mD99zw4wgdAFQ==
+SHA1-Digest: Hrrq4S89t2kkdKkrcDAeLJU1qxE=
+
+Name: whitefox/mozapps/extensions/dictionaryGeneric-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8g9LBKten0feKttWfPsMYg==
+SHA1-Digest: tFC6PQXgVrC+39j/g3tfsRHMYQI=
+
+Name: whitefox/mozapps/extensions/dictionaryGeneric.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YrXBQvEW5gf5IRstZUbxTQ==
+SHA1-Digest: NZ8e3zHLBAGn7GR3Yk3MW0NA9vg=
+
+Name: whitefox/mozapps/extensions/discover-logo.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xM10p6b2HpMwkkDCTLKHog==
+SHA1-Digest: m7dfoIz8UBuEgmCydQ0hQd33FGg=
+
+Name: whitefox/mozapps/extensions/eula.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oxGJzeQXnkHg6yexT9lU7A==
+SHA1-Digest: C/48k7d63GDdpmfMyOj6JjZFnDc=
+
+Name: whitefox/mozapps/extensions/experimentGeneric.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tROfp46l4w+Kw8USnPX+3w==
+SHA1-Digest: HLhfsVDg0qmQNXT88JfC7ShtQ7I=
+
+Name: whitefox/mozapps/extensions/extensionGeneric-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3iIL8n1jE4DgULfzXGt+jg==
+SHA1-Digest: oPhHtkioMhZq74YTvybGhADr9mQ=
+
+Name: whitefox/mozapps/extensions/extensionGeneric.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 30LnHyamzLQUeU0Anuxj5Q==
+SHA1-Digest: 6G969clbdde5+KdvDNKpV9WNQvQ=
+
+Name: whitefox/mozapps/extensions/extensionGenericNotify-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: obqYX213Wl22kkcd/vANtQ==
+SHA1-Digest: jtdkgUEXWb9zqp7hi58lKjwdkpM=
+
+Name: whitefox/mozapps/extensions/extensions.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: h4yEgzP84LgQVBxJdY4aIg==
+SHA1-Digest: /ANy8bUUgTeMXbvVXXc++rFPh8g=
+
+Name: whitefox/mozapps/extensions/extensions.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 68MzGZfx8fzHTfm9YGT6Qg==
+SHA1-Digest: zWLhy6B5NjLyrk8BWxU+o2QJYq4=
+
+Name: whitefox/mozapps/extensions/heart.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aowTFOMLW7dxnwT93f+l2Q==
+SHA1-Digest: LIWOZ3TaNv4d7C0z8XCNNx28Lus=
+
+Name: whitefox/mozapps/extensions/localeGeneric.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DWu8uaVzT5tBu2iCcRbNTg==
+SHA1-Digest: KGBVWGwH1pWx2q84lWg8iogOKFE=
+
+Name: whitefox/mozapps/extensions/navigation.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1mjvVNn/ipfxYDLYcOpCHw==
+SHA1-Digest: fBVWGIDM1qqRqf2wOJfpkZNVnzU=
+
+Name: whitefox/mozapps/extensions/newaddon.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: f+ARqSriralRyd5zqwYGGg==
+SHA1-Digest: 6JOqpwTWW2k37cNRyqKtWrb1prw=
+
+Name: whitefox/mozapps/extensions/rating-not-won.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zFsKrARF1ByzUUOslejrqA==
+SHA1-Digest: XPfWDOErWoE/gIBGCgGTaRhFziM=
+
+Name: whitefox/mozapps/extensions/rating-won.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jzXrsxyZyUlMWYVF0XNEQw==
+SHA1-Digest: SPkhR70+nh94kVH4BXVq/cBbJ0w=
+
+Name: whitefox/mozapps/extensions/selectAddons.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7t24KaigCMlORoNRoE0EOg==
+SHA1-Digest: N9gjrZwE8kQ6ZOgc1obpc51ld/c=
+
+Name: whitefox/mozapps/extensions/stripes-error.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Gm+ZLifav400CkWPns4wfg==
+SHA1-Digest: tcAeZhUuo333rY+P6PawAQUA/ag=
+
+Name: whitefox/mozapps/extensions/stripes-info-negative.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IxDQErWnGix08o07IErHfg==
+SHA1-Digest: LDZ1DylVVFiKIwXyQqzRBPtA2rA=
+
+Name: whitefox/mozapps/extensions/stripes-info-positive.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dNCNvzjCtWeEw7oSoaOS+Q==
+SHA1-Digest: pmPTNm8T1I+5IZd7nxCAhKzpcgI=
+
+Name: whitefox/mozapps/extensions/stripes-warning.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F58ryT6nTTiVi7mJMcQYRg==
+SHA1-Digest: WCMSg2O2EYXqV8ILyHYBBtHbFik=
+
+Name: whitefox/mozapps/extensions/themeGeneric-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IE6FpgrsAmoD9Ua83h4b9A==
+SHA1-Digest: FSZT3LaHmDB1vMDocx8diW1XDxA=
+
+Name: whitefox/mozapps/extensions/themeGeneric.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: k1FuViXq7BEzkGw9UOuqiQ==
+SHA1-Digest: +QJ+8H6iWMgsecxl3Z1NKO+xwrc=
+
+Name: whitefox/mozapps/extensions/update.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gHcAYOehSU7lit/luzG3WA==
+SHA1-Digest: FfKCjWjycgoSVF1WW8/Ig6XkzLg=
+
+Name: whitefox/mozapps/extensions/utilities.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lJ7q8so0OYEp1C6a5Lga8g==
+SHA1-Digest: 0lLIhiOv2KrYJ6AJQJ30oQka2d0=
+
+Name: whitefox/mozapps/formautofill/requestAutocomplete.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nw2knjV5IxkwLcvKzW3OQw==
+SHA1-Digest: edTCZmwfL80KRX8iLCHhC1qalwA=
+
+Name: whitefox/mozapps/handling/handling.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hYLIlkgrBLzzkQxA70xDeg==
+SHA1-Digest: tL8v4ILPv5O2cN4oYgfwROrtMyA=
+
+Name: whitefox/mozapps/passwordmgr/key-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PMV/EfAA8mnh9LogkukrlA==
+SHA1-Digest: M1EWqw1LiUWzph9Nl+PKR/1F2Uo=
+
+Name: whitefox/mozapps/passwordmgr/key-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: safUY/JKC4vANKh4WWzt/g==
+SHA1-Digest: +VHNGYGPkgCj+mcmDpjTI1CXSjY=
+
+Name: whitefox/mozapps/passwordmgr/key.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PMV/EfAA8mnh9LogkukrlA==
+SHA1-Digest: M1EWqw1LiUWzph9Nl+PKR/1F2Uo=
+
+Name: whitefox/mozapps/places/defaultFavicon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1IDeQLDTrMYWNcOXCPce0g==
+SHA1-Digest: JH/39qhI2I5HvEK2JVFSwfuVpCI=
+
+Name: whitefox/mozapps/plugins/contentPluginActivate.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xqZPh2FX+FO2fYVwLumYXA==
+SHA1-Digest: Pbfq34vh6/j3+44/J8LPFJhkYRo=
+
+Name: whitefox/mozapps/plugins/contentPluginBlocked.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 11eeMiXP4tR9ybeN+XsRfA==
+SHA1-Digest: ltCJtd3RFmGe3AHhK9zEQJznKpA=
+
+Name: whitefox/mozapps/plugins/contentPluginClose.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 50F3UbRw4v82korZYnL2lw==
+SHA1-Digest: U2rLsDuogcR61S+p5HD2/WJD31A=
+
+Name: whitefox/mozapps/plugins/contentPluginCrashed.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +oUVFfDxg4TPH8lHA8Hh3A==
+SHA1-Digest: Jge9ep4LjS+k8ZGybquIYc9nsxU=
+
+Name: whitefox/mozapps/plugins/contentPluginDisabled.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F9x9h90jBFP3rY+pOPm0Jw==
+SHA1-Digest: BavGR2bU7WaUZv7DSOK/TFH84ys=
+
+Name: whitefox/mozapps/plugins/contentPluginDownload.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Rk0PpjEi7I10Vu2g2puAVg==
+SHA1-Digest: nERG6plyQ/o/C5MeXzvHPGzOeEs=
+
+Name: whitefox/mozapps/plugins/contentPluginMissing.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zxV1xfU0GJWJVCHPRT1grw==
+SHA1-Digest: V9ncQSDCkGGqto8ABh6hRkHM+dg=
+
+Name: whitefox/mozapps/plugins/contentPluginStripe.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: svyHxymxpdsRRyMwn7uHTA==
+SHA1-Digest: GfF0RjFosHzAGOmDOxFUZKHa7D8=
+
+Name: whitefox/mozapps/plugins/notifyPluginCrashed.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OvkfZPJw/pSQJ46Ki5p/ew==
+SHA1-Digest: I9dbNGuADBWaWgcLorh5uu1pt5s=
+
+Name: whitefox/mozapps/plugins/notifyPluginGeneric.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OvkfZPJw/pSQJ46Ki5p/ew==
+SHA1-Digest: I9dbNGuADBWaWgcLorh5uu1pt5s=
+
+Name: whitefox/mozapps/plugins/pluginBlocked-64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gc1Zlc1T4gr+5ir7nd7LgQ==
+SHA1-Digest: 8KijUA3djQX2EDYXeXQHGzuVqRg=
+
+Name: whitefox/mozapps/plugins/pluginBlocked.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gJC8usKbjXftCfhRsd9UuA==
+SHA1-Digest: kPkAGx0F0m2B9kK/Lc930bPZ19U=
+
+Name: whitefox/mozapps/plugins/pluginGeneric-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OvkfZPJw/pSQJ46Ki5p/ew==
+SHA1-Digest: I9dbNGuADBWaWgcLorh5uu1pt5s=
+
+Name: whitefox/mozapps/plugins/pluginGeneric.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GTw0LLYIvWXbt2UNTj8kuQ==
+SHA1-Digest: XEP9QrnlbWNfm4JU/RShvzasUdA=
+
+Name: whitefox/mozapps/plugins/pluginHelp-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DARBuKuUAGYJQAq2MfI7Pw==
+SHA1-Digest: Fmshg3QT+ui1SLdR+Omw4hTGp/I=
+
+Name: whitefox/mozapps/plugins/pluginInstallerWizard.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Dfe907SqAEm8JPwG+ZPdDw==
+SHA1-Digest: gRbtB/vtNlqx/hWcoNY/fDzqjHw=
+
+Name: whitefox/mozapps/plugins/pluginProblem.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Umvi7N7oIzwPQd02D6nYwA==
+SHA1-Digest: OaBo9Rblv7SQA8xDwFm2ozpfrAc=
+
+Name: whitefox/mozapps/profile/profileicon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9a59iszv2DlRtGGRyuSwdg==
+SHA1-Digest: mmXLYG8pv7c+yPm/h2F9ibO2OLI=
+
+Name: whitefox/mozapps/profile/profileSelection.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KFT2d62BhMHFaYpL7jnrAw==
+SHA1-Digest: kKu4ScSam9tWHuaQSRFKaE8aq80=
+
+Name: whitefox/mozapps/update/downloadButtons.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pALTj97rCg0CFSndph7FkA==
+SHA1-Digest: O+I2CPscAb4KINpZmx+3HBx6IK4=
+
+Name: whitefox/mozapps/update/updates.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qtd1EvmPUjmO65oFV8/uLA==
+SHA1-Digest: kfyQpkcTIXgK/VjU7IxqImCWiCI=
+
+Name: whitefox/mozapps/viewsource/viewsource.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IfrJjCV5Wob0pS5JlgvB4A==
+SHA1-Digest: vTRl2wGs5WB64u0tlDzm5bzsHvw=
+
+Name: whitefox/mozapps/xpinstall/xpinstallConfirm.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dkG5ybMCT/1ap9aLGpN9pw==
+SHA1-Digest: n7OwTnZS3dylaHpugjCMSpSa7JY=
+
+Name: whitefox/mozapps/xpinstall/xpinstallItemGeneric.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 30LnHyamzLQUeU0Anuxj5Q==
+SHA1-Digest: 6G969clbdde5+KdvDNKpV9WNQvQ=
+
+Name: whitefox/ostarget/darwin/browser.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PwtRJBskTUmSWaahDUqG4g==
+SHA1-Digest: MqHQmAVWsgZob3HzI+iD/eEEsC8=
+
+Name: whitefox/ostarget/darwin/panelUIOverlay.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hvsde75xKFu1NEb6Dus7Hg==
+SHA1-Digest: IYV6kprevvWFJIm94ClfRVCzXek=
+
+Name: whitefox/ostarget/darwin/tab.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1dZw4PNKfWtCR5cSjNKt6g==
+SHA1-Digest: NRCxsBnGt4XNDGhI8oIsLZsv7es=
+
+Name: whitefox/ostarget/darwin/global/button.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DgNVmZZKr7jBYQMjEsygMg==
+SHA1-Digest: rg2gpCyO3HT8eSyUmWJ/bdlTLO4=
+
+Name: whitefox/ostarget/darwin/global/checkbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: l2Z5vUwoIlGhpt/EjZIXBA==
+SHA1-Digest: x15+7P9HPt0SdCvybHXA7BKNjek=
+
+Name: whitefox/ostarget/darwin/global/colorpicker.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 02gI7hO4BFmYpCKjKBPEJQ==
+SHA1-Digest: 1avThu3TMsv1APV58xvCXgpJmS0=
+
+Name: whitefox/ostarget/darwin/global/global.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cJwYdD5dKbF5wxDZ1ar9TQ==
+SHA1-Digest: qbYTBGhOwb+qhTJy+R3doj6rmDY=
+
+Name: whitefox/ostarget/darwin/global/groupbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DtoJJK2bm4kkHgKEuBF81w==
+SHA1-Digest: FSBeYrSYSu3xCvolv14A8qvlHaQ=
+
+Name: whitefox/ostarget/darwin/global/listbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: N7y1EjsQbIYFLzh5tyS0bw==
+SHA1-Digest: /Xzj/uWYIBVTItkD2g+hVngQc+M=
+
+Name: whitefox/ostarget/darwin/global/menu.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UIk/fw/TCYQPwV82P5zT3Q==
+SHA1-Digest: v0AixrgY25nBHgvqnckM/UfOmC0=
+
+Name: whitefox/ostarget/darwin/global/menulist.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2J3Pryl36u3QHGHd8KSdIA==
+SHA1-Digest: 1lw3DgT7ays6Dszx8ena8Vtd4tk=
+
+Name: whitefox/ostarget/darwin/global/numberbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PAQew+04y3nnpbNss1G6UQ==
+SHA1-Digest: rotid/bcyAtGVwVYUY0bv+D6oc0=
+
+Name: whitefox/ostarget/darwin/global/popup.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hNNe8LJdKduLDRIxIAoTdQ==
+SHA1-Digest: owYFzAn2W2Ev4RSRrVdOCH6443o=
+
+Name: whitefox/ostarget/darwin/global/radio.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uqogHb4d+t7vE0QEqXAMfQ==
+SHA1-Digest: eNR+q65VgdZIL7Qd2+5ek16NAz4=
+
+Name: whitefox/ostarget/darwin/global/resizer.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ktWg01VrISsBNxsB+Bthyw==
+SHA1-Digest: WW5tW9GPRqHAV0P7Mwq67syqBP0=
+
+Name: whitefox/ostarget/darwin/global/richlistbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FErX+d1S9SwUNtAW7W9Ijg==
+SHA1-Digest: JH6brnxjQB/v5B3mifpnDlT8C/0=
+
+Name: whitefox/ostarget/darwin/global/scrollbars.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8kfKooPV6mNgKXWeGKEfqQ==
+SHA1-Digest: +KyPKToznw55AZlkdSj6i7Cp6QQ=
+
+Name: whitefox/ostarget/darwin/global/scrollbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mnzhH5QkQ07OHx0pZR913g==
+SHA1-Digest: 28CC+n9ck1hzQxQtZXXobIufV5E=
+
+Name: whitefox/ostarget/darwin/global/tabbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Gsii7FfhjJt4Zj42s4nI3w==
+SHA1-Digest: wNGEpdzBlvIARtnlvcSKVOt7WxY=
+
+Name: whitefox/ostarget/darwin/global/toolbarbutton.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b5xX+MCpGcD9eZ28Z8eBAg==
+SHA1-Digest: sCwI4CGUGJiLa/sxNOr+uhfCza8=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-dn-dis.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dXvKv/PlVQCftp6RkN1mJg==
+SHA1-Digest: jtyblV3gk12k5ClW9BIDyv/lHII=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-dn-dis.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HM13lENL61IRN6xdg1ontg==
+SHA1-Digest: FDyiN7mvpN5fL6sb9JJgp0IwAhI=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-dn-sharp.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0iO0wbYGduV2FzPD5rINfA==
+SHA1-Digest: KML633iF9ZuS0jR5ICegBj1X2YQ=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-dn.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rVIH+Jpvh2VMyZz9/zGOZw==
+SHA1-Digest: +BG2XafJF11n8sHEzvI3b0Xm4es=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-dn.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vm7r2hvphM1gPFE9z+V6Lg==
+SHA1-Digest: VWqip018SrPwj1S9izcRWqcUNN4=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-lft-dis.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dzMZN5QJWENTqQXyj4s+ug==
+SHA1-Digest: Yq5UPNeYMEZcyUmyoS8O0wpNLGE=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-lft-hov.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: anFv6hcATaYjpydVn1ROlw==
+SHA1-Digest: 0E0zoj5/MG8vSlsVmq9oqaFtf0U=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-lft-sharp-end.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F141u5ve2kM4UUUkZimZtg==
+SHA1-Digest: 19ZaWqsZNZwzdVJAaJXdnXAvwBs=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-lft-sharp.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qjBxAn4ZA8ExCfjPllb9cw==
+SHA1-Digest: B7PgIJupG6dxQcdN6VkOpwyWuik=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-lft.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Cl8E7BXwk5FmHYZSoPpMkQ==
+SHA1-Digest: 1oCaoyC22LTUGeiicAMmWjhYpNY=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-rit-dis.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KFscwkxyvJ53ymnZmDM/Mw==
+SHA1-Digest: 1hFWrL/d2V+MhPFVYo9WUA+XE8M=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-rit-hov.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ySB1ezbJNLMP0rtlkAmlUQ==
+SHA1-Digest: z/3Jp4DcJx5MbJ55GEEjBguRs+M=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-rit-sharp-end.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e/Y2ClxEHWS7bYI1okAE/A==
+SHA1-Digest: olYfIanN2yDty2TFwLeR5QIotfk=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-rit-sharp.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: O2T7QeCYxDH4m8Gc+cGvMQ==
+SHA1-Digest: mKEpTsFST5SLXTCZQU6Zkk22npo=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-rit.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: E7odAdMxkjSx/4XaL5n8sA==
+SHA1-Digest: Vb7WQs65jXjkCdpBswDEsCpuoi0=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-up-dis.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DnIcFwhkSqsqRudXoomBaQ==
+SHA1-Digest: O4k/UvBVo+eS8lDkWULD2t/hcHc=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-up-sharp.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Y2BeO8Nf6CmTSM5Y0SPJLw==
+SHA1-Digest: rswHCZOhDfIJHf0rfRi9vh951BQ=
+
+Name: whitefox/ostarget/darwin/global/arrow/arrow-up.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HnIW7gB6VmqoBVSjfKAP4w==
+SHA1-Digest: kq5pzhSHNybWYMxE5LLCq5dxj1s=
+
+Name: whitefox/ostarget/darwin/global/arrow/panelarrow-light-horizontal.
+ png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v0A6VGT1f6Kg4oi7s00eqQ==
+SHA1-Digest: 4aMUGKJBcEObQ9mW3jaGZ2AGpy8=
+
+Name: whitefox/ostarget/darwin/global/arrow/panelarrow-light-horizontal@
+ 2x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wNiPsW+K4up0z2HCEuM3yg==
+SHA1-Digest: 2PsnFGCLJyEfr9EDmejMuiW+lTs=
+
+Name: whitefox/ostarget/darwin/global/arrow/panelarrow-light-vertical.pn
+ g
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +3GQ8SdhgqOPTLikuIqvIA==
+SHA1-Digest: APEVwz7Iqraue4NHP5ywPjg21Fg=
+
+Name: whitefox/ostarget/darwin/global/arrow/panelarrow-light-vertical@2x
+ .png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BiKMtps3iA+gKbF18Z38dw==
+SHA1-Digest: d17BtbZ4xw/Fv4P1srIbRd/PTOc=
+
+Name: whitefox/ostarget/darwin/global/in-content/common.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PgWJtRhLZ2yPogzPAVMhgg==
+SHA1-Digest: M3hnQiBBEUxfxTxdASSZM9Cah1A=
+
+Name: whitefox/ostarget/general/browser.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BDO+h1JNFSTpip8GpgBqyA==
+SHA1-Digest: pXbvi3lK0arAC9QvBItaMjlnOKU=
+
+Name: whitefox/ostarget/general/panelUIOverlay.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UU3ialyRHe+1ouVj74xuLQ==
+SHA1-Digest: Uby31wpyLJJdZsdYyqfUROPCw7M=
+
+Name: whitefox/ostarget/general/global/button.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3vwWqKqSmfgAte9oW02pfw==
+SHA1-Digest: CVR9KNyLCfVXhZpVD/46SiGEJos=
+
+Name: whitefox/ostarget/general/global/checkbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: E3sZVeeKOaixxqgKkcR2hQ==
+SHA1-Digest: KkHddm4PxGuW2CshcuB2npO+FAk=
+
+Name: whitefox/ostarget/general/global/colorpicker.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6pMa4Q/2tupVRZeM42q37Q==
+SHA1-Digest: zI27iPCJ58dvsDRRTlQMi/u7lhE=
+
+Name: whitefox/ostarget/general/global/global.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZVUPyIACt/sRLCGtNctDCA==
+SHA1-Digest: AC9JVtxtKEUyzGdwzxtZlFiiVjI=
+
+Name: whitefox/ostarget/general/global/groupbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NJOZxTmh/H5fCf51avBRkg==
+SHA1-Digest: n85/k+y5rvvlywBp3R/8+j856IE=
+
+Name: whitefox/ostarget/general/global/listbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CL1j/M7HLt5Q3vH3F3vEiA==
+SHA1-Digest: wEIftOlPgafwYYK0NUAUQ6fSyPo=
+
+Name: whitefox/ostarget/general/global/menu.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rSLJ9fnsZNPaPxuJ/A2KBw==
+SHA1-Digest: W1cOZS0AyVOypoV9e037xOnOPk4=
+
+Name: whitefox/ostarget/general/global/menulist.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Km/SR7LFRwEw6qikE/lodg==
+SHA1-Digest: blXPQHXanFwel8XvPE3ciKeIQ9o=
+
+Name: whitefox/ostarget/general/global/numberbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hZ8kDAppvLbWgnxvv1K/4w==
+SHA1-Digest: sv8acDilyGGlJPvC0Gp+ZUTgEso=
+
+Name: whitefox/ostarget/general/global/popup.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cYp+PgbqOtyPDl9itz8tuQ==
+SHA1-Digest: seCNNWdSjuwytwkAq6S4tTpN3oU=
+
+Name: whitefox/ostarget/general/global/radio.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nloU+iksK3caIxGX7//zIw==
+SHA1-Digest: VMr3uM6sXUSLlgRqNJE8NqUnvQ0=
+
+Name: whitefox/ostarget/general/global/resizer.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: T1XuWRZg/TrODarTxRfPNw==
+SHA1-Digest: u69/424ToOxpVBFy8vBDbPslQMI=
+
+Name: whitefox/ostarget/general/global/richlistbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rF2IUCk1CxXHVnJEKrq8Vw==
+SHA1-Digest: /gXRY+nUoDMRPJ3dnDtVFBB+E0k=
+
+Name: whitefox/ostarget/general/global/scrollbars.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dNaRLpfYK7rk+5xv2hSC0A==
+SHA1-Digest: JCe578WCkEebMNwOQwyOhRmG9js=
+
+Name: whitefox/ostarget/general/global/scrollbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /cHgmVdmNwrPSZTUUeRqfw==
+SHA1-Digest: oryZibS4zPp55jb4rZoMgjkjgcw=
+
+Name: whitefox/ostarget/general/global/tabbox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LIXIDRoUkzzzVXkdaw8GaQ==
+SHA1-Digest: EP9Gz3XelKfRpL4V4rhN4NnWdY0=
+
+Name: whitefox/ostarget/general/global/toolbarbutton.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Sib9azfrRAz2wgX/SQ2rEw==
+SHA1-Digest: 6SpfPwmiq74T0KaTzyZ7ca37Zzo=
+
+Name: whitefox/ostarget/general/global/in-content/common.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 55bYTQnxr1SHNgX6WjQ+WA==
+SHA1-Digest: fM636TkzX7EYrMLHvZWvfngRAQw=
+
+Name: whitefox/ostarget/sunos/browser.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Kt7ePk6Ilz6fo1dvk6Yc5Q==
+SHA1-Digest: bNcT4s4NIU6y4sc7+GIzstEKoSw=
+
+Name: whitefox/ostarget/win/browser.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5+KqsmodV8pP/P6YuuRwaA==
+SHA1-Digest: wRtDTK7RKbHyIEqcExkE6u+9HZY=
+
+Name: LICENSE
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LdGp7Pks1WF/EogI+bhbRA==
+SHA1-Digest: eEcBN1SRMJIx5tJoUMQQ42wkbRU=
+

@@ -1,0 +1,15 @@
+skin browser simplewhitex whitefox/browser/
+skin mozapps simplewhitex whitefox/mozapps/
+skin global simplewhitex whitefox/global/
+
+skin ostarget simplewhitex whitefox/ostarget/general/
+skin ostarget simplewhitex whitefox/ostarget/darwin/ os=Darwin
+
+skin osbrowser simplewhitex whitefox/ostarget/general/
+skin osbrowser simplewhitex whitefox/ostarget/darwin/ os=Darwin
+skin osbrowser simplewhitex whitefox/ostarget/win/ os=WINNT
+skin osbrowser simplewhitex whitefox/ostarget/sunos/ os=SunOS
+
+skin apptarget simplewhitex whitefox/apptarget/33/ appversion>=33.0a1
+skin apptarget simplewhitex whitefox/apptarget/38/ appversion>=38.0a1
+skin apptarget simplewhitex whitefox/apptarget/39/ appversion>=39.0a1

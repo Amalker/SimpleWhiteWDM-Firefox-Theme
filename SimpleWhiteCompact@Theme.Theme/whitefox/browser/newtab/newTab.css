@@ -1,0 +1,545 @@
+/* This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
+ 
+:root {
+  -moz-appearance: none;
+  font-size: 75%;
+  background-color: transparent;
+}
+
+/* SCROLLBOX */
+#newtab-scrollbox:not([page-disabled]) {
+  color: rgb(0,0,0);
+  background-color: rgb(250,250,250);
+}
+
+#newtab-scrollbox:not([page-disabled]) #newtab-margin-bottom {
+  background: inherit;
+}
+
+/* UNDO */
+#newtab-undo-container {
+  padding: 4px 3px;
+  border: 1px solid;
+  border-color: rgba(0,0,0,.09);
+  background-color: rgba(255,255,255,.4);
+  color: #6a6a6a;
+}
+
+#newtab-undo-label {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.newtab-undo-button {
+  -moz-appearance: none;
+  cursor: pointer;
+  padding: 0;
+  margin: 0 4px;
+  border: 0;
+  background: transparent;
+  text-decoration: none;
+  min-width: 0;
+}
+
+.newtab-undo-button:hover {
+  text-decoration: underline;
+}
+
+.newtab-undo-button:-moz-focusring {
+  outline: 1px dotted;
+}
+
+#newtab-undo-close-button {
+  -moz-appearance: none;
+  padding: 0;
+  border: none;
+}
+
+#newtab-undo-close-button:-moz-focusring {
+  outline: 1px dotted;
+}
+
+/* CUSTOMIZE */
+#newtab-customize-button,
+.newtab-customize {
+  background-color: transparent;
+  background-image: -moz-image-rect(url(chrome://browser/skin/newtab/controls.svg), 0, 32, 32, 0);
+  background-size: 32px;
+  border: none;
+  height: 28px;
+  width: 28px;
+}
+
+#newtab-customize-button:-moz-any(:hover, :active, [active]) {
+  background-image: -moz-image-rect(url(chrome://browser/skin/newtab/controls.svg), 0, 64, 32, 32);
+}
+
+/* GRID 3D */
+#newtab-grid {
+  backface-visibility: hidden;
+  perspective: 1000px;
+  padding-bottom: 12px;
+}
+#newtab-grid[locked] {
+  perspective: none;
+}
+
+/* CELLS */
+.newtab-cell {
+  transform: rotateX(-8deg);
+  transform-origin: 0 0;
+  transition: 250ms;
+}
+.newtab-cell:hover:not(:empty) {
+  transform: rotateX(-8deg) translateY(-9px);
+  transition: 250ms;
+}
+
+#newtab-grid[locked] > .newtab-cell {
+  transform: none;
+  transform-origin: 50% 50% 0;
+  transition: none;
+}
+#newtab-grid:not([locked]) .newtab-site[frozen] {
+  position: relative;
+}
+
+.newtab-cell:empty {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+}
+
+/*.newtab-cell:hover:not(:empty):not([dragged]):not([ignorehover]) {
+}*/
+
+/* SITES */
+.newtab-site {
+  text-decoration: none;
+  transition-property: top, left, opacity, box-shadow, background-color;
+  transition-duration: 150ms;
+  transition-timing-function: ease-in-out;
+  background-color: rgba(255,255,255,1);
+  box-shadow: 0 20px 17px rgba(0,0,0,.15);
+  transition: top 1ms, left 1ms, box-shadow 150ms;
+  /*transition: box-shadow 200ms ease-out;*/
+}
+
+#newtab-grid[locked] .newtab-site:not([dragged]){
+  transition: top 300ms, left 300ms;
+}
+
+.newtab-site:hover {
+  box-shadow: 0 29px 17px rgba(0,0,0,.12);
+}
+
+.newtab-site[dragged] {
+  transition: box-shadow 200ms ease-out;
+  box-shadow: 0 20px 17px rgba(0,0,0,.3);
+}
+
+/* THUMBNAILS */
+.newtab-thumbnail {
+  background-origin: padding-box;
+  background-clip: padding-box;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: inherit;
+  opacity: 1;
+}
+
+.newtab-site{
+  background-color: transparent;
+}
+.newtab-site:hover .newtab-thumbnail.enhanced-content,
+.newtab-cell:not([ignorehover]) .newtab-site:hover .newtab-thumbnail.enhanced-content {
+  opacity: 0;
+}
+.newtab-thumbnail:first-child{
+  background-color: #FFF;
+}
+.newtab-site[type=affiliate] .newtab-thumbnail,
+.newtab-site[type=enhanced] .newtab-thumbnail,
+.newtab-site[type=organic] .newtab-thumbnail,
+.newtab-site[type=sponsored] .newtab-thumbnail {
+  background-position: center center;
+  background-size: auto;
+}
+
+.newtab-link{
+  background-color: transparent;
+}
+
+/* TITLES */
+.newtab-title {
+  color: #000;
+  background: none;
+  bottom: 0;
+  height: 27px;
+  font-size: 12px;
+  line-height: 24px;
+  text-align: center;
+  opacity: 0;
+  z-index: -1;
+  transition: opacity 100ms ease-out;
+}
+.newtab-site:not([dragged]):hover .newtab-title {
+  opacity: 1;
+  transition: opacity 100ms ease-in;
+  bottom: -27px;
+}
+
+.newtab-sponsored{
+  z-index: -1;
+  top:-15px;
+}
+.newtab-site:not([dragged]):hover .newtab-sponsored{
+  top: 11px;
+}
+
+#newtab-grid[locked] .newtab-sponsored,
+#newtab-grid[locked] .newtab-title,
+#newtab-grid[locked] .newtab-suggested{
+  visibility: hidden;
+}
+
+.newtab-suggested:hover {
+  color: #588FE4;
+  border: 1px solid #588FE4;
+}
+.newtab-site:not([dragged]):hover .newtab-suggested{
+  top: 231px;
+  top: calc(100% + 26px);
+}
+.newtab-suggested[active] {
+  background-color: rgba(51, 51, 51, 0.95);
+  border: 0;
+  color: white;
+}
+
+.newtab-suggested {
+  background-color: white;
+  top: 205px;
+  top: calc(100%);
+}
+
+/*.newtab-site[pinned] .newtab-title {
+  padding: 0 15px;
+}
+
+.newtab-site[pinned] .newtab-title::before {
+  background-image: -moz-image-rect(url("chrome://browser/skin/newtab/controls.svg"), 7, 278, 28, 266);
+  background-size: 10px;
+  content: "";
+  height: 17px;
+  left: 0;
+  position: absolute;
+  width: 10px;
+}
+
+.newtab-site[pinned] .newtab-title:-moz-locale-dir(rtl)::before {
+  left: auto;
+  right: 0;
+}*/
+
+/* CONTROLS */
+.newtab-control {
+  background-color: transparent;
+  background-size: 24px;
+  border: none;
+  height: 26px;
+  width: 24px;
+}
+
+.newtab-control-pin,
+.newtab-site[pinned] .newtab-control-pin:hover:active {
+  background-image: -moz-image-rect(url(chrome://browser/skin/newtab/controls.svg), 0, 96, 33, 64);
+}
+
+.newtab-control-pin:hover,
+.newtab-site[pinned] .newtab-control-pin:hover {
+  background-image: -moz-image-rect(url(chrome://browser/skin/newtab/controls.svg), 0, 160, 33, 128);
+}
+
+.newtab-control-pin:hover:active,
+.newtab-site[pinned] .newtab-control-pin {
+  background-image: -moz-image-rect(url(chrome://browser/skin/newtab/controls.svg), 0, 128, 33, 96);
+}
+
+.newtab-control-block {
+  background-image: -moz-image-rect(url(chrome://browser/skin/newtab/controls.svg), 0, 192, 33, 160);
+}
+
+.newtab-control-block:hover {
+  background-image: -moz-image-rect(url(chrome://browser/skin/newtab/controls.svg), 0, 224, 33, 192);
+}
+
+.newtab-control-block:hover:active {
+  background-image: -moz-image-rect(url(chrome://browser/skin/newtab/controls.svg), 0, 256, 33, 224);
+}
+
+
+.newtab-undo-button {
+  color: rgb(0,102,204);
+}
+
+.newtab-undo-button > .button-box {
+  padding: 0;
+}
+
+/* SEARCHBAR -Louis */
+
+[dir="auto"]:-moz-dir(ltr){ /* [dir="auto"]:-moz-dir(ltr) seems to apply even on Firefox with rtl locales! --johnGraciliano */
+  direction: inherit;       /* Therefore keep the direction that from the ancestor. --johnGraciliano */
+}
+
+#newtab-search-form {
+  margin-bottom: 40px;
+}
+
+#newtab-search-logo#newtab-search-logo,
+#newtab-search-icon#newtab-search-icon{
+  display: block;
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  height: 32px;
+  width: 30px;
+  background: url(chrome://browser/skin/newtab/newTab-search.svg#lens-plain) no-repeat 5.25px 5.25px;
+  border: 1px solid #DEDEDE;
+  -moz-border-end: none;
+  border-radius: 5px 0 0 5px;
+}
+#newtab-search-logo#newtab-search-logo:-moz-locale-dir(rtl),
+#newtab-search-icon#newtab-search-icon:-moz-locale-dir(rtl),
+#newtab-search-logo#newtab-search-logo:-moz-dir(rtl),
+#newtab-search-icon#newtab-search-icon:-moz-dir(rtl){
+  background-position: 2.25px 5.25px;
+  border-radius: 0 5px 5px 0;
+}
+#newtab-search-logo#newtab-search-logo:hover,
+#newtab-search-logo#newtab-search-logo:active{
+  background-image: url(chrome://browser/skin/newtab/newTab-search.svg#lens-hover);
+}
+
+#newtab-search-text#newtab-search-text{
+  height: 32px;
+  margin: 0 -30px;
+  padding: 0 2px;
+  border: 1px solid #DEDEDE;
+  border-radius: 5px;
+  border-left: 30px solid #FFF;
+  border-right: 30px solid #FFF;
+  background: #FFF;
+  box-shadow: none;
+}
+#newtab-search-text::-moz-placeholder {
+  font-style: italic;
+}
+
+#newtab-search-submit#newtab-search-submit{
+  height: 32px;
+  max-height: 32px;
+  font-size: 0px !important;
+  width: 30px;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  background: url(chrome://browser/skin/newtab/newTab-search.svg#go-plain)  no-repeat  center center;
+  border: 1px solid #DEDEDE;
+  -moz-border-start: none;
+  border-radius: 0 5px 5px 0;
+  box-shadow: none;
+}
+#newtab-search-submit#newtab-search-submit:-moz-locale-dir(rtl),
+#newtab-search-submit#newtab-search-submit:-moz-dir(rtl){
+  background-image: url(chrome://browser/skin/newtab/newTab-search.svg#go-rtl-plain);
+  border-radius: 5px 0 0 5px;
+}
+#newtab-search-text + #newtab-search-submit#newtab-search-submit:hover,
+#newtab-search-text + #newtab-search-submit#newtab-search-submit:active,
+#newtab-search-text:focus + #newtab-search-submit#newtab-search-submit,
+#newtab-search-text[keepfocus="true"] + #newtab-search-submit#newtab-search-submit,
+#newtab-search-text[aria-expanded="true"] + #newtab-search-submit#newtab-search-submit{
+  background: url(chrome://browser/skin/newtab/newTab-search.svg#go-hover)  no-repeat  center center;
+  border: 1px solid #DEDEDE;
+  -moz-border-start: none;
+  box-shadow: none;
+}
+#newtab-search-text + #newtab-search-submit#newtab-search-submit:-moz-locale-dir(rtl):hover,
+#newtab-search-text + #newtab-search-submit#newtab-search-submit:-moz-locale-dir(rtl):active,
+#newtab-search-text:focus + #newtab-search-submit#newtab-search-submit:-moz-locale-dir(rtl),
+#newtab-search-text[keepfocus="true"] + #newtab-search-submit#newtab-search-submit:-moz-locale-dir(rtl),
+#newtab-search-text[aria-expanded="true"] + #newtab-search-submit#newtab-search-submit:-moz-locale-dir(rtl),
+#newtab-search-text + #newtab-search-submit#newtab-search-submit:-moz-dir(rtl):hover,
+#newtab-search-text + #newtab-search-submit#newtab-search-submit:-moz-dir(rtl):active,
+#newtab-search-text:focus + #newtab-search-submit#newtab-search-submit:-moz-dir(rtl),
+#newtab-search-text[keepfocus="true"] + #newtab-search-submit#newtab-search-submit:-moz-dir(rtl),
+#newtab-search-text[aria-expanded="true"] + #newtab-search-submit#newtab-search-submit:-moz-dir(rtl){
+  background-image: url(chrome://browser/skin/newtab/newTab-search.svg#go-rtl-hover);
+}
+
+.searchSuggestionTable {
+  -moz-margin-start: 23px;
+  background-color: rgba(255, 255, 255, .97);
+  border: none;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, .2);
+}
+#searchSuggestionTable{
+  margin-left: 0;
+}
+/* Firefox 37 - 41 will not stretch the search results table to the left on rtl locales, so no stretching at all --johnGraciliano */
+.searchSuggestionTable[style*="left"]:-moz-locale-dir(rtl){ 
+  max-width: 0 !important; /*This has to be important! to overide the setting from the xml code --johnGraciliano */
+}
+/* Correct the stretching direction for the results table for rtl locales for newer versions of Firefox --johnGraciliano */
+/* body[dir=rtl] .contentSearchSuggestionTable:not([style*="left"]){ */
+.contentSearchSuggestionTable:-moz-dir(rtl){
+  left: auto;
+  right: 0;
+}
+
+.contentSearchHeaderRow > td > img,
+.contentSearchSuggestionRow > td > .historyIcon{
+  margin-right: 0;
+  -moz-margin-end: 8px;
+}
+.contentSearchOneOffItem:-moz-dir(rtl) {
+  background-position: left center;
+}
+
+#searchSuggestionTable > tr.searchSuggestionRow > :first-child {
+  padding-left: 0;
+  -moz-padding-start: 31px;
+}
+
+
+#newtab-search-manage > label { /* To fix some uglyness in Firefox 40+ */
+  line-height: normal;
+}
+
+
+/* NEW TAB CONTROLS -johngraciliano */
+#newtab-customize-panel:-moz-locale-dir(ltr){  /* This is for Firefox 40 and before only to reposition a static element */
+  margin: -3px 0 0 -21px;
+}
+.newtab-customize-panel-container{ /* Affects Firefox 41+ */
+  margin-right: 34px;
+}
+.newtab-customize-panel-container #newtab-customize-panel{  /* Affects Firefox 41+ */
+  margin: 45px 0 0 0;
+}
+
+.newtab-customize-panel-item,
+.newtab-customize-complex-option{
+  background-color: transparent;
+}
+#newtab-customize-learn{
+  background-color: hsla(210,4%,10%,.07);
+
+}
+#newtab-customize-learn:hover{
+  background-color: hsla(210,4%,10%,.14);
+  color: #000;
+}
+
+
+#newtab-customize-overlay{
+  display: none !important;
+}
+#newtab-customize-panel{
+  min-width: 160px;
+  white-space: nowrap;
+}
+#newtab-customize-panel:nth-child(+4) .panel-arrowcontent { /* This should only affect Firefox 40 */
+  border-radius: 6px;
+}
+#newtab-customize-title{ /* This is for Firefox 40-41 */
+  display: block; /* This is for FireFox 41 */
+  border-radius: 5px 5px 0 0;
+}
+#newtab-customize-learn{ /* This is for Firefox 40-41 */
+  border-radius: 0 0 5px 5px;
+}
+#newtab-customize-title,
+#newtab-customize-learn:not(:hover){
+  color: black;
+}
+#newtab-customize-title,
+#newtab-customize-classic:first-child,
+#newtab-customize-enhanced:nth-child(+2),
+#newtab-customize-title ~ #newtab-customize-blank,
+#newtab-customize-learn{
+  padding: 10px;
+  -moz-padding-start: 30px;
+  line-height: initial;
+}
+#newtab-customize-title{
+  -moz-padding-start: 10px;
+}
+#newtab-customize-classic:first-child{
+  padding-bottom: 7px;
+}
+#newtab-customize-enhanced:nth-child(+2){
+  padding-top: 0;
+}
+#newtab-customize-enhanced:nth-child(+2) > .checkbox {
+  display: inline-block;
+  position: relative;
+  box-sizing: border-box;
+  height: 13px;
+  width: 13px;
+  padding: 0;
+  -moz-margin-end: -3px;
+  background: transparent;
+}
+.newtab-customize-panel-item[selected]:-moz-locale-dir(rtl){ /* For rtl locale in Firefox 38 (39 and before?) --johnGraciliano */
+  background-position: right 4px center;
+}
+#newtab-customize-enhanced:nth-child(+2)[selected] .checkbox::after{
+  content:"";
+  display:block;
+  position: relative;
+  width:16px;
+  height: 16px;
+  background: url("chrome://global/skin/menu/shared-menu-check.png") no-repeat transparent;
+  background-size: 16px 16px;
+  top: -5px;
+  left: 0px;
+}
+#newtab-customize-enhanced:nth-child(+2)[selected] .checkbox:-moz-locale-dir(rtl)::after,
+#newtab-customize-enhanced:nth-child(+2)[selected] .checkbox:-moz-dir(rtl)::after{
+  left: 6px;
+}
+#newtab-customize-classic:first-child[selected],
+#newtab-customize-title ~ #newtab-customize-blank[selected]{
+  background: url("chrome://global/skin/menu/shared-menu-check.png") no-repeat transparent;
+  background-size: 16px 16px;
+  background-position: left 12px center;
+  color: black;
+  font-weight: 600;
+}
+#newtab-customize-classic:first-child[selected]:-moz-locale-dir(rtl),
+#newtab-customize-title ~ #newtab-customize-blank[selected]:-moz-locale-dir(rtl),
+#newtab-customize-classic:first-child[selected]:-moz-dir(rtl),
+#newtab-customize-title ~ #newtab-customize-blank[selected]:-moz-dir(rtl){
+  background-position: right 12px center;
+}
+.newtab-customize-complex-option:hover #newtab-customize-classic:first-child:not([selected]),
+#newtab-customize-title ~ #newtab-customize-blank:hover:not([selected]){
+  background: transparent;
+}
+#newtab-customize-learn label::before{
+  display:inline-block;
+  content:"";
+  width:16px;
+  height: 16px;
+  background: url("chrome://browser/skin/menuPanel-help.png") no-repeat transparent;
+  background-size: cover;
+  margin:-3px 5px;
+  -moz-margin-start: -21px;
+}
+#newtab-customize-learn:hover label::before{
+  background-position: -16px 0;
+}
